@@ -1,8 +1,0 @@
-2025-02-13 18:29:27.491 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|231ce676-e88e-4520-8553-bb57701b22201739467756066)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-02-13 18:29:27.491 [info] [2025-02-13 17:29:26.630] [GIT    *726ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-parse --show-toplevel [*726ms] (slow)
-
-2025-02-13 18:29:31.173 [info] [2025-02-13 17:29:31.133] [GIT    *622ms] [/home/juanluis/git-repositories/TFM-BigData] git ls-files -- apuntes/ApuntesLennard.tex [*622ms] (slow)
-[2025-02-13 17:29:31.134] [GIT    *654ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-list --max-parents=0 HEAD -- [*654ms] (slow)
-

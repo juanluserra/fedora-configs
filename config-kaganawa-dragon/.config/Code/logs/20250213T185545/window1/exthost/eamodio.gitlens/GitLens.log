@@ -1,5 +1,0 @@
-2025-02-13 18:55:54.617 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|ae182c57-3799-4c40-8d3c-d729781ba0ee1739469346689)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-02-13 18:55:57.500 [info] [2025-02-13 17:55:57.496] [GIT    *513ms] [/home/juanluis/git-repositories/TFM-BigData] git remote -v [*513ms] (slow)
-

@@ -1,8 +1,0 @@
-[Common]
-OutlineIntensity=OutlineMaximum
-ShadowSize=ShadowNone
-
-[Windeco]
-ButtonSize=ButtonLarge
-DrawBackgroundGradient=true
-DrawBorderOnMaximizedWindows=true

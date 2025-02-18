@@ -1,8 +1,0 @@
-[gidmigratortext/directory]
-MigrationState=Complete
-
-[googleresourcemigrator]
-MigrationState=Complete
-
-[icalcategoriestotagsmigrator]
-MigrationState=Complete
