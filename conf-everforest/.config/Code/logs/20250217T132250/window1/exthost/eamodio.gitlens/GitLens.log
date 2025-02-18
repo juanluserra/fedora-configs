@@ -1,0 +1,17 @@
+2025-02-17 13:23:04.564 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|f5f6a2d0-ae05-49d4-afdc-7597debae80d1739794971894)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-02-17 13:25:49.327 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|588be4bc-b448-4140-ac61-8485a85fd1561739795139098)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-02-17 12:25:49.010] [GIT   *1234ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-parse --show-toplevel [*1234ms] (slow)
+
+2025-02-17 13:25:52.336 [info] [2025-02-17 12:25:51.911] [GIT   *2319ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-list --max-parents=0 HEAD -- [*2319ms] (slow)
+
+2025-02-17 13:25:54.272 [info] [2025-02-17 12:25:54.235] [GIT    *867ms] [/home/juanluis/git-repositories/TFM-BigData] git blame --root --incremental -- apuntes/ApuntesLennard.tex [*867ms] (slow)
+[2025-02-17 12:25:54.235] [GIT    *901ms] [/home/juanluis/git-repositories/TFM-BigData] git config --get-regex ^user\. [*901ms] (slow)
+
+2025-02-17 13:25:55.251 [info] [2025-02-17 12:25:55.244] [GIT   *1008ms] [/home/juanluis/git-repositories/TFM-BigData] git check-mailmap juanluserra <juanlu.serradilla@gmail.com> [*1008ms] (slow)
+
+2025-02-17 13:27:55.522 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|211c9c2d-0ecb-4c0e-a314-e273cd23d4351739795263392)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+

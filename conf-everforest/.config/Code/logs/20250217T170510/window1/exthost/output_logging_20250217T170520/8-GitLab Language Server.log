@@ -1,0 +1,16 @@
+2025-02-17T17:05:48:835 [info]: fetch: Detected no proxy settings
+2025-02-17T17:05:48:843 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-17T17:05:48:924 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-17T17:05:48:925 [info]: Applying 2 endpoints to connection.
+2025-02-17T17:05:48:961 [info]: [HttpServer]: server listening on http://127.0.0.1:37939/
+2025-02-17T17:05:48:963 [info]: GitLab Language Server has started
+2025-02-17T17:05:48:973 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:48:990 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:48:991 [info]: [RepositoryService] Detected repository at file:///home/juanluis/git-repositories/master_bigdata/.git/config
+2025-02-17T17:05:48:992 [info]: [RepositoryService] Detected 1 repositories for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:48:992 [info]: [RepositoryService] Adding repository file:///home/juanluis/git-repositories/master_bigdata to workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:48:993 [info]: [RepositoryService] Added 1 repositories to workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:49:007 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:49:075 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-17T17:05:49:075 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-17T17:05:50:278 [info]: [VirtualFileSystemService] Registering watchers

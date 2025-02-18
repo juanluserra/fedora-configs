@@ -1,0 +1,56 @@
+[17:05:21.826][Logger] New log placeholder %WS1% registered for /home/juanluis/git-repositories/master_bigdata .
+[17:05:21.826][Extension] Initializing LaTeX Workshop.
+[17:05:22.673][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[17:05:22.675][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[17:05:22.844][Server] Creating LaTeX Workshop http and websocket server.
+[17:05:23.422][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[17:05:23.649][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":36495} .
+[17:05:24.037][Extension] Extension root: /home/juanluis/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[17:05:24.038][Extension] $PATH: /home/juanluis/.atuin/bin:/home/juanluis/.local/bin:/home/juanluis/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:/usr/lib/jvm/jdk-17.0.12/bin
+[17:05:24.039][Extension] $SHELL: /usr/bin/zsh
+[17:05:24.044][Extension] $LANG: es_ES.UTF-8
+[17:05:24.046][Extension] $LC_ALL: undefined
+[17:05:24.047][Extension] process.platform: linux
+[17:05:24.048][Extension] process.arch: x64
+[17:05:24.053][Extension] vscode.env.appName: Visual Studio Code
+[17:05:24.055][Extension] vscode.env.remoteName: undefined
+[17:05:24.056][Extension] vscode.env.uiKind: 1
+[17:05:24.110][Config] latex-workshop.latex.outDir: "%DIR%/build" .
+[17:05:24.561][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[17:05:24.570][Root] Current workspace folders: ["file://%WS1%"]
+[17:05:24.571][Root] Try finding root from magic comment.
+[17:05:24.572][Extension] LaTeX Workshop initialized.
+[17:05:24.574][Root] Try finding root from active editor.
+[17:05:24.577][Root] Found root file from active editor: %WS1%/IOT/apuntes.tex
+[17:05:24.579][Root] Root file changed: from %WS1%/IOT/apuntes.tex to %WS1%/IOT/apuntes.tex, langID latex . Refresh dependencies
+[17:05:24.579][Event] ROOT_FILE_CHANGED: "%WS1%/IOT/apuntes.tex"
+[17:05:24.582][Cacher][Watcher] Reset.
+[17:05:24.582][Cacher][Watcher] Reset.
+[17:05:24.604][Cacher] Adding %WS1%/IOT/apuntes.tex .
+[17:05:24.613][Cacher][Watcher] Watched file://%WS1%/IOT/apuntes.tex with a new .* watcher on %WS1%/IOT .
+[17:05:24.614][Event] FILE_WATCHED: "file://%WS1%/IOT/apuntes.tex"
+[17:05:24.623][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[17:05:24.627][Event] ROOT_FILE_SEARCHED
+[17:05:24.632][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[17:05:24.633][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[17:05:24.863][Cacher] Parsed LaTeX AST in 228.94 ms: %WS1%/IOT/apuntes.tex .
+[17:05:24.868][File] Calling kpsewhich to resolve article.cls .
+[17:05:25.815][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls'.
+[17:05:25.854][Server] validOrigin is http://127.0.0.1:36495
+[17:05:29.437][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:36495/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZqdWFubHVpcyUyRmdpdC1yZXBvc2l0b3JpZXMlMkZtYXN0ZXJfYmlnZGF0YSUyRklPVCUyRmJ1aWxkJTJGYXB1bnRlcy5wZGY .
+[17:05:29.445][Cacher][Watcher] Watched file://%WS1%/IOT/build/apuntes.pdf with a new .pdf watcher on %WS1%/IOT/build .
+[17:05:29.446][Event] FILE_WATCHED: "file://%WS1%/IOT/build/apuntes.pdf"
+[17:05:47.451][File] Calling kpsewhich to resolve -format=.bib test.bib .
+[17:05:47.754][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib'.
+[17:05:47.756][Cacher] Updated elements in 22892.01 ms: %WS1%/IOT/apuntes.tex .
+[17:05:47.757][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[17:05:47.763][Structure] Structure force updated with 0 root sections for %WS1%/IOT/apuntes.tex .
+[17:05:47.763][Event] STRUCTURE_UPDATED
+[17:05:47.764][Structure] Structure updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[17:05:47.765][Event] STRUCTURE_UPDATED
+[17:05:47.961][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[17:05:50.562][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[17:05:50.800][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[17:05:50.801][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[17:06:20.011][Cacher][Watcher] Reset.
+[17:06:20.011][Cacher][Watcher] Reset.

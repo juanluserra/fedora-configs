@@ -1,0 +1,16 @@
+2025-02-17T13:25:52:978 [info]: fetch: Detected no proxy settings
+2025-02-17T13:25:53:000 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-17T13:25:53:189 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-17T13:25:53:190 [info]: Applying 2 endpoints to connection.
+2025-02-17T13:25:53:267 [info]: [HttpServer]: server listening on http://127.0.0.1:41761/
+2025-02-17T13:25:53:272 [info]: GitLab Language Server has started
+2025-02-17T13:25:53:286 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:307 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:308 [info]: [RepositoryService] Detected repository at file:///home/juanluis/git-repositories/TFM-BigData/.git/config
+2025-02-17T13:25:53:311 [info]: [RepositoryService] Detected 1 repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:311 [info]: [RepositoryService] Adding repository file:///home/juanluis/git-repositories/TFM-BigData to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:312 [info]: [RepositoryService] Added 1 repositories to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:328 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T13:25:53:424 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-17T13:25:53:424 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-17T13:25:53:427 [info]: [VirtualFileSystemService] Registering watchers

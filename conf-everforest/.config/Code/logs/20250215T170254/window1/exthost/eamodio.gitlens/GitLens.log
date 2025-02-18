@@ -1,0 +1,23 @@
+2025-02-15 17:03:04.598 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|5d0f9274-f7db-46d5-8c8f-45184c411aef1739635375757)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-02-15 17:03:04.598 [info] [2025-02-15 16:03:04.318] [            3] ProductConfigProvider.load 
+FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo EAI_AGAIN configs.gitkraken.dev
+[2025-02-15 16:03:04.318] [            3] ProductConfigProvider.load 
+FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo EAI_AGAIN configs.gitkraken.dev
+
+2025-02-15 17:45:33.787 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|5d0f9274-f7db-46d5-8c8f-45184c411aef1739635375757)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-02-15 17:45:36.414 [info] [2025-02-15 16:45:36.412] [GIT   *2004ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-parse --git-dir --git-common-dir [*2004ms] (slow)
+
+2025-02-15 17:45:40.625 [info] [2025-02-15 16:45:40.598] [GIT   *2700ms] [/home/juanluis/git-repositories/TFM-BigData] git status --porcelain=v2 --branch -u --find-renames -- [*2700ms] (slow)
+
+2025-02-15 19:00:32.151 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8fe5320626abd99b62568fb73e71f87a326b9d8a620c5834cac0c60543106d61|66c7efc3-0dfd-4316-9177-8ebe27b4ec6f1739642420999)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-02-15 19:00:35.143 [info] [2025-02-15 18:00:35.121] [GIT   *2236ms] [/home/juanluis/git-repositories/TFM-BigData] git ls-files -- apuntes/ApuntesLennard.tex [*2236ms] (slow)
+[2025-02-15 18:00:35.121] [GIT   *2266ms] [/home/juanluis/git-repositories/TFM-BigData] git rev-list --max-parents=0 HEAD -- [*2266ms] (slow)
+
+2025-02-15 19:00:35.889 [info] [2025-02-15 18:00:35.203] [GIT   *2215ms] [/home/juanluis/git-repositories/TFM-BigData] git shortlog -s --all --no-merges --since=1.year.ago [*2215ms] (slow)
+

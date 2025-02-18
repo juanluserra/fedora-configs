@@ -1,0 +1,30 @@
+2025-02-17T16:08:02:458 [info]: fetch: Detected no proxy settings
+2025-02-17T16:08:02:467 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-17T16:08:02:552 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-17T16:08:02:553 [info]: Applying 2 endpoints to connection.
+2025-02-17T16:08:02:599 [info]: [HttpServer]: server listening on http://127.0.0.1:33167/
+2025-02-17T16:08:02:602 [info]: GitLab Language Server has started
+2025-02-17T16:08:02:609 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/master_bigdata/IOT
+2025-02-17T16:08:02:616 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/master_bigdata/IOT
+2025-02-17T16:08:02:617 [info]: [RepositoryService] Detected 0 repositories for workspace file:///home/juanluis/git-repositories/master_bigdata/IOT
+2025-02-17T16:08:02:617 [info]: [RepositoryService] Added 0 repositories to workspace file:///home/juanluis/git-repositories/master_bigdata/IOT
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/temas/01_Introduccion_2425-IoT.pdf
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bcf
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.blg
+2025-02-17T16:08:02:618 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.fdb_latexmk
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.fls
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.run.xml
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/template/logo_umu.png
+2025-02-17T16:08:02:619 [warning]: [RepositoryService] No matching repository found for file file:///home/juanluis/git-repositories/master_bigdata/IOT/template/template_umu.typ
+2025-02-17T16:08:02:620 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/master_bigdata/IOT
+2025-02-17T16:08:02:621 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-17T16:08:02:621 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-17T16:08:02:624 [info]: [VirtualFileSystemService] Registering watchers

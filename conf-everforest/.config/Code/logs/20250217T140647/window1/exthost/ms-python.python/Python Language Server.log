@@ -1,0 +1,33 @@
+2025-02-17 14:07:52.614 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-17 14:07:53.572 [info] [Info  - 14:07:53] (27589) Server root directory: file:///home/juanluis/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-17 14:07:53.572 [info] [Info  - 14:07:53] (27589) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-17 14:07:53.572 [info] [Info  - 14:07:53] (27589) Starting service instance "TFM-BigData"
+2025-02-17 14:07:53.657 [info] [Info  - 14:07:53] (27589) Setting environmentName for service "TFM-BigData": "3.13.1 (usr venv)"
+2025-02-17 14:07:53.658 [info] [Info  - 14:07:53] (27589) Setting pythonPath for service "TFM-BigData": "/usr/bin/python"
+2025-02-17 14:07:53.659 [info] [Info  - 14:07:53] (27589) No include entries specified; assuming /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:53.660 [info] [Info  - 14:07:53] (27589) Auto-excluding **/node_modules
+2025-02-17 14:07:53.660 [info] [Info  - 14:07:53] (27589) Auto-excluding **/__pycache__
+2025-02-17 14:07:53.660 [info] [Info  - 14:07:53] (27589) Auto-excluding **/.*
+2025-02-17 14:07:53.701 [info] [Info  - 14:07:53] (27589) Assuming Python version 3.13.2.final.0
+2025-02-17 14:07:53.831 [info] [Info  - 14:07:53] (27589) No source files found.
+2025-02-17 14:07:54.741 [info] [Info  - 14:07:54] (27589) Background analysis(1) root directory: file:///home/juanluis/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-17 14:07:54.745 [info] [Info  - 14:07:54] (27589) Background analysis(1) started
+2025-02-17 14:07:54.985 [info] [Info  - 14:07:54] (27589) Indexer background runner(2) root directory: file:///home/juanluis/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-17 14:07:54.986 [info] [Info  - 14:07:54] (27589) Indexing(2) started
+2025-02-17 14:07:56.367 [info] [Info  - 14:07:56] (27589) Starting service instance "<default>"
+2025-02-17 14:07:56.420 [info] [Info  - 14:07:56] (27589) scanned(2) 111 files over 1 exec env
+2025-02-17 14:07:56.429 [info] [Info  - 14:07:56] (27589) Setting environmentName for service "<default>": "3.13.1 (usr venv)"
+2025-02-17 14:07:56.430 [info] [Info  - 14:07:56] (27589) Setting pythonPath for service "<default>": "/usr/bin/python"
+2025-02-17 14:07:56.430 [info] [Info  - 14:07:56] (27589) No include entries specified; assuming /<default workspace root>
+2025-02-17 14:07:56.430 [info] [Info  - 14:07:56] (27589) Auto-excluding **/node_modules
+2025-02-17 14:07:56.431 [info] [Info  - 14:07:56] (27589) Auto-excluding **/__pycache__
+2025-02-17 14:07:56.431 [info] [Info  - 14:07:56] (27589) Auto-excluding **/.*
+2025-02-17 14:07:56.499 [info] [Info  - 14:07:56] (27589) Assuming Python version 3.13.2.final.0
+2025-02-17 14:07:56.606 [info] [Error - 14:07:56] (27589) File or directory "/<default workspace root>" does not exist.
+2025-02-17 14:07:56.606 [info] [Info  - 14:07:56] (27589) No source files found.
+2025-02-17 14:07:56.914 [info] [Info  - 14:07:56] (27589) indexed(2) 111 files over 1 exec env
+2025-02-17 14:07:56.981 [info] [Info  - 14:07:56] (27589) Indexing finished(2).
+2025-02-17 14:07:57.718 [info] [Info  - 14:07:57] (27589) Background analysis(3) root directory: file:///home/juanluis/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-17 14:07:57.725 [info] [Info  - 14:07:57] (27589) Background analysis(3) started
+2025-02-17 14:08:22.738 [info] [Info  - 14:08:22] (27589) Found 1 source file
+2025-02-17 14:09:04.551 [info] [Info  - 14:09:04] (27589) No source files found.

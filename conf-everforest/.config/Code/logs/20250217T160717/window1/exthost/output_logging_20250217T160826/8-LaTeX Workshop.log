@@ -1,0 +1,412 @@
+[16:08:46.760][Logger] New log placeholder %WS1% registered for /home/juanluis/git-repositories/master_bigdata .
+[16:08:46.760][Extension] Initializing LaTeX Workshop.
+[16:08:46.975][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[16:08:46.975][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[16:08:47.036][Server] Creating LaTeX Workshop http and websocket server.
+[16:08:47.153][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[16:08:47.201][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":32919} .
+[16:08:47.269][Extension] Extension root: /home/juanluis/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[16:08:47.270][Extension] $PATH: /home/juanluis/.local/bin:/home/juanluis/bin:/home/juanluis/.local/bin:/home/juanluis/bin:/home/juanluis/.atuin/bin:/home/juanluis/.local/bin:/home/juanluis/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:/usr/lib/jvm/jdk-17.0.12/bin:/home/juanluis/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64/bundled/scripts/noConfigScripts:/home/juanluis/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/usr/lib/jvm/jdk-17.0.12/bin:/home/juanluis/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/usr/lib/jvm/jdk-17.0.12/bin
+[16:08:47.271][Extension] $SHELL: /usr/bin/zsh
+[16:08:47.271][Extension] $LANG: es_ES.UTF-8
+[16:08:47.271][Extension] $LC_ALL: undefined
+[16:08:47.272][Extension] process.platform: linux
+[16:08:47.272][Extension] process.arch: x64
+[16:08:47.272][Extension] vscode.env.appName: Visual Studio Code
+[16:08:47.273][Extension] vscode.env.remoteName: undefined
+[16:08:47.273][Extension] vscode.env.uiKind: 1
+[16:08:47.282][Config] latex-workshop.latex.outDir: "%DIR%/build" .
+[16:08:47.407][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[16:08:47.410][Root] Current workspace folders: ["file://%WS1%"]
+[16:08:47.411][Root] Try finding root from magic comment.
+[16:08:47.413][Extension] LaTeX Workshop initialized.
+[16:08:47.414][Root] Try finding root from active editor.
+[16:08:47.415][Root] Found root file from active editor: %WS1%/IOT/apuntes.tex
+[16:08:47.416][Root] Root file changed: from %WS1%/IOT/apuntes.tex to %WS1%/IOT/apuntes.tex, langID latex . Refresh dependencies
+[16:08:47.416][Event] ROOT_FILE_CHANGED: "%WS1%/IOT/apuntes.tex"
+[16:08:47.417][Cacher][Watcher] Reset.
+[16:08:47.418][Cacher][Watcher] Reset.
+[16:08:47.428][Cacher] Adding %WS1%/IOT/apuntes.tex .
+[16:08:47.429][Cacher][Watcher] Watched file://%WS1%/IOT/apuntes.tex with a new .* watcher on %WS1%/IOT .
+[16:08:47.430][Event] FILE_WATCHED: "file://%WS1%/IOT/apuntes.tex"
+[16:08:47.433][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:08:47.434][Event] ROOT_FILE_SEARCHED
+[16:08:47.486][Server] validOrigin is http://127.0.0.1:32919
+[16:08:48.180][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:08:48.181][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:08:48.230][Cacher] Parsed LaTeX AST in 48.54 ms: %WS1%/IOT/apuntes.tex .
+[16:08:48.231][File] Calling kpsewhich to resolve article.cls .
+[16:08:48.552][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls'.
+[16:08:49.007][File] Calling kpsewhich to resolve -format=.bib test.bib .
+[16:08:49.314][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib'.
+[16:08:49.316][Cacher] Updated elements in 1085.92 ms: %WS1%/IOT/apuntes.tex .
+[16:08:49.318][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:08:49.322][Structure] Structure force updated with 0 root sections for %WS1%/IOT/apuntes.tex .
+[16:08:49.323][Event] STRUCTURE_UPDATED
+[16:08:49.330][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:08:49.370][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:08:49.372][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:08:49.373][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:08:49.815][Commander] VIEW command invoked with mode: file://%WS1%/IOT/apuntes.tex.
+[16:08:49.815][Root] Current workspace folders: ["file://%WS1%"]
+[16:08:49.815][Root] Try finding root from magic comment.
+[16:08:49.816][Root] Try finding root from active editor.
+[16:08:49.816][Root] Found root file from active editor: %WS1%/IOT/apuntes.tex
+[16:08:49.816][Root] Keep using the same root file: %WS1%/IOT/apuntes.tex
+[16:08:49.816][Event] ROOT_FILE_SEARCHED
+[16:08:49.817][Event] STRUCTURE_UPDATED
+[16:08:49.945][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:32919/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZqdWFubHVpcyUyRmdpdC1yZXBvc2l0b3JpZXMlMkZtYXN0ZXJfYmlnZGF0YSUyRklPVCUyRmJ1aWxkJTJGYXB1bnRlcy5wZGY .
+[16:08:49.947][Cacher][Watcher] Watched file://%WS1%/IOT/build/apuntes.pdf with a new .pdf watcher on %WS1%/IOT/build .
+[16:08:49.947][Event] FILE_WATCHED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:08:50.013][Viewer] Open PDF tab for file://%WS1%/IOT/build/apuntes.pdf
+[16:08:50.285][Viewer] Handle data type: open
+[16:08:50.426][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:08:50.545][Viewer] Handle data type: loaded
+[16:08:50.545][Event] VIEWER_PAGE_LOADED
+[16:08:51.903][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:08:51.972][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:08:51.973][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:08:51.973][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:08:51.973][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:08:51.974][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:08:51.974][Build] The languageId of the document: latex
+[16:08:51.974][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:08:51.974][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:08:51.975][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:08:51.978][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:08:51.979][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:08:51.981][Build][Recipe] Preparing to run recipe: latexmk.
+[16:08:51.981][Build][Recipe] Prepared 1 tools.
+[16:08:52.306][Build][Recipe] `pdflatex` is provided by MiKTeX.
+[16:08:52.307][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:08:52.310][Cacher] Parsed LaTeX AST in 330.61 ms: %WS1%/IOT/apuntes.tex .
+[16:08:52.310][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:08:52.342][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:08:52.343][Build] env: {}
+[16:08:52.343][Build] root: %WS1%/IOT/apuntes.tex
+[16:08:52.343][Build] cwd: %WS1%/IOT
+[16:08:52.363][Build] LaTeX build process spawned with PID 6354.
+[16:08:52.439][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:08:52.439][Cacher] Updated elements in 129.61 ms: %WS1%/IOT/apuntes.tex .
+[16:08:52.440][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:08:52.441][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:08:52.441][Event] STRUCTURE_UPDATED
+[16:08:53.202][Build] Finished a step in recipe with PID 6354.
+[16:08:53.203][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:08:53.203][Event] BUILD_DONE
+[16:10:16.378][Event] STRUCTURE_UPDATED
+[16:10:38.648][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:32919/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZqdWFubHVpcyUyRmdpdC1yZXBvc2l0b3JpZXMlMkZtYXN0ZXJfYmlnZGF0YSUyRklPVCUyRnRlbWFzJTJGMDJfSGVycmFtaWVudGFzX3lfcGxhdGFmb3JtYXNfMjQyNS5wZGY .
+[16:10:38.649][Cacher][Watcher] Watched file://%WS1%/IOT/temas/02_Herramientas_y_plataformas_2425.pdf with a new .pdf watcher on %WS1%/IOT/temas .
+[16:10:38.649][Event] FILE_WATCHED: "file://%WS1%/IOT/temas/02_Herramientas_y_plataformas_2425.pdf"
+[16:10:38.914][Viewer] Handle data type: open
+[16:10:39.015][Server] Preview PDF file: file://%WS1%/IOT/temas/02_Herramientas_y_plataformas_2425.pdf
+[16:10:39.270][Viewer] Handle data type: loaded
+[16:10:39.271][Event] VIEWER_PAGE_LOADED
+[16:11:09.295][Event] STRUCTURE_UPDATED
+[16:11:50.332][Event] STRUCTURE_UPDATED
+[16:11:58.435][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:11:58.506][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:11:58.510][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:11:58.511][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:11:58.511][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:11:58.511][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:11:58.512][Build] The languageId of the document: latex
+[16:11:58.512][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:11:58.512][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:11:58.513][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:11:58.515][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:11:58.515][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:11:58.516][Build][Recipe] Preparing to run recipe: latexmk.
+[16:11:58.516][Build][Recipe] Prepared 1 tools.
+[16:11:58.517][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:11:58.519][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:11:58.519][Build] env: {}
+[16:11:58.519][Build] root: %WS1%/IOT/apuntes.tex
+[16:11:58.520][Build] cwd: %WS1%/IOT
+[16:11:58.543][Build] LaTeX build process spawned with PID 8183.
+[16:11:58.546][Cacher] Parsed LaTeX AST in 31.04 ms: %WS1%/IOT/apuntes.tex .
+[16:11:58.547][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:11:58.554][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:11:58.556][Cacher] Updated elements in 9.75 ms: %WS1%/IOT/apuntes.tex .
+[16:11:58.557][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:11:58.558][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:11:58.559][Event] STRUCTURE_UPDATED
+[16:12:00.611][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 264 ms.
+[16:12:00.612][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:12:02.285][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 252 ms.
+[16:12:02.285][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:12:02.307][Parser][TexLog] Logged 0 messages.
+[16:12:02.308][Build] Finished a step in recipe with PID 8183.
+[16:12:02.308][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:12:02.309][Event] BUILD_DONE
+[16:12:02.309][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:12:02.309][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:12:02.312][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:12:02.339][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:12:02.340][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:12:02.341][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:12:02.341][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:12:02.541][Viewer] Handle data type: loaded
+[16:12:02.541][Event] VIEWER_PAGE_LOADED
+[16:12:07.179][Event] STRUCTURE_UPDATED
+[16:13:03.878][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:13:03.946][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:13:03.947][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:13:03.948][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:13:03.948][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:13:03.948][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:13:03.949][Build] The languageId of the document: latex
+[16:13:03.949][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:13:03.949][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:13:03.950][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:13:03.951][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:13:03.952][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:13:03.953][Build][Recipe] Preparing to run recipe: latexmk.
+[16:13:03.953][Build][Recipe] Prepared 1 tools.
+[16:13:03.954][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:13:03.956][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:13:03.957][Build] env: {}
+[16:13:03.957][Build] root: %WS1%/IOT/apuntes.tex
+[16:13:03.958][Build] cwd: %WS1%/IOT
+[16:13:03.977][Build] LaTeX build process spawned with PID 8628.
+[16:13:03.979][Cacher] Parsed LaTeX AST in 26.72 ms: %WS1%/IOT/apuntes.tex .
+[16:13:03.979][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:13:03.986][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:13:03.987][Cacher] Updated elements in 7.82 ms: %WS1%/IOT/apuntes.tex .
+[16:13:03.987][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:13:03.988][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:13:03.989][Event] STRUCTURE_UPDATED
+[16:13:06.053][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 256 ms.
+[16:13:06.053][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:13:06.106][Parser][TexLog] Logged 0 messages.
+[16:13:06.106][Build] Finished a step in recipe with PID 8628.
+[16:13:06.107][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:13:06.107][Event] BUILD_DONE
+[16:13:06.107][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:13:06.108][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:13:06.109][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:13:06.144][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:13:06.145][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:13:06.145][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:13:06.146][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:13:09.362][Viewer] Handle data type: loaded
+[16:13:09.362][Event] VIEWER_PAGE_LOADED
+[16:14:25.845][Event] STRUCTURE_UPDATED
+[16:14:56.184][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:14:56.253][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:14:56.253][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:14:56.254][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:14:56.254][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:14:56.254][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:14:56.254][Build] The languageId of the document: latex
+[16:14:56.254][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:14:56.255][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:14:56.255][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:14:56.256][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:14:56.257][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:14:56.258][Build][Recipe] Preparing to run recipe: latexmk.
+[16:14:56.258][Build][Recipe] Prepared 1 tools.
+[16:14:56.259][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:14:56.260][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:14:56.260][Build] env: {}
+[16:14:56.261][Build] root: %WS1%/IOT/apuntes.tex
+[16:14:56.262][Build] cwd: %WS1%/IOT
+[16:14:56.282][Build] LaTeX build process spawned with PID 9331.
+[16:14:56.285][Cacher] Parsed LaTeX AST in 28.17 ms: %WS1%/IOT/apuntes.tex .
+[16:14:56.286][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:14:56.291][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:14:56.292][Cacher] Updated elements in 6.62 ms: %WS1%/IOT/apuntes.tex .
+[16:14:56.293][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:14:56.293][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:14:56.294][Event] STRUCTURE_UPDATED
+[16:14:58.445][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 259 ms.
+[16:14:58.445][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:15:00.075][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 255 ms.
+[16:15:00.076][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:15:00.108][Parser][TexLog] Logged 1 messages.
+[16:15:00.109][Build] Finished a step in recipe with PID 9331.
+[16:15:00.109][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:15:00.110][Event] BUILD_DONE
+[16:15:00.110][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:15:00.110][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:00.111][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:00.149][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:15:00.150][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:00.151][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:15:00.152][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:04.219][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:15:04.286][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:15:04.287][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:15:04.287][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:15:04.287][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:15:04.287][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:15:04.288][Build] The languageId of the document: latex
+[16:15:04.288][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:15:04.288][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:15:04.288][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:15:04.289][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:15:04.290][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:15:04.290][Build][Recipe] Preparing to run recipe: latexmk.
+[16:15:04.291][Build][Recipe] Prepared 1 tools.
+[16:15:04.292][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:15:04.293][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:15:04.293][Build] env: {}
+[16:15:04.293][Build] root: %WS1%/IOT/apuntes.tex
+[16:15:04.294][Build] cwd: %WS1%/IOT
+[16:15:04.311][Build] LaTeX build process spawned with PID 9411.
+[16:15:04.313][Cacher] Parsed LaTeX AST in 22.75 ms: %WS1%/IOT/apuntes.tex .
+[16:15:04.313][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:15:04.321][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:15:04.322][Cacher] Updated elements in 9.09 ms: %WS1%/IOT/apuntes.tex .
+[16:15:04.323][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:15:04.323][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:15:04.324][Event] STRUCTURE_UPDATED
+[16:15:04.750][Viewer] Handle data type: loaded
+[16:15:04.750][Event] VIEWER_PAGE_LOADED
+[16:15:06.401][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 259 ms.
+[16:15:06.402][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:15:08.118][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 297 ms.
+[16:15:08.119][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:15:08.221][Parser][TexLog] Logged 1 messages.
+[16:15:08.222][Build] Finished a step in recipe with PID 9411.
+[16:15:08.222][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:15:08.222][Event] BUILD_DONE
+[16:15:08.222][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:15:08.223][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:08.225][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:08.260][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:15:08.261][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:08.262][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:15:08.263][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:20.330][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:15:20.396][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:15:20.397][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:15:20.398][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:15:20.398][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:15:20.399][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:15:20.399][Build] The languageId of the document: latex
+[16:15:20.399][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:15:20.399][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:15:20.399][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:15:20.401][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:15:20.401][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:15:20.402][Build][Recipe] Preparing to run recipe: latexmk.
+[16:15:20.402][Build][Recipe] Prepared 1 tools.
+[16:15:20.403][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:15:20.405][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:15:20.405][Build] env: {}
+[16:15:20.405][Build] root: %WS1%/IOT/apuntes.tex
+[16:15:20.406][Build] cwd: %WS1%/IOT
+[16:15:20.427][Build] LaTeX build process spawned with PID 9531.
+[16:15:20.429][Cacher] Parsed LaTeX AST in 27.71 ms: %WS1%/IOT/apuntes.tex .
+[16:15:20.430][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:15:20.437][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:15:20.437][Cacher] Updated elements in 7.93 ms: %WS1%/IOT/apuntes.tex .
+[16:15:20.438][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:15:20.438][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:15:20.438][Event] STRUCTURE_UPDATED
+[16:15:22.559][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 255 ms.
+[16:15:22.559][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:15:22.605][Parser][TexLog] Logged 1 messages.
+[16:15:22.606][Build] Finished a step in recipe with PID 9531.
+[16:15:22.606][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:15:22.607][Event] BUILD_DONE
+[16:15:22.607][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:15:22.607][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:22.609][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:22.629][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:15:22.630][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:15:22.631][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:15:22.631][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:15:47.313][Viewer] Handle data type: loaded
+[16:15:47.313][Event] VIEWER_PAGE_LOADED
+[16:15:55.891][Event] STRUCTURE_UPDATED
+[16:16:39.185][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:16:39.250][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:16:39.251][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:16:39.252][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:16:39.252][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:16:39.253][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:16:39.253][Build] The languageId of the document: latex
+[16:16:39.253][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:16:39.253][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:16:39.254][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:16:39.256][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:16:39.256][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:16:39.258][Build][Recipe] Preparing to run recipe: latexmk.
+[16:16:39.258][Build][Recipe] Prepared 1 tools.
+[16:16:39.259][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:16:39.261][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:16:39.261][Build] env: {}
+[16:16:39.261][Build] root: %WS1%/IOT/apuntes.tex
+[16:16:39.262][Build] cwd: %WS1%/IOT
+[16:16:39.284][Build] LaTeX build process spawned with PID 10011.
+[16:16:39.286][Cacher] Parsed LaTeX AST in 29.12 ms: %WS1%/IOT/apuntes.tex .
+[16:16:39.286][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:16:39.292][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:16:39.294][Cacher] Updated elements in 7.58 ms: %WS1%/IOT/apuntes.tex .
+[16:16:39.294][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:16:39.295][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:16:39.295][Event] STRUCTURE_UPDATED
+[16:16:41.374][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 256 ms.
+[16:16:41.374][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:16:42.935][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 257 ms.
+[16:16:42.936][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:16:42.959][Parser][TexLog] Logged 1 messages.
+[16:16:42.960][Build] Finished a step in recipe with PID 10011.
+[16:16:42.960][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:16:42.961][Event] BUILD_DONE
+[16:16:42.961][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:16:42.961][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:16:42.966][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:16:43.003][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:16:43.004][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:16:43.005][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:16:43.005][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:17:30.504][Viewer] Handle data type: loaded
+[16:17:30.504][Event] VIEWER_PAGE_LOADED
+[16:17:32.428][Event] STRUCTURE_UPDATED
+[16:19:13.338][Extension] onDidSaveTextDocument triggered: file://%WS1%/IOT/apuntes.tex
+[16:19:13.407][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/apuntes.tex.
+[16:19:13.408][Cacher] Caching %WS1%/IOT/apuntes.tex .
+[16:19:13.408][Build] Auto build started detecting the change of a file: %WS1%/IOT/apuntes.tex .
+[16:19:13.409][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/IOT/apuntes.tex"}
+[16:19:13.409][Build] The document of the active editor: file://%WS1%/IOT/apuntes.tex
+[16:19:13.409][Build] The languageId of the document: latex
+[16:19:13.409][Build] Building root file: %WS1%/IOT/apuntes.tex
+[16:19:13.409][Build][Recipe] Build root file %WS1%/IOT/apuntes.tex
+[16:19:13.410][Event] FILE_CHANGED: "file://%WS1%/IOT/apuntes.tex"
+[16:19:13.411][Cacher] Updated inputs of %WS1%/IOT/apuntes.tex .
+[16:19:13.411][Cacher] Parse LaTeX AST: %WS1%/IOT/apuntes.tex .
+[16:19:13.412][Build][Recipe] Preparing to run recipe: latexmk.
+[16:19:13.413][Build][Recipe] Prepared 1 tools.
+[16:19:13.413][Build][Recipe] outDir: %WS1%/IOT/build .
+[16:19:13.415][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/IOT/build","%WS1%/IOT/apuntes"].
+[16:19:13.415][Build] env: {}
+[16:19:13.415][Build] root: %WS1%/IOT/apuntes.tex
+[16:19:13.416][Build] cwd: %WS1%/IOT
+[16:19:13.437][Build] LaTeX build process spawned with PID 11008.
+[16:19:13.443][Cacher] Parsed LaTeX AST in 31.39 ms: %WS1%/IOT/apuntes.tex .
+[16:19:13.444][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[16:19:13.454][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[16:19:13.455][Cacher] Updated elements in 11.28 ms: %WS1%/IOT/apuntes.tex .
+[16:19:13.455][Event] FILE_PARSED: "%WS1%/IOT/apuntes.tex"
+[16:19:13.456][Structure] Structure force updated with 1 root sections for %WS1%/IOT/apuntes.tex .
+[16:19:13.457][Event] STRUCTURE_UPDATED
+[16:19:15.612][Cacher][Watcher] "change" emitted on file://%WS1%/IOT/build/apuntes.pdf after polling for 257 ms.
+[16:19:15.613][Event] FILE_CHANGED: "file://%WS1%/IOT/build/apuntes.pdf"
+[16:19:15.673][Parser][TexLog] Logged 1 messages.
+[16:19:15.674][Build] Finished a step in recipe with PID 11008.
+[16:19:15.674][Build] Successfully built %WS1%/IOT/apuntes.tex .
+[16:19:15.675][Event] BUILD_DONE
+[16:19:15.675][Viewer] Call refreshExistingViewer: file://%WS1%/IOT/build/apuntes.pdf .
+[16:19:15.676][Viewer] Refresh PDF viewer: file://%WS1%/IOT/build/apuntes.pdf
+[16:19:15.679][Cacher] Parsing .fls %WS1%/IOT/build/apuntes.fls .
+[16:19:15.708][Cacher] Found .aux %WS1%/IOT/build/apuntes.aux from .fls %WS1%/IOT/build/apuntes.fls , parsing.
+[16:19:15.710][Cacher] Parsed .aux %WS1%/IOT/build/apuntes.aux .
+[16:19:15.710][Cacher] Parsed .fls %WS1%/IOT/build/apuntes.fls .
+[16:19:15.711][Server] Preview PDF file: file://%WS1%/IOT/build/apuntes.pdf
+[16:19:19.816][Viewer] Handle data type: loaded
+[16:19:19.816][Event] VIEWER_PAGE_LOADED
+[16:54:21.947][Cacher][Watcher] Reset.
+[16:54:21.954][Cacher][Watcher] Reset.

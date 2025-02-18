@@ -1,0 +1,152 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=47,56,62
+ColorAmount=0.75
+ColorEffect=3
+ContrastAmount=0.65
+ContrastEffect=0
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=47,56,62
+ColorAmount=0.47500000000000003
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0.1
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=71,130,103
+BackgroundNormal=55,66,71
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundInactive=122,132,120
+ForegroundLink=115,230,172
+ForegroundNegative=230,126,128
+ForegroundNeutral=219,188,127
+ForegroundNormal=211,198,170
+ForegroundPositive=141,161,1
+ForegroundVisited=214,153,182
+
+[Colors:Complementary]
+BackgroundNormal=42,46,50
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundLink=115,230,172
+
+[Colors:Selection]
+BackgroundAlternate=68,125,99
+BackgroundNormal=68,125,99
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundInactive=255,255,255
+ForegroundLink=58,115,86
+ForegroundNegative=230,126,128
+ForegroundNeutral=219,188,127
+ForegroundNormal=255,255,255
+ForegroundPositive=141,161,1
+ForegroundVisited=214,153,182
+
+[Colors:Tooltip]
+BackgroundAlternate=47,52,63
+BackgroundNormal=55,66,71
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundInactive=122,132,120
+ForegroundLink=115,230,172
+ForegroundNegative=230,126,128
+ForegroundNeutral=219,188,127
+ForegroundNormal=211,198,170
+ForegroundPositive=141,161,1
+ForegroundVisited=214,153,182
+
+[Colors:View]
+BackgroundAlternate=55,66,71
+BackgroundNormal=43,51,57
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundInactive=122,132,120
+ForegroundLink=115,230,172
+ForegroundNegative=230,126,128
+ForegroundNeutral=219,188,127
+ForegroundNormal=211,198,170
+ForegroundPositive=141,161,1
+ForegroundVisited=214,153,182
+
+[Colors:Window]
+BackgroundAlternate=55,66,71
+BackgroundNormal=47,56,62
+DecorationFocus=79,158,118
+DecorationHover=79,158,118
+ForegroundActive=79,158,118
+ForegroundInactive=122,132,120
+ForegroundLink=115,230,172
+ForegroundNegative=230,126,128
+ForegroundNeutral=219,188,127
+ForegroundNormal=211,198,170
+ForegroundPositive=141,161,1
+ForegroundVisited=214,153,182
+
+[DirSelect Dialog]
+DirSelectDialog Size=828,584
+History Items[$e]=file:$HOME/Imágenes/everforest,file:$HOME,file:$HOME/ROMs,file:$HOME/ROMs/Wii,file:$HOME/ROMs/Wii,file:///run/media,file:$HOME/git-repositories/TFM-BigData,file:$HOME/git-repositories/master_bigdata,file:$HOME/git-repositories/TFM-BigData
+
+[General]
+AccentColor=79,158,118
+ColorSchemeHash=3234a84896fc7acf32fa38588be110d07bd8a955
+UseSystemBell=true
+accentColorFromWallpaper=true
+
+[Icons]
+Theme=ePapirus-Dark
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=148
+View Style=Simple
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[Shortcuts]
+ShowHideHiddenFiles=Ctrl+Shift+H; Alt+.
+
+[Sounds]
+Theme=EnchantedSounds
+
+[WM]
+activeBackground=47,56,62
+activeBlend=47,56,62
+activeForeground=211,198,170
+inactiveBackground=47,56,62
+inactiveBlend=47,56,62
+inactiveForeground=122,132,120

@@ -1,0 +1,64 @@
+2025-02-17 16:07:32.154 [info] Using the Electron fetcher.
+2025-02-17 16:07:32.154 [info] Initializing Git extension service.
+2025-02-17 16:07:32.154 [info] Successfully activated the vscode.git extension.
+2025-02-17 16:07:32.154 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 16:07:32.154 [info] Successfully registered Git commit message provider.
+2025-02-17 16:07:35.744 [info] Logged in as juanluserra
+2025-02-17 16:07:36.777 [info] Got Copilot token for juanluserra
+2025-02-17 16:07:37.442 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 16:07:37.457 [info] Registering default platform agent...
+2025-02-17 16:07:37.463 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 16:07:37.463 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 16:07:37.463 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 16:07:37.648 [info] Fetched model metadata in 856ms e177f41a-a3f0-440f-b607-6deb6c6c3010
+2025-02-17 16:07:37.852 [info] activationBlocker from 'languageModelAccess' took for 5668ms
+2025-02-17 16:07:59.135 [info] Using the Electron fetcher.
+2025-02-17 16:07:59.135 [info] Initializing Git extension service.
+2025-02-17 16:07:59.135 [info] Successfully activated the vscode.git extension.
+2025-02-17 16:07:59.135 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 16:07:59.135 [info] Successfully registered Git commit message provider.
+2025-02-17 16:08:02.158 [info] Logged in as juanluserra
+2025-02-17 16:08:02.754 [info] Got Copilot token for juanluserra
+2025-02-17 16:08:02.851 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 16:08:02.862 [info] Registering default platform agent...
+2025-02-17 16:08:02.867 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 16:08:02.867 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 16:08:02.867 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 16:08:02.951 [info] Fetched model metadata in 178ms b3111797-bfe4-4331-bc1e-0c7a4602d893
+2025-02-17 16:08:02.954 [info] activationBlocker from 'languageModelAccess' took for 1541ms
+2025-02-17 16:08:35.646 [info] Using the Electron fetcher.
+2025-02-17 16:08:35.646 [info] Initializing Git extension service.
+2025-02-17 16:08:35.646 [info] Successfully activated the vscode.git extension.
+2025-02-17 16:08:35.646 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 16:08:35.646 [info] Successfully registered Git commit message provider.
+2025-02-17 16:08:38.893 [info] Logged in as juanluserra
+2025-02-17 16:08:39.711 [info] Got Copilot token for juanluserra
+2025-02-17 16:08:39.969 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 16:08:39.988 [info] Registering default platform agent...
+2025-02-17 16:08:39.994 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 16:08:39.994 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 16:08:39.994 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 16:08:40.063 [info] Fetched model metadata in 334ms 169a1093-77ce-4512-8a44-4f6a3cc3830d
+2025-02-17 16:08:40.067 [info] activationBlocker from 'languageModelAccess' took for 3997ms
+2025-02-17 16:18:30.169 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:30.171 [info] request done: requestId: [b818c885-9d60-4e7f-8b7f-49226ca8d9dc] model deployment ID: []
+2025-02-17 16:18:32.510 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:32.510 [info] request done: requestId: [ff07e8a2-8c54-44d4-8ced-d8d11d4e2517] model deployment ID: []
+2025-02-17 16:18:44.137 [info] Fetched model metadata in 163ms 82d9bc25-fdfa-4462-9d70-b13611fa737e
+2025-02-17 16:18:44.528 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:44.528 [info] request done: requestId: [fdaea69f-cb5e-45f4-aaa5-51d1150378aa] model deployment ID: []
+2025-02-17 16:18:54.360 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:54.361 [info] request done: requestId: [85671a99-2eba-4449-aeea-3506452d7e18] model deployment ID: []
+2025-02-17 16:18:54.950 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:54.951 [info] request done: requestId: [ffc45dc5-f698-40fd-90b8-d3340f2c0955] model deployment ID: []
+2025-02-17 16:18:54.957 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:18:54.957 [info] request done: requestId: [e0e5579d-af88-4945-863c-d36c4ef6a7ac] model deployment ID: []
+2025-02-17 16:19:04.369 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:19:04.370 [info] request done: requestId: [23f5feb9-3c2d-4545-84e9-f63bf7ad5f85] model deployment ID: []
+2025-02-17 16:19:07.540 [info] message 0 returned. finish reason: [stop]
+2025-02-17 16:19:07.541 [info] request done: requestId: [642f7d59-34e0-4170-9687-69dd455d3545] model deployment ID: []
+2025-02-17 16:33:39.716 [info] Logged in as juanluserra
+2025-02-17 16:33:40.504 [info] Got Copilot token for juanluserra
+2025-02-17 16:33:40.522 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 16:33:41.135 [info] Fetched model metadata in 609ms c56d96e0-1298-4055-9566-3d1df4c9719b
+2025-02-17 16:48:41.819 [info] Fetched model metadata in 575ms 30a65fcf-de95-41fc-ad02-18ed85811981

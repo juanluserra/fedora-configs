@@ -1,0 +1,175 @@
+2025-02-17 14:07:51.577 [info] Name: autopep8
+2025-02-17 14:07:51.577 [info] Module: autopep8
+2025-02-17 14:07:51.577 [info] Default formatter is set to null for workspace /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:51.577 [warning] autopep8 Formatter is NOT set as the default formatter for workspace /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:51.577 [warning] To set autopep8 Formatter as the default formatter, add the following to your settings.json file:
+2025-02-17 14:07:51.577 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+}
+2025-02-17 14:07:51.577 [info] Python extension loading
+2025-02-17 14:07:51.577 [info] Waiting for interpreter from python extension.
+2025-02-17 14:07:51.961 [info] No interpreter found from setting autopep8.interpreter
+2025-02-17 14:07:51.961 [info] Getting interpreter from ms-python.python extension for workspace /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:51.961 [info] Python extension loaded
+2025-02-17 14:07:52.047 [info] Interpreter from ms-python.python extension for /home/juanluis/git-repositories/TFM-BigData: /usr/bin/python
+2025-02-17 14:07:52.048 [info] No interpreter found from setting autopep8.interpreter
+2025-02-17 14:07:52.048 [info] Getting interpreter from ms-python.python extension for workspace /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:52.056 [info] Interpreter from ms-python.python extension for /home/juanluis/git-repositories/TFM-BigData: /usr/bin/python
+2025-02-17 14:07:52.067 [info] Server run command: /usr/bin/python /home/juanluis/.vscode/extensions/ms-python.autopep8-2024.2.0/bundled/tool/lsp_server.py
+2025-02-17 14:07:52.069 [info] Server: Start requested.
+2025-02-17 14:07:53.139 [info] CWD Server: /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:53.139 [info] sys.path used to run Server:
+   /home/juanluis/.vscode/extensions/ms-python.autopep8-2024.2.0/bundled/libs
+   /home/juanluis/.vscode/extensions/ms-python.autopep8-2024.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/juanluis/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-17 14:07:53.139 [info] PYTHONPATH env variable used to run Server:
+   /home/juanluis/.vscode/extensions/ms-python.autopep8-2024.2.0/bundled/libs:
+2025-02-17 14:07:53.139 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/juanluis/git-repositories/TFM-BigData",
+        "workspace": "file:///home/juanluis/git-repositories/TFM-BigData",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/usr/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-17 14:07:53.139 [info] Global settings:
+{
+    "cwd": "/home/juanluis",
+    "workspace": "/home/juanluis",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-17 14:07:53.143 [info] /usr/bin/python -m autopep8 --version
+2025-02-17 14:07:53.143 [info] CWD Server: /home/juanluis/git-repositories/TFM-BigData
+2025-02-17 14:07:53.255 [info] Version info for formatter running for /home/juanluis/git-repositories/TFM-BigData:
+autopep8 2.3.1 (pycodestyle: 2.12.1)
+
+2025-02-17 14:07:53.261 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.3.1
+
+2025-02-17 14:08:22.369 [info] [Trace - 14:08:22] Sending notification 'textDocument/didOpen'.
+2025-02-17 14:08:23.039 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.074 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.216 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.281 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.334 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.483 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:23.616 [info] [Trace - 14:08:23] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:24.684 [info] [Trace - 14:08:24] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:25.979 [info] [Trace - 14:08:25] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:26.028 [info] [Trace - 14:08:26] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:26.247 [info] [Trace - 14:08:26] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:26.391 [info] [Trace - 14:08:26] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:26.485 [info] [Trace - 14:08:26] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:27.199 [info] [Trace - 14:08:27] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:27.336 [info] [Trace - 14:08:27] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:28.043 [info] [Trace - 14:08:28] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:28.656 [info] [Trace - 14:08:28] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:28.744 [info] [Trace - 14:08:28] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:29.091 [info] [Trace - 14:08:29] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:29.300 [info] [Trace - 14:08:29] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:29.480 [info] [Trace - 14:08:29] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:29.613 [info] [Trace - 14:08:29] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:29.767 [info] [Trace - 14:08:29] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:30.025 [info] [Trace - 14:08:30] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.166 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.275 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.555 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.779 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.878 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.950 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:33.983 [info] [Trace - 14:08:33] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.041 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.147 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.206 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.312 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.371 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.420 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.446 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:34.639 [info] [Trace - 14:08:34] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.145 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.401 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.686 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.765 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.834 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:35.939 [info] [Trace - 14:08:35] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:36.023 [info] [Trace - 14:08:36] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:36.887 [info] [Trace - 14:08:36] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:37.649 [info] [Trace - 14:08:37] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:38.379 [info] [Trace - 14:08:38] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:38.965 [info] [Trace - 14:08:38] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:39.115 [info] [Trace - 14:08:39] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:39.528 [info] [Trace - 14:08:39] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:39.897 [info] [Trace - 14:08:39] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:40.132 [info] [Trace - 14:08:40] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:40.272 [info] [Trace - 14:08:40] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:40.401 [info] [Trace - 14:08:40] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:40.571 [info] [Trace - 14:08:40] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:40.702 [info] [Trace - 14:08:40] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:41.229 [info] [Trace - 14:08:41] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:41.623 [info] [Trace - 14:08:41] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:41.901 [info] [Trace - 14:08:41] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:42.448 [info] [Trace - 14:08:42] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:44.580 [info] [Trace - 14:08:44] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:45.773 [info] [Trace - 14:08:45] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:45.859 [info] [Trace - 14:08:45] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:46.044 [info] [Trace - 14:08:46] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:46.374 [info] [Trace - 14:08:46] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:46.832 [info] [Trace - 14:08:46] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:47.754 [info] [Trace - 14:08:47] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:48.220 [info] [Trace - 14:08:48] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:48.777 [info] [Trace - 14:08:48] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.030 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.078 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.243 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.281 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.329 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.451 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.504 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.651 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.703 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:49.851 [info] [Trace - 14:08:49] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.003 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.084 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.183 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.284 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.336 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.406 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.554 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:50.816 [info] [Trace - 14:08:50] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:51.015 [info] [Trace - 14:08:51] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:51.333 [info] [Trace - 14:08:51] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:51.588 [info] [Trace - 14:08:51] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:52.585 [info] [Trace - 14:08:52] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:53.264 [info] [Trace - 14:08:53] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:53.412 [info] [Trace - 14:08:53] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:53.724 [info] [Trace - 14:08:53] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:54.000 [info] [Trace - 14:08:54] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.168 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.232 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.368 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.407 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.479 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.612 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:55.692 [info] [Trace - 14:08:55] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:57.409 [info] [Trace - 14:08:57] Sending notification 'textDocument/didChange'.
+2025-02-17 14:08:58.059 [info] [Trace - 14:08:58] Sending notification 'textDocument/didChange'.
+2025-02-17 14:09:00.685 [info] [Trace - 14:09:00] Sending notification 'textDocument/didChange'.
+2025-02-17 14:09:04.187 [info] [Trace - 14:09:04] Sending notification 'textDocument/didClose'.

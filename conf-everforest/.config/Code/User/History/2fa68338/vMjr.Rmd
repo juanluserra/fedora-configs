@@ -1,0 +1,26 @@
+---
+title: "Preprocesamiento"
+subtitle: "Master de Big Data"
+author: "José Tomás Palma Méndez"
+date: '`r format(Sys.Date(), "%e de %B de %Y")`'
+output:
+   html_document:
+     number_sections: yes
+     toc: true
+     toc_depth: 3
+     toc_float: true
+lang: es
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.align = "center", results = "hide")
+
+# Establecer el directorio de trabajo
+if (interactive()) {
+  setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+}
+
+```{r}
+# Leemos los datos
+data <- read.csv("Datos/hepatitisKnnImp.csv")
+```

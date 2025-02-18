@@ -1,0 +1,11 @@
+[Common]
+OutlineIntensity=OutlineMaximum
+
+[Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
+SidePanelDrawFrame=true
+
+[Windeco]
+ButtonSize=ButtonLarge
+DrawBorderOnMaximizedWindows=true

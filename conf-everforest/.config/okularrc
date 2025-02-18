@@ -1,0 +1,31 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Notification Messages]
+presentationInfo=false
+
+[Recent Files]
+File1[$e]=$HOME/Escritorio/Horario_Cuatri2.pdf
+File10[$e]=$HOME/git-repositories/TFM-BigData/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf
+File2[$e]=$HOME/Documentos/Documentos Escaneados/test-scan.pdf
+File3[$e]=$HOME/Documentos/1º BIG DATA/Horario_Cuatri_1.pdf
+File4[$e]=$HOME/Documentos/PapeleoCiudadano/CitaDNI_2025-02-20.pdf
+File5[$e]=/run/media/juanluis/BEA USB/Sacar Politica/texto practica 2.pdf
+File6[$e]=$HOME/Documentos/ManualEquipo.pdf
+File7[$e]=$HOME/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.pdf
+File8[$e]=$HOME/git-repositories/master_bigdata/IOT/temas/02_Herramientas_y_plataformas_2425.pdf
+File9[$e]=$HOME/Documentos/1º BIG DATA/Horario_Cuatri2.actual.pdf
+Name1[$e]=Horario_Cuatri2.pdf
+Name10[$e]=BA_Lennart_Töllke.pdf
+Name2[$e]=test-scan.pdf
+Name3[$e]=Horario_Cuatri_1.pdf
+Name4[$e]=CitaDNI_2025-02-20.pdf
+Name5[$e]=texto practica 2.pdf
+Name6[$e]=ManualEquipo.pdf
+Name7[$e]=ApuntesLennard.pdf
+Name8[$e]=02_Herramientas_y_plataformas_2425.pdf
+Name9[$e]=Horario_Cuatri2.actual.pdf

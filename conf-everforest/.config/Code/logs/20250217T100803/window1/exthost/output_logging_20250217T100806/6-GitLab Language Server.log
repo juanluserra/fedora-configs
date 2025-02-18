@@ -1,0 +1,22 @@
+2025-02-17T10:08:19:450 [info]: fetch: Detected no proxy settings
+2025-02-17T10:08:19:459 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-17T10:08:19:572 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-17T10:08:19:573 [info]: Applying 2 endpoints to connection.
+2025-02-17T10:08:19:620 [info]: [HttpServer]: server listening on http://127.0.0.1:36813/
+2025-02-17T10:08:19:623 [info]: GitLab Language Server has started
+2025-02-17T10:08:19:630 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:643 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:643 [info]: [RepositoryService] Detected repository at file:///home/juanluis/git-repositories/TFM-BigData/.git/config
+2025-02-17T10:08:19:644 [info]: [RepositoryService] Detected 1 repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:644 [info]: [RepositoryService] Adding repository file:///home/juanluis/git-repositories/TFM-BigData to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:645 [info]: [RepositoryService] Added 1 repositories to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:657 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-17T10:08:19:707 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-17T10:08:19:707 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-17T10:08:21:409 [info]: [VirtualFileSystemService] Registering watchers
+2025-02-17T10:09:42:705 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-17T10:09:56:427 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/.git/index.lock
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/.git/index.lock'
+2025-02-17T10:10:33:629 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'

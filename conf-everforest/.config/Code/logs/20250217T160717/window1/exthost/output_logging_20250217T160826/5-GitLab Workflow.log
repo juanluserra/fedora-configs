@@ -1,0 +1,26 @@
+2025-02-17T16:08:35:087 [info]: PacProxyAgent not found
+2025-02-17T16:08:39:358 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T16:08:39:409 [info]: handleRegisterCapability: {
+      "id": "1e39d619-5c5e-4b38-8b11-524d1422093f",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-02-17T16:08:39:423 [info]: Extracted urls: []
+2025-02-17T16:08:39:431 [info]: Found 0 projects for urls: []
+2025-02-17T16:08:39:431 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T16:08:39:904 [info]: Extracted urls: [
+      "https://github.com/juanluserra/master_bigdata"
+    ]
+2025-02-17T16:08:39:906 [info]: Found 0 projects for urls: [
+      "https://github.com/juanluserra/master_bigdata"
+    ]
+2025-02-17T16:08:39:907 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T16:17:48:113 [info]: ContextItems: refreshing categories
+2025-02-17T16:54:21:618 [info]: Extracted urls: []
+2025-02-17T16:54:26:661 [info]: Found 0 projects for urls: []

@@ -1,0 +1,30 @@
+2025-02-17T17:05:46:513 [info]: PacProxyAgent not found
+2025-02-17T17:05:50:280 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T17:05:50:498 [info]: handleRegisterCapability: {
+      "id": "e92495f7-3939-4232-b537-b02680ffb966",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-02-17T17:05:50:752 [info]: Extracted urls: []
+2025-02-17T17:05:50:752 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:50:756 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:50:756 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:50:756 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:50:757 [info]: Found 0 projects for urls: []
+2025-02-17T17:05:50:757 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T17:05:51:239 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T17:05:51:510 [info]: Extracted urls: [
+      "https://github.com/juanluserra/master_bigdata"
+    ]
+2025-02-17T17:05:51:512 [info]: Found 0 projects for urls: [
+      "https://github.com/juanluserra/master_bigdata"
+    ]
+2025-02-17T17:05:51:512 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T17:06:19:942 [info]: Extracted urls: []
+2025-02-17T17:06:21:239 [info]: Found 0 projects for urls: []

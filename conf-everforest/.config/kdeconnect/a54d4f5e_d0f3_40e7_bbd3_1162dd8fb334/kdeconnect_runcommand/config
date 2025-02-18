@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_9e94e4e9_64a8_4158_bba3_d059a76e3e9e_\":{\"command\":\"export DISPLAY=:0 && xdotool key Right\\n\",\"name\":\"Adelante\"},\"_ad340737_f54d_427f_a321_72e1e5e17b30_\":{\"command\":\"export DISPLAY=:0 && xdotool key Left\\n\",\"name\":\"Atr\xc3\xa1s\"}})"

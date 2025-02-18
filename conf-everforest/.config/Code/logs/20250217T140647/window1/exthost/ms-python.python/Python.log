@@ -1,0 +1,17 @@
+2025-02-17 14:07:51.503 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-02-17 14:07:51.503 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-02-17 14:07:51.503 [info] Experiment 'pythonTestAdapter' is active
+2025-02-17 14:07:51.503 [info] Native locator: Refresh started
+2025-02-17 14:07:51.503 [info] Native locator: Refresh started
+2025-02-17 14:07:51.503 [info] > pyenv which python
+2025-02-17 14:07:51.503 [info] cwd: .
+2025-02-17 14:07:51.503 [info] > pyenv which python
+2025-02-17 14:07:51.503 [info] cwd: .
+2025-02-17 14:07:51.575 [info] > conda info --json
+2025-02-17 14:07:51.599 [info] > /usr/share/anaconda/bin/conda info --json
+2025-02-17 14:07:51.691 [info] Native locator: Refresh finished in 2138 ms
+2025-02-17 14:07:51.855 [info] > python -c "import sys;print(sys.executable)"
+2025-02-17 14:07:51.960 [info] Python interpreter path: /usr/bin/python
+2025-02-17 14:07:53.601 [info] Starting Pylance language server.
+2025-02-17 14:08:22.654 [info] Discover tests for workspace name: TFM-BigData - uri: /home/juanluis/git-repositories/TFM-BigData/apuntes/test.py
+2025-02-17 14:09:29.425 [info] Discover tests for workspace name: undefined - uri: /home/juanluis/.config/Code/User/settings.json

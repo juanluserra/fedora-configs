@@ -1,0 +1,51 @@
+[13:25:53.459][Logger] New log placeholder %WS1% registered for /home/juanluis/git-repositories/TFM-BigData .
+[13:25:53.459][Extension] Initializing LaTeX Workshop.
+[13:25:53.776][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[13:25:53.776][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[13:25:53.868][Server] Creating LaTeX Workshop http and websocket server.
+[13:25:54.110][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[13:25:54.202][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":45953} .
+[13:25:54.646][Extension] Extension root: /home/juanluis/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[13:25:54.647][Extension] $PATH: /home/juanluis/.atuin/bin:/home/juanluis/.local/bin:/home/juanluis/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:/usr/lib/jvm/jdk-17.0.12/bin
+[13:25:54.647][Extension] $SHELL: /usr/bin/zsh
+[13:25:54.648][Extension] $LANG: es_ES.UTF-8
+[13:25:54.648][Extension] $LC_ALL: undefined
+[13:25:54.648][Extension] process.platform: linux
+[13:25:54.649][Extension] process.arch: x64
+[13:25:54.649][Extension] vscode.env.appName: Visual Studio Code
+[13:25:54.650][Extension] vscode.env.remoteName: undefined
+[13:25:54.650][Extension] vscode.env.uiKind: 1
+[13:25:54.658][Config] latex-workshop.latex.outDir: "%DIR%/build" .
+[13:25:54.794][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[13:25:54.798][Root] Current workspace folders: ["file://%WS1%"]
+[13:25:54.798][Root] Try finding root from magic comment.
+[13:25:54.799][Extension] LaTeX Workshop initialized.
+[13:25:54.799][Root] Try finding root from active editor.
+[13:25:54.800][Root] Found root file from active editor: %WS1%/apuntes/ApuntesLennard.tex
+[13:25:54.801][Root] Root file changed: from %WS1%/apuntes/ApuntesLennard.tex to %WS1%/apuntes/ApuntesLennard.tex, langID latex . Refresh dependencies
+[13:25:54.801][Event] ROOT_FILE_CHANGED: "%WS1%/apuntes/ApuntesLennard.tex"
+[13:25:54.802][Cacher][Watcher] Reset.
+[13:25:54.802][Cacher][Watcher] Reset.
+[13:25:54.809][Cacher] Adding %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:54.810][Cacher][Watcher] Watched file://%WS1%/apuntes/ApuntesLennard.tex with a new .* watcher on %WS1%/apuntes .
+[13:25:54.811][Event] FILE_WATCHED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[13:25:54.814][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:54.815][Event] ROOT_FILE_SEARCHED
+[13:25:54.825][Server] validOrigin is http://127.0.0.1:45953
+[13:25:55.499][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:55.500][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:56.395][Cacher] Parsed LaTeX AST in 895.14 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:56.397][File] Calling kpsewhich to resolve article.cls .
+[13:25:56.702][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls'.
+[13:25:57.353][File] Calling kpsewhich to resolve -format=.bib test.bib .
+[13:25:57.697][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib'.
+[13:25:57.699][Cacher] Updated elements in 1303.43 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:57.701][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[13:25:57.722][Structure] Structure force updated with 0 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[13:25:57.723][Event] STRUCTURE_UPDATED
+[13:25:57.895][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[13:25:57.977][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[13:25:57.980][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[13:25:57.980][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[13:27:42.110][Cacher][Watcher] Reset.
+[13:27:42.111][Cacher][Watcher] Reset.

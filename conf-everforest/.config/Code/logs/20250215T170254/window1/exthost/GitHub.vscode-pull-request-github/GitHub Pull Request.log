@@ -1,0 +1,62 @@
+2025-02-15 17:03:04.513 [warning] /home/juanluis/.ssh/config: ENOENT: no such file or directory, open '/home/juanluis/.ssh/config'
+2025-02-15 17:03:04.513 [info] Activation> Extension version: 0.104.1
+2025-02-15 17:03:06.985 [info] Looking for git repository
+2025-02-15 17:03:06.985 [info] Found 0 repositories during activation
+2025-02-15 17:03:06.985 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-15 17:03:06.989 [info] Registering git provider
+2025-02-15 17:03:07.070 [info] Git initialization state changed: state=initialized
+2025-02-15 17:03:07.070 [info] Review+0> Validate state in progress
+2025-02-15 17:03:07.070 [info] Review+0> Validating state...
+2025-02-15 17:03:07.215 [info] Found GitHub remote for folder /home/juanluis/git-repositories/TFM-BigData
+2025-02-15 17:03:07.532 [warning] Unable to resolve remote: HttpError: request to https://api.github.com/repos/juanluserra/TFM-BigData failed, reason: getaddrinfo EAI_AGAIN api.github.com
+2025-02-15 17:03:07.532 [info] Missing upstream check failed: HttpError: request to https://api.github.com/repos/juanluserra/TFM-BigData failed, reason: getaddrinfo EAI_AGAIN api.github.com
+2025-02-15 17:03:07.534 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-15 17:03:07.682 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-15 17:03:07.811 [info] FolderRepositoryManager+0> Using globalState assignableUsers for 1.
+2025-02-15 17:03:07.870 [error] GitHubRepository+0> Error querying GraphQL API: Network error: request to https://api.github.com/graphql failed, reason: getaddrinfo EAI_AGAIN api.github.com. 
+2025-02-15 17:03:07.932 [info] Repo state for file:///home/juanluis/git-repositories/TFM-BigData changed.
+2025-02-15 17:03:07.932 [info] Repo file:///home/juanluis/git-repositories/TFM-BigData has already been setup.
+2025-02-15 17:05:07.045 [error] Review+0> Timeout occurred while validating state.
+2025-02-15 17:45:37.111 [warning] /home/juanluis/.ssh/config: ENOENT: no such file or directory, open '/home/juanluis/.ssh/config'
+2025-02-15 17:45:37.111 [info] Activation> Extension version: 0.104.1
+2025-02-15 17:45:40.675 [info] Looking for git repository
+2025-02-15 17:45:40.675 [info] Found 0 repositories during activation
+2025-02-15 17:45:40.675 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-15 17:45:40.678 [info] Registering git provider
+2025-02-15 17:45:40.741 [info] Repo state for file:///home/juanluis/git-repositories/TFM-BigData changed.
+2025-02-15 17:45:40.741 [info] Repo file:///home/juanluis/git-repositories/TFM-BigData has already been setup.
+2025-02-15 17:45:41.170 [info] Git initialization state changed: state=initialized
+2025-02-15 17:45:41.170 [info] Review+0> Validate state in progress
+2025-02-15 17:45:41.170 [info] Review+0> Validating state...
+2025-02-15 17:45:41.268 [info] Found GitHub remote for folder /home/juanluis/git-repositories/TFM-BigData
+2025-02-15 17:45:43.052 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-15 17:45:43.248 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-15 17:45:43.357 [info] FolderRepositoryManager+0> Using globalState assignableUsers for 1.
+2025-02-15 17:45:44.635 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-15 19:00:32.059 [warning] /home/juanluis/.ssh/config: ENOENT: no such file or directory, open '/home/juanluis/.ssh/config'
+2025-02-15 19:00:32.059 [info] Activation> Extension version: 0.104.1
+2025-02-15 19:00:35.176 [info] Looking for git repository
+2025-02-15 19:00:35.176 [info] Found 0 repositories during activation
+2025-02-15 19:00:35.176 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-15 19:00:35.181 [info] Registering git provider
+2025-02-15 19:00:35.181 [info] Review+0> Validate state in progress
+2025-02-15 19:00:35.181 [info] Review+0> Validating state...
+2025-02-15 19:00:35.199 [info] Repo state for file:///home/juanluis/git-repositories/TFM-BigData changed.
+2025-02-15 19:00:35.199 [info] Repo file:///home/juanluis/git-repositories/TFM-BigData has already been setup.
+2025-02-15 19:00:35.293 [info] Found GitHub remote for folder /home/juanluis/git-repositories/TFM-BigData
+2025-02-15 19:00:37.649 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-15 19:00:37.932 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-15 19:00:38.026 [info] FolderRepositoryManager+0> Using globalState assignableUsers for 1.
+2025-02-15 19:00:38.754 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-15 19:00:53.621 [info] Review+0> Validate state in progress
+2025-02-15 19:00:53.621 [info] Review+0> Validating state...
+2025-02-15 19:00:53.739 [info] Found GitHub remote for folder /home/juanluis/git-repositories/TFM-BigData
+2025-02-15 19:00:53.740 [info] Using in-memory cached assignable users.
+2025-02-15 19:00:53.817 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-15 19:00:54.280 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-15 19:00:58.722 [info] Review+0> Validate state in progress
+2025-02-15 19:00:58.722 [info] Review+0> Validating state...
+2025-02-15 19:00:58.743 [info] Found GitHub remote for folder /home/juanluis/git-repositories/TFM-BigData
+2025-02-15 19:00:58.744 [info] Using in-memory cached assignable users.
+2025-02-15 19:00:58.782 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-15 19:00:59.565 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

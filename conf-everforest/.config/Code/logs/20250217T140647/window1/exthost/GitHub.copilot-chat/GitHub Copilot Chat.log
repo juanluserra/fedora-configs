@@ -1,0 +1,28 @@
+2025-02-17 14:07:01.835 [info] Using the Electron fetcher.
+2025-02-17 14:07:01.835 [info] Initializing Git extension service.
+2025-02-17 14:07:01.835 [info] Successfully activated the vscode.git extension.
+2025-02-17 14:07:01.835 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 14:07:01.835 [info] Successfully registered Git commit message provider.
+2025-02-17 14:07:06.280 [info] Logged in as juanluserra
+2025-02-17 14:07:07.123 [info] Got Copilot token for juanluserra
+2025-02-17 14:07:07.374 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 14:07:07.388 [info] Registering default platform agent...
+2025-02-17 14:07:07.392 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 14:07:07.392 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 14:07:07.392 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 14:07:07.672 [info] Fetched model metadata in 526ms 675cdf3f-963f-456a-b21d-957d3f64b272
+2025-02-17 14:07:07.766 [info] activationBlocker from 'languageModelAccess' took for 5741ms
+2025-02-17 14:09:53.147 [info] Using the Electron fetcher.
+2025-02-17 14:09:53.147 [info] Initializing Git extension service.
+2025-02-17 14:09:53.147 [info] Successfully activated the vscode.git extension.
+2025-02-17 14:09:53.147 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 14:09:53.147 [info] Successfully registered Git commit message provider.
+2025-02-17 14:09:56.448 [info] Logged in as juanluserra
+2025-02-17 14:09:57.379 [info] Got Copilot token for juanluserra
+2025-02-17 14:09:57.555 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 14:09:57.574 [info] Registering default platform agent...
+2025-02-17 14:09:57.596 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 14:09:57.596 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 14:09:57.596 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 14:09:57.840 [info] Fetched model metadata in 443ms f629168c-e267-4447-8505-3f45083a71ae
+2025-02-17 14:09:57.936 [info] activationBlocker from 'languageModelAccess' took for 4436ms

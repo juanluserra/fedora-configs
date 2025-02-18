@@ -1,0 +1,23 @@
+2025-02-17 17:05:18.083 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-02-17 17:05:18.083 [info] [AutoSync] Enabled.
+2025-02-17 17:05:18.083 [info] [AutoSync] Suspended until auth token is available.
+2025-02-17 17:05:45.633 [info] [AutoSync] Triggered by Interval
+2025-02-17 17:05:45.633 [info] Sync started.
+2025-02-17 17:05:46.164 [info] Settings: No changes found during synchronizing settings.
+2025-02-17 17:05:46.174 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-17 17:05:46.180 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-17 17:05:46.183 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-17 17:05:46.190 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-17 17:05:46.335 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-17 17:05:46.337 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-17 17:05:46.340 [info] Sync done. Took 708ms
+2025-02-17 17:06:00.244 [info] [AutoSync] Triggered by Activity
+2025-02-17 17:06:00.245 [info] Sync started.
+2025-02-17 17:06:00.335 [info] Settings: No changes found during synchronizing settings.
+2025-02-17 17:06:00.338 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-17 17:06:00.340 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-17 17:06:00.343 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-17 17:06:00.347 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-17 17:06:00.444 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-17 17:06:00.447 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-17 17:06:00.450 [info] Sync done. Took 204ms

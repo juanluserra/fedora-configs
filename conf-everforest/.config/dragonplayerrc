@@ -1,0 +1,147 @@
+[General]
+AccentColor[$d]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=$HOME/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/Export subtitles - 2 Role of the hippocampus.mp4
+File10[$e]=$HOME/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/1. Introduction to the hippocampus.mp4
+File2[$e]=$HOME/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/2. Role of the hippocampus.mp4
+File3[$e]=$HOME/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/3. Key discoveries made in the Hippocampus.mp4
+File4[$e]=/run/media/juanluis/DATOS/Fotos/2007/Camara/ValenciaOceanografic200503.wmv
+File5[$e]=/run/media/juanluis/DATOS/Fotos/2007/Camara/cumpleClara2007.mov
+File6[$e]=/run/media/juanluis/DATOS/Fotos/Tarjeta2GbClara/DCIM/100JLCAM/DSCF0092.AVI
+File7[$e]=/run/media/juanluis/DATOS/Fotos/Tarjeta256MbJuanLuis/DCIM/106NIKON/DSCN2175.MOV
+File8[$e]=/run/media/juanluis/CCCOMA_X64FRE_ES-ES_DV9/Ronaldinho.avi
+File9[$e]=/run/media/juanluis/CCCOMA_X64FRE_ES-ES_DV9/I CANT DANIEL.avi
+Name1[$e]=Export subtitles - 2 Role of the hippocampus.mp4
+Name10[$e]=1. Introduction to the hippocampus.mp4
+Name2[$e]=2. Role of the hippocampus.mp4
+Name3[$e]=3. Key discoveries made in the Hippocampus.mp4
+Name4[$e]=ValenciaOceanografic200503.wmv
+Name5[$e]=cumpleClara2007.mov
+Name6[$e]=DSCF0092.AVI
+Name7[$e]=DSCN2175.MOV
+Name8[$e]=Ronaldinho.avi
+Name9[$e]=I CANT DANIEL.avi
+TimeFormat=1
+UseSystemBell[$d]
+Volume=1
+accentColorFromWallpaper[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=nan
+
+[file:///home/juanluis/git-repositories/TFM-BigData/apuntes/Hipocampo1/8. The Hippocampus.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,2,10
+Hue=0
+IsVideo=true
+Position=5650
+Preferred Size=621,604
+Saturation=0
+Subtitle=2
+
+[file:///home/juanluis/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/1. Introduction to the hippocampus.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,2,17
+Hue=0
+IsVideo=true
+Position=22449
+Preferred Size=1358,633
+Saturation=0
+
+[file:///home/juanluis/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/2. Role of the hippocampus.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,2,10
+Hue=0
+IsVideo=true
+Preferred Size=621,604
+Saturation=0
+Subtitle=2
+
+[file:///home/juanluis/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/3. Key discoveries made in the Hippocampus.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,2,10
+Hue=0
+IsVideo=true
+Position=445560
+Preferred Size=1366,609
+Saturation=0
+Subtitle=3
+
+[file:///home/juanluis/git-repositories/TFM-BigData/apuntes/Hipocampo2-1.1/Export subtitles - 2 Role of the hippocampus.mp4]
+Brightness=0
+Contrast=0
+Date=2025,2,10
+Hue=0
+IsVideo=false
+Preferred Size=651,439
+Saturation=0
+
+[file:///run/media/juanluis/CCCOMA_X64FRE_ES-ES_DV9/I CANT DANIEL.avi]
+Brightness=0
+Contrast=0
+Date=2025,2,15
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///run/media/juanluis/CCCOMA_X64FRE_ES-ES_DV9/Ronaldinho.avi]
+Brightness=0
+Contrast=0
+Date=2025,2,15
+Hue=0
+IsVideo=false
+Position=7690
+Preferred Size=1024,768
+Saturation=0
+
+[file:///run/media/juanluis/DATOS/Fotos/2007/Camara/ValenciaOceanografic200503.wmv]
+Brightness=0
+Contrast=0
+Date=2025,2,11
+Hue=0
+IsVideo=false
+Position=150256
+Preferred Size=100,30
+Saturation=0
+
+[file:///run/media/juanluis/DATOS/Fotos/2007/Camara/cumpleClara2007.mov]
+Brightness=0
+Contrast=0
+Date=2025,2,11
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///run/media/juanluis/DATOS/Fotos/Tarjeta256MbJuanLuis/DCIM/106NIKON/DSCN2175.MOV]
+Brightness=0
+Contrast=0
+Date=2025,2,11
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///run/media/juanluis/DATOS/Fotos/Tarjeta2GbClara/DCIM/100JLCAM/DSCF0092.AVI]
+Brightness=0
+Contrast=0
+Date=2025,2,11
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0

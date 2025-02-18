@@ -1,0 +1,544 @@
+ReadyRc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: Nothing to do for '/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex'.
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux)
+
+Package rerunfilecheck Warning: File `apuntes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 63270 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: References changed.
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  build/apuntes.aux
+  build/apuntes.out
+  build/apuntes.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 62526 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 63251 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux)
+
+Package rerunfilecheck Warning: File `apuntes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 62793 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: References changed.
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  build/apuntes.aux
+  build/apuntes.out
+  build/apuntes.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 64292 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux)
+
+Package rerunfilecheck Warning: File `apuntes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 64678 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: References changed.
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  build/apuntes.aux
+  build/apuntes.out
+  build/apuntes.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 65390 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 66456 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux)
+
+Package rerunfilecheck Warning: File `apuntes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 68493 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: References changed.
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  build/apuntes.aux
+  build/apuntes.out
+  build/apuntes.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 69638 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+
+Rc files read:
+  /etc/latexmkrc
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+Category 'changed_user':
+  /home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+  apuntes.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --max-print-line=10000 -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="build"  "/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(/home/juanluis/git-repositories/master_bigdata/IOT/apuntes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/home/juanluis/.miktex/texmfs/install/tex/latex/base/size12.clo)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/inputenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/babel.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/juanluis/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf)) (/home/juanluis/.miktex/texmfs/install/tex/generic/babel/locale/es/babel-spanish.tex) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/iftex/iftex.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/graphics/keyval.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/logreq/logreq.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/ifthen.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/url/url.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg) (/home/juanluis/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def) (/home/juanluis/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/juanluis/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex))) (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/datetime/dt-spanish.def)) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty (/home/juanluis/.miktex/texmfs/install/tex/latex/refcount/refcount.sty) (/home/juanluis/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty)) (/home/juanluis/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/puenc.def) (/home/juanluis/.miktex/texmfs/install/tex/generic/bitset/bitset.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty)) (/home/juanluis/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def (/home/juanluis/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty (/home/juanluis/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty))) (/home/juanluis/.miktex/texmfs/install/tex/latex/parskip/parskip.sty) (/home/juanluis/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) (/home/juanluis/.miktex/texmfs/install/tex/latex/biblatex/lbx/spanish.lbx) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.bbl) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out) (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.out)
+[1{/home/juanluis/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.toc)
+[2]
+Overfull \hbox (8.10457pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Arquitectura fun-cio-nal de un no-do sen-sor/actuador 
+
+[3] (/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.aux) )
+(see the transcript file for additional information)</home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/juanluis/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.pdf (3 pages, 71557 bytes).
+SyncTeX written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex.gz.
+Transcript written on /home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.log.
+Latexmk: Getting log file 'build/apuntes.log'
+Latexmk: Examining 'build/apuntes.fls'
+Latexmk: Examining 'build/apuntes.log'
+Latexmk: Found input bbl file 'build/apuntes.bbl'
+Latexmk: Log file says output to 'build/apuntes.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib
+Latexmk: All targets (build/apuntes.pdf) are up-to-date
+

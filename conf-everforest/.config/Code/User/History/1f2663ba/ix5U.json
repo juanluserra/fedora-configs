@@ -1,0 +1,140 @@
+{
+    // Ajustes de jupyter
+    "jupyter.askForKernelRestart": false,
+    "notebook.confirmDeleteRunningCell": false,
+
+    // Ajuste para no preguntar si eliminar los archivos
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.Rmd": "rmd"
+    },
+    "diffEditor.codeLens": true,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "r.rterm.option": ["--no-save", "--no-restore"],
+    "r.sessionWatcher": true,
+    "r.plot.useHttpgd": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "[rmd]": {
+    "editor.wordWrap": "on"
+    },
+    "[plaintext]": {
+    "editor.wordWrap": "on"
+    },
+    "cSpell.maxNumberOfProblems": 100000000,
+    "cSpell.language": "en,es",
+    "cSpell.enabledFileTypes": {
+        "jsonc": false,
+        "python": false,
+        "typst": false,
+        "rmd": false,
+        "r": false,
+        "plaintext": true,
+        "gitignore": false,
+        "html": false,
+        "markdown": false,
+        "shellscript": false,
+        "dockercompose": false,
+        "json": false
+    },
+    "cSpell.userWords": [
+        "fidelización",
+        "hiperplano",
+        "multijugador",
+        "Serradilla"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.allowChords": false,
+    "window.confirmSaveUntitledWorkspace": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "vsintellicode.python.completionsEnabled": true,
+    "intellicodeApiExamples.python.enabled": true,
+    "workbench.startupEditor": "none",
+    "[typst]": {
+        "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    },
+    "[typst-code]": {
+        "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        "workbench.action.findInFiles",
+        "workbench.action.terminal.focusFind"
+    ],
+    "tinymist.preview.refresh": "onSave",
+    "[typ]": {
+        "editor.wordWrap": "on"
+    },
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
+    "latex-workshop.latex.outDir": "%DIR%/build",
+    "r.bracketedPaste": true,
+    "r.removeLeadingComments": true,
+    "r.rmarkdown.codeLensCommands": [
+        "r.runCurrentChunk",
+        "r.runAboveChunks",
+        "r.goToPreviousChunk",
+        "r.goToNextChunk",
+        "r.runAllChunks"
+    ],
+    "terminal.integrated.env.windows": {
+        "COLORTERM": "truecolor"
+    },
+    "r.rterm.windows": "C:\\Program Files\\R\\R-4.4.2\\bin\\R.exe",
+    "r.rterm.linux": "/home/juanluis/.venv10/bin/radian",
+    "terminal.external.windowsExec": "",
+    "terminal.external.linuxExec": "",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "/bin/zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.mp4": "analyticsignal.preview-mp4"
+    },
+    "workbench.colorTheme": "Everforest Dark",
+    "workbench.iconTheme": "vs-seti-jetbrainsmononerdfontmono",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "background.backgroundOpacity": [
+        0.1,
+        0.12,
+        0.1,
+        0.1
+    ],
+    "background.renderContentAboveBackground": true,
+    "background.panelBackgrounds": [
+        "/home/juanluis/Imágenes/sunset_kanagawa-dragon.jpg"
+    ],
+    "background.editorBackgrounds": [
+        "/home/juanluis/Imágenes/wallhaven-o5rjq9.png"
+    ],
+}

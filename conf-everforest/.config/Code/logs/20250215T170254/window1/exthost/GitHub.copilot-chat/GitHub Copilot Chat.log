@@ -1,0 +1,141 @@
+2025-02-15 17:03:04.598 [info] Using the Electron fetcher.
+2025-02-15 17:03:04.598 [info] Initializing Git extension service.
+2025-02-15 17:03:04.598 [info] Successfully activated the vscode.git extension.
+2025-02-15 17:03:04.598 [info] Enablement state of the vscode.git extension: true.
+2025-02-15 17:03:04.598 [info] Successfully registered Git commit message provider.
+2025-02-15 17:03:07.810 [info] Logged in as juanluserra
+2025-02-15 17:03:07.867 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28): Failed to get copilot token
+2025-02-15 17:03:07.867 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-02-15 17:03:07.867 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-15 17:03:07.867 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-15 17:03:07.867 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-15 17:03:07.867 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-15 17:03:07.867 [info] activationBlocker from 'languageModelAccess' took for 3698ms
+2025-02-15 17:04:07.894 [info] Logged in as juanluserra
+2025-02-15 17:04:07.907 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-02-15 17:11:52.022 [info] Logged in as juanluserra
+2025-02-15 17:11:53.227 [info] Got Copilot token for juanluserra
+2025-02-15 17:11:53.308 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 17:11:53.314 [info] Registering default platform agent...
+2025-02-15 17:11:53.320 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-15 17:11:53.320 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-15 17:11:53.320 [info] Successfully registered GitHub PR title and description provider.
+2025-02-15 17:11:53.829 [info] Fetched model metadata in 332ms 99b378eb-0176-4347-bcec-61d032eb4749
+2025-02-15 17:20:22.074 [error] Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:9031
+    at Array.filter (<anonymous>)
+    at NR.removeExpiredCertificates (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:9010)
+    at NR.getAllRootCAs (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:8845)
+    at UR.createSecureContext (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:10770)
+    at UR.applyToRequestOptions (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:11016)
+    at AB.fetch (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:900:2346)
+    at /home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:929:134
+    at mw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32733): Failed to parse certificate # ACCVRAIZ1
+
+2025-02-15 17:20:22.074 [error] Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:9031
+    at Array.filter (<anonymous>)
+    at NR.removeExpiredCertificates (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:9010)
+    at NR.getAllRootCAs (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:8845)
+    at UR.createSecureContext (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:10770)
+    at UR.applyToRequestOptions (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:899:11016)
+    at AB.fetch (/home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:900:2346)
+    at /home/juanluis/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:929:134
+    at mw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32733): Failed to parse certificate # ACCVRAIZ1
+
+2025-02-15 17:20:22.074 [info] Removed 2 expired certificates
+2025-02-15 17:21:20.970 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:20.971 [info] request done: requestId: [72b42846-7d5c-49cc-88fd-73f3ef32b38a] model deployment ID: []
+2025-02-15 17:21:24.795 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:24.796 [info] request done: requestId: [8fa2b43d-a809-49d5-bbe0-dc1f7ed03e5d] model deployment ID: []
+2025-02-15 17:21:25.395 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:25.396 [info] request done: requestId: [5d462c9d-0a52-408c-8dfe-1946a033d64d] model deployment ID: []
+2025-02-15 17:21:25.403 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:25.403 [info] request done: requestId: [e1ec3515-1ef1-4ee3-a309-8986db959dd1] model deployment ID: []
+2025-02-15 17:21:35.249 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:35.250 [info] request done: requestId: [8a1c91b2-65f5-4b4e-80ab-3a008a74cfc1] model deployment ID: []
+2025-02-15 17:21:41.785 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:41.786 [info] request done: requestId: [637217ed-b979-4c57-ab08-f31737522aee] model deployment ID: []
+2025-02-15 17:21:42.271 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:42.271 [info] request done: requestId: [9e02c3fe-11aa-4f9f-a366-72144ed4d8d4] model deployment ID: []
+2025-02-15 17:21:43.087 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:21:43.087 [info] request done: requestId: [b3690b28-c68b-4de9-82ee-45f86f585fe2] model deployment ID: []
+2025-02-15 17:26:55.221 [info] Fetched model metadata in 777ms cda66d31-a2bb-482b-a249-88da322ef199
+2025-02-15 17:36:53.233 [info] Logged in as juanluserra
+2025-02-15 17:36:54.542 [info] Got Copilot token for juanluserra
+2025-02-15 17:36:54.558 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 17:37:34.591 [info] Fetched model metadata in 687ms b1ebe82c-f0d0-4f8d-9085-5220dd28d6aa
+2025-02-15 17:37:35.090 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:37:35.091 [info] request done: requestId: [9b871cab-0ce5-4138-98a9-cf529b3fa0cc] model deployment ID: []
+2025-02-15 17:37:36.477 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:37:36.478 [info] request done: requestId: [765f7aa9-fb7b-4e52-bed0-992100aec6d7] model deployment ID: []
+2025-02-15 17:37:36.912 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:37:36.913 [info] request done: requestId: [062df818-38a7-414f-8fed-d7f897c5abed] model deployment ID: []
+2025-02-15 17:37:36.919 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:37:36.920 [info] request done: requestId: [2afbcdbf-45e7-434f-abdc-535e341807b7] model deployment ID: []
+2025-02-15 17:45:33.788 [info] Using the Electron fetcher.
+2025-02-15 17:45:33.788 [info] Initializing Git extension service.
+2025-02-15 17:45:33.788 [info] Successfully activated the vscode.git extension.
+2025-02-15 17:45:33.788 [info] Enablement state of the vscode.git extension: true.
+2025-02-15 17:45:33.788 [info] Successfully registered Git commit message provider.
+2025-02-15 17:45:41.229 [info] Logged in as juanluserra
+2025-02-15 17:45:42.231 [info] Got Copilot token for juanluserra
+2025-02-15 17:45:43.439 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 17:45:43.449 [info] Registering default platform agent...
+2025-02-15 17:45:43.459 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-15 17:45:43.459 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-15 17:45:43.459 [info] Successfully registered GitHub PR title and description provider.
+2025-02-15 17:45:43.481 [info] Fetched model metadata in 1225ms 4be2e777-e087-4eab-81f8-8d0795cd4aea
+2025-02-15 17:45:43.859 [info] activationBlocker from 'languageModelAccess' took for 7059ms
+2025-02-15 17:46:10.476 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:46:10.477 [info] request done: requestId: [9151f02c-fb12-4bae-a075-f9c67f94f5af] model deployment ID: []
+2025-02-15 17:46:11.930 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:46:11.931 [info] request done: requestId: [429e9d1d-6be9-4640-ac9d-c5ec97516de6] model deployment ID: []
+2025-02-15 17:48:03.318 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:48:03.319 [info] request done: requestId: [65e977ec-fca6-459b-9a34-17569f1955ab] model deployment ID: []
+2025-02-15 17:48:04.619 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:48:04.620 [info] request done: requestId: [af2d105a-b097-4eb8-bea3-3a97303f0254] model deployment ID: []
+2025-02-15 17:48:20.521 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:48:20.522 [info] request done: requestId: [42c19b36-b1c4-4bb6-8724-22115a09b889] model deployment ID: []
+2025-02-15 17:48:21.886 [info] message 0 returned. finish reason: [stop]
+2025-02-15 17:48:21.887 [info] request done: requestId: [874478d9-ef17-4104-aa44-d9d78ca258f0] model deployment ID: []
+2025-02-15 18:00:02.198 [info] Fetched model metadata in 853ms 7d9ca864-eac8-4c6f-9ca2-ffd41b3a9d3a
+2025-02-15 18:00:02.650 [info] message 0 returned. finish reason: [stop]
+2025-02-15 18:00:02.651 [info] request done: requestId: [821378ac-d12f-409f-a38d-6cdda181c09e] model deployment ID: []
+2025-02-15 18:00:04.338 [info] message 0 returned. finish reason: [stop]
+2025-02-15 18:00:04.338 [info] request done: requestId: [62e4d624-cd71-47e9-86ff-c75b344f1353] model deployment ID: []
+2025-02-15 18:10:42.238 [info] Logged in as juanluserra
+2025-02-15 18:10:43.182 [info] Got Copilot token for juanluserra
+2025-02-15 18:10:43.198 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 18:17:06.606 [info] Fetched model metadata in 740ms 8aa37461-5f0a-4817-8e06-4f4b5c59dcbf
+2025-02-15 18:35:43.189 [info] Logged in as juanluserra
+2025-02-15 18:35:44.566 [info] Got Copilot token for juanluserra
+2025-02-15 18:35:44.585 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 18:35:45.689 [info] Fetched model metadata in 1099ms cda88427-f82c-47b3-94bb-5bc31e5178e6
+2025-02-15 18:50:46.339 [info] Fetched model metadata in 530ms b1641524-f69e-4419-8a11-e9ea9bf0d95d
+2025-02-15 18:56:23.476 [info] message 0 returned. finish reason: [stop]
+2025-02-15 18:56:23.477 [info] request done: requestId: [91fe69aa-c899-4242-abbc-a478c29063ee] model deployment ID: []
+2025-02-15 18:56:27.315 [info] message 0 returned. finish reason: [stop]
+2025-02-15 18:56:27.316 [info] request done: requestId: [c8748178-2f11-4818-8def-a0ed469664be] model deployment ID: []
+2025-02-15 19:00:32.151 [info] Using the Electron fetcher.
+2025-02-15 19:00:32.151 [info] Initializing Git extension service.
+2025-02-15 19:00:32.151 [info] Successfully activated the vscode.git extension.
+2025-02-15 19:00:32.151 [info] Enablement state of the vscode.git extension: true.
+2025-02-15 19:00:32.151 [info] Successfully registered Git commit message provider.
+2025-02-15 19:00:37.962 [info] Logged in as juanluserra
+2025-02-15 19:00:38.914 [info] Got Copilot token for juanluserra
+2025-02-15 19:00:39.154 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-15 19:00:39.170 [info] Registering default platform agent...
+2025-02-15 19:00:39.177 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-15 19:00:39.177 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-15 19:00:39.177 [info] Successfully registered GitHub PR title and description provider.
+2025-02-15 19:00:39.418 [info] Fetched model metadata in 479ms 61d8ddbf-b5a8-4361-8829-143cdcc24ac4
+2025-02-15 19:00:39.555 [info] activationBlocker from 'languageModelAccess' took for 6595ms

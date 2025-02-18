@@ -1,0 +1,25 @@
+2025-02-17T13:23:02:896 [info]: PacProxyAgent not found
+2025-02-17T13:23:07:538 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T13:23:08:051 [info]: handleRegisterCapability: {
+      "id": "df3e5cbd-fd1d-4f66-8b8e-9aa9b7406a88",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-02-17T13:23:08:306 [info]: Extracted urls: []
+2025-02-17T13:23:08:311 [info]: Found 0 projects for urls: []
+2025-02-17T13:23:08:312 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T13:23:09:120 [info]: Extracted urls: [
+      "https://github.com/juanluserra/TFM-BigData.git"
+    ]
+2025-02-17T13:23:09:124 [info]: Found 0 projects for urls: [
+      "https://github.com/juanluserra/TFM-BigData.git"
+    ]
+2025-02-17T13:23:09:124 [warning]: There is no GitLab account available with access to suggestions
+2025-02-17T13:25:37:732 [info]: Extracted urls: []
+2025-02-17T13:25:39:104 [info]: Found 0 projects for urls: []

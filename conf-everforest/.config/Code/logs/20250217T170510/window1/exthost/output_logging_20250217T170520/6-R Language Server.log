@@ -1,0 +1,11 @@
+R Language Server (25247) started
+R library paths: /home/juanluis/R/x86_64-redhat-linux-gnu-library/4.4
+/usr/lib64/R/library
+/usr/share/R/library
+
+R Language Server (25247) exited from signal SIGKILL
+[Error - 17:06:21] Client R Language Server: connection to server is erroring.
+This socket has been ended by the other party
+[Error - 17:06:21] Stopping server failed
+  Message: This socket has been ended by the other party
+  Code: -32099 

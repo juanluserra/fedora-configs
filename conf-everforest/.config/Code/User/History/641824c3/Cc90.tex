@@ -1,0 +1,320 @@
+% Clase de documento
+\documentclass[12pt, letterpaper]{article}
+
+% Paquetes
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{biblatex}
+\usepackage{csquotes}
+\usepackage{datetime}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{amsmath}
+
+%------------ 
+% Decoración
+%------------
+\fancyhf{}
+\setlength{\headheight}{15.71667pt}
+\addtolength{\topmargin}{-3.71667pt}
+\fancyhf{}
+
+% Header
+\fancyhead[L]{\textsc{\doctitle}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancyhead[R]{\textit{\nouppercase{\rightmark}}}
+
+% Footer
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfoot[C]{Página \thepage}
+
+% Título
+\newcommand{\doctitle}{Apuntes del TFM de Lennard}
+\title{\doctitle}
+\author{Juan Luis Serradilla Tormos}
+\date{\monthname[\month] de \the\year}
+
+% Bibliografía
+\addbibresource{test.bib}
+
+% Eliminar sangría
+\setlength{\parindent}{0pt}
+
+% Aumentar la separación entre párrafos
+\setlength{\parskip}{1em plus 0.5em minus 0.2em}
+
+%-----------
+% Documento
+%-----------
+\begin{document}
+
+% Mostrar header y footer
+\pagestyle{fancy}
+
+% Mostrar el título
+\maketitle
+
+% Índice
+\newpage
+\tableofcontents
+
+% Contenido
+\newpage
+\section{Guerra Cognitiva}
+
+\subsection{Caracterización de Guerra Cognitiva}
+
+Hay varias deficiones de guerra cognitiva:
+\begin{itemize}
+    \item ``El arte de usar herramientas tecnológicas para alterar la cognición de los objetivos humanos''.
+    \item ``Alterar a través de medios informativos cómo piensa una población objetivo, y a través de eso, cómo actúan''.
+\end{itemize}
+
+De esta forma tenemos un acercamiento más social, en el cual se busca influir en la población a través de la información y la desinformación, y otro más tecnológico, en el cual se busca influir en la cognición y la mente de las personas a través de tecnologías avanzadas. Este segundo enfoque se denomina ``NeuroStrike'' y es en el que se basa el TFM.\@
+
+\
+\subsection{NeuroStrike y Síndrome de Havana}
+
+El \textbf{Síndrome de La Habana} describe una condición que se originó a partir de una serie de incidentes de salud, los cuales eran distintos a cualquier trastorno neurológico o mental documentado anteriormente. 
+
+El primer caso ocurrió en La Habana en 2016, cuando un miembro de la embajada de EEUU sufrió de un dolor agudo acompañado de un ruido fuerte y deterioro cognitivo, seguido de una serie de síntomas a largo plazo. A lo largo de los siguientes años surgieron casos similares, pero no se realizó una investigación más cercana hasta 2020, cuando la Academia Nacional de Ciencias publicó un informe extenso. Aunque la evaluación fue difícil debido a la falta de datos clínicos completos y uniformes, se sugirió que la fuente más probable de los síntomas era una forma de NeuroStrike (energía de radiofrecuencia dirigida y pulsada). Otros posibles mecanismos, como agentes químicos o infecciosos, fueron considerados altamente improbables, y en el caso de los factores psicológicos y sociales, no podían explicar todo el panorama.\@
+
+Aunque este tema aún está siendo debatido y existen argumentos contradictorios, la mayoría de la literatura sobre la guerra cognitiva técnica considera que este síndrome está relacionado con ella. Con base en esto, la radiación electromagnética de radiofrecuencia pulsada representa una forma relevante de NeuroStrikes, que podría ser responsable del deterioro de varios procesos cognitivos. Sus efectos exactos en el cerebro y cómo podrían mitigarse son el tema de este trabajo.
+
+\subsection{Brain-Computer Interfaces (BCIs)}
+Las BCI son sistemas que permiten la transferencia de información cerebro-computadora. Pueden leer o estimular actividad neurona, y la combinación de estos dos modos produce un sistema bidireccional.
+
+Cuando medimos la actividad neuronal se pueden observar dos fenómenos:
+\begin{itemize}
+    \item \textbf{Actividad electrofísica:} Esta proviene de las corrientes que generan los potenciales de acción.
+    \item \textbf{Acitivdad hemodinámica:} Esta actividad proviene del consumo de glucosa y oxígeno en el cerebro generado por las propias neuronas.
+\end{itemize}
+
+Podemos clasificar las BCIs dependiendo de su grado de invasividad en el sujeto.
+
+\subsubsection{BCI no invasivas}
+Los métodos no invasivos tienen la ventaja de no requerir cirugía ya que operan fuera del cráneo. Sin embargo, tienen menor resolución a la hora de grabar la actividad neuronal.
+
+\textbf{Métodos de grabación:}
+\begin{itemize}
+    \item \textbf{Electroencefalografía (EEG):} Se mide la actividad electrofísica del cerebro. Es especialmente sensible a corrientes extracelulares. Es un método sencillo y mut usado, pero tiene una resolución muy limitada debido a la cantidad de ruido.
+    \item \textbf{Resonancia magnética funcional (fMRI):} Se mide la actividad hemodinámica del cerebro. Tiene lecturas muy precisas, pudiendo identificar muy bien las regiones activas del cerebro.
+\end{itemize}
+
+\textbf{Métodos de estimulación:}
+\begin{itemize}
+    \item \textbf{Neuroestimulación eléctrica transcutánea (TENS):} Se colocan electrodos en la piel para transmitir energía eléctrica a través de esta. Aunque no se pueda controlar bien qué neuronas se activan, puede llegar a ser muy efecitvo.
+    \item \textbf{Neuromodulación ultrasónica (UNMOD):} Realiza la estimulación via estímulos mecánicos de ciertos canales de iones, en vez de con energía eléctrica directamente. Como es un método reciente no se tienen resultados concluyentes, pero es un método prometedor.
+\end{itemize}
+
+\subsubsection{Seguridad}
+Las BCIs tienen el potencial de ser tanto una fuente de riesgos como una fuente preventiva de estos.
+
+Respecto a los riesgos de seguridad de los BCI, en diversos estudios se ha visto que hasta los ciberataques más simples pueden suponer un riesgo importante para las BCI, ya que la ciberseguridad aún no ha madurado lo suficiente en este campo.
+
+Por otro lado, hay otros enfoques que utilizan las BCIs para reducir riesgos, como por ejemplo la detección de fatiga.
+
+\subsection{Simulaciones cerebrales}
+A día de hoy no entendemos completamente el funcionamiento del cerebro en su totalidad. Las simulaciones pueden ayudar a estudiar este comportamiento. Sin embargo, estas simulaciones son un campo aún nada maduro, debido al hecho de que hasta una simulación de una pequeña parte del cerebro involucra miles y miles de neuronas.
+
+Vamos a definir bien dos términos:
+\begin{itemize}
+    \item \textbf{Modelo:} Es la hipótesis que representa la estructura cerebral.
+    \item \textbf{Simulador:} Es lo que permitirá probar la hipótesis (el modelo).
+\end{itemize}
+
+
+\subsubsection{Brian2}
+Brian2 es un simulador que trabaja con abstracciones matemáticas. Permite simulaciones de redes neuronales con ``spikes'' mientras se mantiene un alto nivel de flexibilidad. Esta flexibilidad la consigue basando los modelos solo en ecuaciones matemáticas, de forma que no requieren una implementación de programación de bajo nivel. Además está programado en Python, lo que aumenta más su flexibilidad.
+
+\subsubsection{NEURON}
+Al contrario que Brian2, NEURON utiliza la precisión biológica de los modelos neuronales, enfatizando en el realismo de las transmisiones químicas y eléctricas. Debido a este alto nivel de detalle funciona mejor en simulaciones de redes neuronales pequeñas. Proporciona una interfaz gráfica para facilitar el ajuste de los parámetros y, para investigar nuevos modelos, proporciona un lenguaje de modelado específico (NMODL).
+
+\subsubsection{NEST}
+El simulator NEST utiliza simplificaciones de las representaciones neuronales. Esto hace que pierda precisión en simular el comportamiento individual de las neuronas, pero aumenta en gran medida simulando el comportamiento conjunto de grandes grupos neuronales. El entorno de simulación es flexible, permitiendo tanto Python como su lenguaje propio SLI.\@ Gracias a su estructura modulas, se pueden añadir no solo nuevos modelos, sino nuevos mecanismos y extensiones.
+
+
+\section{Trabajos relacionados}
+
+\subsection{Modelos para la Simulación de Procesos Cognitivos}
+Los criterios necesarios para elegir un buen modelo en nuestro caso de uso son:
+\begin{enumerate}
+    \item Tiene que representar una zona del cerebro relacionada con los procesos cognitivos.
+    \item Tiene que permitir una simulación de procesos cognitivos de una forma entendible y medible.
+    \item Tanto el modelo como el simulator asociado deben facilitar la integración de ataques y contramedidas a la simulación.
+    \item Debe ser lo más realista posible.
+\end{enumerate}
+
+Por ahora, los tres simuladores presentados anteriormente (Brian2, NEURON y NEST) cumplen estos criterios.
+
+\subsubsection{Una red de 1000 células para la amígdala lateral}
+Este modelo representa la parte dorsal del lateral de la amígdala y se escribe en NEURON.\@ Su propósito es diferencias los factores que intervienen en el sentimiento de miedo. Los factores a evaluar son:
+\begin{itemize}
+    \item El incremento de la capacidad de respuesta de las neuronas que se proyectan en el LA.\@
+    \item La plasticidad sináptica de estas neuronas.
+    \item La plasticidad sináptica interna del LA.\@
+\end{itemize}
+
+El modelo estaba escalado en una proporción 30:1, consistiendo en 1000 neuronas con 40000 sinapsis. Las neuronas tenían diferentes comportamientos y diferentes frecuencias de disparo. 
+
+\subsubsection{Modelo de actividad del CA1 durante tarea de memoria de trabajo}
+Este modelo representa algunas neuronas del hipocampo, específicamente neuronas piramidales de la región CA1. También está escrito en NEURON, centrado en investigar la capacidad de la memoria de trabajo (WMC) de un solo nivel neuronal.
+
+Los principales parámetros ajustables del modelo son la cantidad de dendritas que son simuladas y el nivel de ruido de fondo. 
+
+\subsubsection{Modelo del hipocampo sobre el ciclo del sueño-vigilia usando neuronas Hodgkin-Huxley}
+Este es un modelo muy detallado, que representa anatómicamente fiel la corteza entorrinal. Está escrito en Brian2 (en Python) para analizar los efectos de diferentes cambios en la red que aparecen en el ciclo sueño-vigilia. 
+
+Cada neurona se ha simulado de acuerdo al modelo de Hodgkin-Huxley como bloque individual y basado en la conductancia. En total se usaron 30000 neuronas para representar la formación del hipocampo y la corteza entorrinal. La formación del hipocampo se dividió en giro dentado, CA1 y Ca3.
+
+También se copió la organización espacial de los humanos para ser más realista. Además, el modelo permite ajustar muchos parámetros relacionados con la conductancia y otros más generales.
+
+\subsubsection{Comparación y conclusión}
+Basándonos en los criterios mencionados al principio de la sección:
+\begin{itemize}
+    \item El modelo del hipocampo es el que mejor se ajusta a los objetivos de la tesis.
+    \item El modelo de la amígdala lateral no permite realizar procesos cognitivos de alto nivel.
+    \item El modelo de la memoria de trabajo es muy simple y le falta realismo.
+\end{itemize}
+
+\subsection{Simulación de Neuroestrikes}
+Para simular el impacto de un neurostrike en el cerebro, primero se tienen que conocer y entender bien los efectos que tiene en el cerebro. Esta sección trata de resumir la literatura actual sobre los neurostrikes y sus efectos.
+
+\subsubsection{Neutrostrikes}
+Dado que el Síndrome de Havana ha sido el caso mejor documento de un supuesto neurostrike, va a ser el primero que vamos a analizar. 
+
+Los síntomas que fueron reportados en este caso se pueden dividir en síntomas inciales y en síntomas persistentes.
+\begin{itemize}
+    \item \textbf{Síntomas iniciales:} Se empieza con la percepción de un sonido fuerte (como un chirrido), acompañado de un sentimiento de vibración o presión y dolor en la cabeza. Las víctimas suelen describir como si las sensaciones sentidas viniesen de una misma dirección. Menos comunes fueron los síntomas de acúfenos, pérdida de audición maremos, caminata inestable y alteraciones visuales.
+    \item \textbf{Síntomas persistentes:} Los síntomas a largo plazo eran en su mayoría diferentes. Los mareos persistían en muchos individuos, pero los dolores de cabeza se volvían persistentes en solo algunos pacientes. Otros síntomas fueron fatiga, desequilibrios, fallos de concentración y memoria, depresiones e insomnio.
+\end{itemize}
+
+\subsubsection{Radiación electromagnética}
+No hay literatura sobre simulaciones de ataques EMR al cerebro. Por lo tanto, se intentará prestar atención a la supuesta tecnología subyacente a los neurostrikes (la RM EMR pausada) y los hallazgos generales sobre los efectos de la EMR (realizados en animales).
+
+Se ha estudiado que la EMR suele tener efectos negativos en el cerebro, pero estos efectos varían dependiendo de sus parámetros: intensidad, frecuencia y modulación (en el caso de pulsos de radiofrecuencia modulada -RM EMR-), entre otros. 
+
+Desde una perspectiva de alto nivel, los efectos incluyen la aparición de miedo o ansiedad, dificultades de aprendizaje y memoria, dolores de cabeza, etc. Todos estos síntomas son muy similares a los de NeuroStrikes. 
+
+Volviendo a los efectos de bajo nivel y las posibles causas de estos impedimentos, se han observado diferentes alteraciones en el cerebro. Se ha puesto el foco en la alteración de la memoria, ya que se usará la simulación del hipocampo. Algunos alteraciones vistas han sido:
+\begin{itemize}
+    \item Daños estructurales en ciertas áreas del cerebro.
+    \item Alto rango de cambios en neurotransmisores.
+    \item Cambios generales en al actividad electrofísica.
+\end{itemize}
+
+\section{Diseño}
+
+
+Este capítulo proporciona primero una visión general del entorno de simulación y cómo se realizaron las simulaciones. A continuación, se discuten en detalle las decisiones de diseño relacionadas con la entrada de la simulación, el análisis de salida y el ataque electromagnético. El enfoque se centra en establecer conexiones con la base teórica expuesta en el capítulo anterior.
+
+\subsection{Escenario de investigación}
+
+\subsubsection{Modelo de simulación}
+Brian2 se ha usado para correr todas las simulaciones de la tesis. Este modelo se ha creado con Python y permite simulaciones de neuronas ``spike''. El modelo trabaja con abstracciones matemáticas de neuronas y sinapsis en vez de crear estructuras precisas y realistas. Esto permite una simulación rápida y flexible.
+
+Con Brian2 es posible crear grandes simulaciones sin requerimientos de superordenadores, cosa que útil para el modelo del hipocampo, ya que contiene 30000 neuronas. 
+
+Todas las neuronas y los parámetros relacionados con la sinapsis pueden ser ajustados para explorar los efectos en la actividad neuronal. En las versiones más nuevas, se pueden ajustar fácilmente aspectos más generales del modelo.
+
+\subsubsection{Proceso de simulación}
+Una vez están los parámetros de la red configurados, se tiene que observar la actividad de las neuronas corriendo la simulación. 
+
+Una vez todo listo se ``inyecta'' el input a la red, que representa la estimulación del hipocampo por otras áreas del cerebro. Dado que la mayoría de la estimulación llega al hipocampo a partir de la corteza entorrinal, el modelo solo aplica la simulación del input a esta estrucura. Después, la señal se propaga a otras áreas.
+
+La actividad de cada neurona es simulada durante ventanas de 100ms. Después de cada ventana, se calula y se guarda el potencial dentro de la red.
+
+Los valore de salida que se recopilan son potenciales de campo local (LFP). Este output puede usarse para identificar patrones de actividad de mayores poblaciones de neuronas, que es lo que se busca en el trabajo.
+
+\subsubsection{Ajustes y configuración del modelo}
+Como se menciona anteriormnete, existen dos versiones diferentes del código del modelo:
+\begin{itemize}
+    \item Una sacada en 2018 siguiendo el paper de Aussel et al.\@ para la intestigación de los ciclos de sueño-vigilia.
+    \item La segunda versión sacada en 2022, centrada en explorar los mecanismos envueltos en la epilepsia.
+\end{itemize}
+
+Inicialmente se empezó a usar el primero modelo ya que parecía que era el que más se ajustaba a los objetivos de la tesis. Sin embargo, después de que se proporcionaran los archivos EEG necesarios y se probara el segundo modelo, se vio que este era una versión mejorada del primero. Por lo tanto, se decidió usar el segundo modelo, que permitía un entorno de simulación más realista y optimizado para la investigación de ataques EMR.\@ 
+
+En la simulación se decidió que el estado base iba a ser el estado de sueño, ya que es cuando se consolida la memoria.
+
+\subsection{Input de la simulación}
+El input de la simulación es un parámetro necesario para estimular la actividad relevante en el modelo. Hay dos formas posibles de aplicar el input:
+\begin{itemize}
+    \item Utilizando archivos EEG.\@
+    \item Creando un input artificial.
+\end{itemize}
+
+En el trabajo se exploraron las dos formas de inputs. 
+
+\subsubsection{Entrada sintética}
+El input artificial utilizado utiliza una onda cuadrática $I_{stime}$ que se aplica a la corteza entorrinal. Se define como:
+\begin{align}
+    I_{\text{stim}}(t) = 
+    \begin{cases}
+        A_1 & \text{si ${t > t_0  y\ \sin(2\pi f_1(t-t_0)) \geq 0}$} \\
+        0   & \text{en otro caso}
+    \end{cases}
+\end{align}
+
+donde $t$ es el tiempo de la simulación y $t_0$ instante inicial.
+
+Tras recrear el modelo de Aussel et al.\@, se tuvo que añadir un parámetro $w$, que defina la distancia entre ondas. La ecuación ajustada es:
+\begin{align}
+    I_{\text{stim}}(t) = 
+    \begin{cases}
+        A_1 & \text{si ${t > t_0\ y\ \sin(2\pi f_1(t-t_0)) \geq 0}\ y\ (\lfloor\frac{t-t_0}{T}\rfloor) \mod w = 0$} \\
+        0 & \text{en otro caso}
+    \end{cases}
+\end{align}
+
+donde $T$ es el periodo de la onda definido como $\frac{1}{f_1}$. 
+
+\subsubsection{Entrada realista}
+Para la entrada realista son necesarios los archivos EEG.\@ Se grabó la actividad de ciclos de sueño y vigilia y se identificó la actividad epiléptica. En el trabajo se utilizaron archivos de actividad de sueño sana.
+
+\subsection{Análisis de la salida de la simulación}
+El resultado de la simulación es un archivo de texto con valores de potenciales locales, que imitan el comportamiento de un electrodo en la zona simulada. 
+
+Como el trabajo trata de evaluar la consolidación de la memoria, se necesita una forma de medir esto. Para ello se usa como medida las SWRs (Sharp Wave Ripples).
+
+\subsubsection{Sharp Wave Ripples}
+Las SWRs representan una actividad sincronizada de grupos de neuronas, que son detectadas gracias a os registros LFP.\@ Tienen un papel fundamental en al consolidación de la memoria y se forman por dos eventos:
+\begin{itemize}
+    \item \textbf{Sharp wave:} Representa la desviación en una señal LFP de alta amplitud.
+    \item \textbf{Ripple:} Representa una oscilación de alta frecuencia en la señal LFP.\@
+\end{itemize}
+
+\subsubsection{Detección automática de SWRs}
+Dado que estas SWRs son un indicador de la consolidación de la memoria, su detección automática es muy importante para este trabajo. Sin embargo, no hay un método estándar para detectarlas. En este caso, se realiza una detección de onda aguda seguida de un análisis de frecuencias.
+
+\begin{itemize}
+    \item \textbf{Detección de onda aguda:} Para detectar la onda aguda se realiza un análisis del RMS de la señal. Si en algún momento hay una onda de 3 o más desviaciones estándar por encima del RMS, se considera que hay una onda aguda.
+    \item \textbf{Análisis de frecuencias:} Se realiza un filtrado de entre 30 y 400 Hz, seguido de una extracción de la frecuencia con mayor potencia asociada. Luego se analiza si esta frecuencia puede considerarse un ripple o no.
+\end{itemize}
+
+\subsection{Ataques electromagnéticos}
+Como el campo de investigación de los NeuroStrikes es muy nuevo, no hay un consenso cobre cómo funcionan y cómo simularlos. En este trabajo se han identificado diferentes categorías de mecanismos que pueden estar involucrados en deterioros cognitivos: daño estructural del hipocampo y cambios en los neurotransmisores.
+
+\subsubsection{Cambios en los neurotransmisores}
+Se ha demostrado que la radiación electromagnética de radiofrecuencia (RF EMR) puede tener un impacto en muchos neurotransmisores del cerebro. Concretamente, los niveles de acetilcolina tienen un impacto en la memoria, por lo que los parámetros $gCAN$ y $gACh$ permiten simular estas variaciones de acetilcolina en el hipocampo.
+
+\subsubsection{Daño estructural}
+Los daños estructurales provocados en el hipocampo por ondas electromagnéticas son de vital importancia para este trabajo, ya que se consideran una causa potencial del deterioro de la memoria y el aprendizaje.
+
+Diferentes estudios han demostrado que después de una larga exposición a radiaciones de alta frecuencia ocurre un aumento en la tasa de mortalidad de células neuronales y no neuronales.
+
+Para integrar esto al modelo de usa el parámetro $N$, que define la cantidad máxima de neuronas en los grupos neuronales más grandes. Este parámetro también escala el resto de grupos más pequeños, por lo que si este se reduce un porcentaje también lo harán de forma proporcional el resto de grupos.
+
+\subsubsection{Ataque a gran escala}
+Todos los parámetros y ataques anteriores pueden combinarse para producir un ataque a gran escala. Se definen diferentes valores de intensidad (4 en este caso), de forma que aplicando cada nivel diferente a casa parámetro se pueden definir diferentes consecuencias de ataques, siendo el valor máximo en todos los parámetros el más debastador.
+
+
+\section{Implementación}
+Esta sección trata de realizar una implementación práctica de todo lo anterior.
+
+\subsection{Entrada sintética}
+Es necesario generar una entrada sintética para generar un contexto en la primero versión..
+
+\end{document}

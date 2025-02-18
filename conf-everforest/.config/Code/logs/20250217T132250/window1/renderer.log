@@ -1,0 +1,122 @@
+2025-02-17 13:22:51.852 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:22:51.852 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:22:51.852 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:22:51.853 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:22:52.674 [info] Started local extension host with pid 19315.
+2025-02-17 13:22:53.182 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-17 13:22:53.183 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-17 13:22:53.183 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-17 13:22:56.074 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-17 13:22:56.187 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-17 13:22:56.307 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-17 13:22:59.576 [info] [perf] Render performance baseline is 64ms
+2025-02-17 13:23:03.559 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-17 13:24:22.294 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:24:22.918 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:37.804 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/juanluis/.config/Code/User/settings.json 
+2025-02-17 13:25:39.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:25:39.063 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:25:39.063 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:25:39.064 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:25:39.514 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:39.644 [info] Started local extension host with pid 21053.
+2025-02-17 13:25:40.138 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:40.295 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-17 13:25:40.295 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-17 13:25:40.296 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-17 13:25:40.408 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hms.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:8339)
+    at hms.rerender (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:6800)
+    at sUe.rerender (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:15667)
+    at jy.$c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:55200)
+    at jy.Yc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:55064)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:54399
+    at Set.forEach (<anonymous>)
+    at jy.Wc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:54383)
+    at vte.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:38198)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-02-17 13:25:41.054 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-17 13:25:41.537 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-17 13:25:42.634 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-17 13:25:42.835 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:43.478 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:45.412 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-17 13:25:46.484 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:46.787 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:46.831 [info] Extension host (LocalProcess pid: 21053) is unresponsive.
+2025-02-17 13:25:46.878 [info] [perf] Render performance baseline is 72ms
+2025-02-17 13:25:47.485 [info] Extension host (LocalProcess pid: 21053) is responsive.
+2025-02-17 13:25:48.075 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:48.318 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:49.063 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-17 13:25:51.078 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:51.291 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:57.525 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:57.789 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:57.861 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:58.226 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:25:58.753 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:25:58.980 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:26:44.363 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:26:44.645 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:42.103 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/juanluis/.config/Code/User/settings.json 
+2025-02-17 13:27:43.347 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:27:43.362 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:27:43.363 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:27:43.363 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 13:27:43.786 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:43.889 [info] Started local extension host with pid 22285.
+2025-02-17 13:27:44.259 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:44.382 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-17 13:27:44.383 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-17 13:27:44.383 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-17 13:27:44.514 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hms.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:8339)
+    at hms.rerender (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:6800)
+    at sUe.rerender (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:15667)
+    at jy.$c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:55200)
+    at jy.Yc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:55064)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:54399
+    at Set.forEach (<anonymous>)
+    at jy.Wc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:54383)
+    at vte.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1326:38198)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-02-17 13:27:45.751 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:45.752 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-17 13:27:46.376 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-17 13:27:46.504 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:47.477 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:47.785 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-17 13:27:47.902 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:48.847 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:49.138 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:49.496 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-17 13:27:51.852 [info] [perf] Render performance baseline is 73ms
+2025-02-17 13:27:52.528 [info] Extension host (LocalProcess pid: 22285) is unresponsive.
+2025-02-17 13:27:52.641 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:52.747 [info] Extension host (LocalProcess pid: 22285) is responsive.
+2025-02-17 13:27:53.088 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:53.275 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:53.685 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:27:54.166 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-02-17 13:27:54.513 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-17 13:27:54.608 [warning] UNRESPONSIVE extension host: 'github.copilot-chat' took 100% of 2.132ms, saved PROFILE here: 'file:///tmp/exthost-77da20.cpuprofile'
+2025-02-17 13:27:55.381 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-17 13:27:57.152 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:27:57.380 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:28:01.624 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:28:01.895 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-17 13:28:02.722 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-17 13:28:02.964 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

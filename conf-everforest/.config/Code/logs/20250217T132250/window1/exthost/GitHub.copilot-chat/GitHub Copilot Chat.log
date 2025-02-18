@@ -1,0 +1,42 @@
+2025-02-17 13:23:04.563 [info] Using the Electron fetcher.
+2025-02-17 13:23:04.564 [info] Initializing Git extension service.
+2025-02-17 13:23:04.564 [info] Successfully activated the vscode.git extension.
+2025-02-17 13:23:04.564 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 13:23:04.564 [info] Successfully registered Git commit message provider.
+2025-02-17 13:23:07.584 [info] Logged in as juanluserra
+2025-02-17 13:23:08.342 [info] Got Copilot token for juanluserra
+2025-02-17 13:23:09.197 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 13:23:09.211 [info] Registering default platform agent...
+2025-02-17 13:23:09.223 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 13:23:09.223 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 13:23:09.223 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 13:23:09.400 [info] Fetched model metadata in 1038ms 5d8ed613-0cf1-40b2-92ca-aed5bb90ec67
+2025-02-17 13:23:09.503 [info] activationBlocker from 'languageModelAccess' took for 5350ms
+2025-02-17 13:25:49.327 [info] Using the Electron fetcher.
+2025-02-17 13:25:49.327 [info] Initializing Git extension service.
+2025-02-17 13:25:49.327 [info] Successfully activated the vscode.git extension.
+2025-02-17 13:25:49.327 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 13:25:49.327 [info] Successfully registered Git commit message provider.
+2025-02-17 13:25:52.623 [info] Logged in as juanluserra
+2025-02-17 13:25:53.273 [info] Got Copilot token for juanluserra
+2025-02-17 13:25:55.672 [info] Fetched model metadata in 2364ms 000d26ff-ebc2-4078-bf9d-4e6f62c4b828
+2025-02-17 13:25:55.679 [info] activationBlocker from 'languageModelAccess' took for 3784ms
+2025-02-17 13:25:56.913 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 13:25:56.922 [info] Registering default platform agent...
+2025-02-17 13:25:56.925 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 13:25:56.925 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 13:25:56.925 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 13:27:55.522 [info] Using the Electron fetcher.
+2025-02-17 13:27:55.522 [info] Initializing Git extension service.
+2025-02-17 13:27:55.522 [info] Successfully activated the vscode.git extension.
+2025-02-17 13:27:55.522 [info] Enablement state of the vscode.git extension: true.
+2025-02-17 13:27:55.522 [info] Successfully registered Git commit message provider.
+2025-02-17 13:27:58.756 [info] Logged in as juanluserra
+2025-02-17 13:27:59.475 [info] Got Copilot token for juanluserra
+2025-02-17 13:28:01.012 [info] copilot token chat_enabled: true, sku: free_educational
+2025-02-17 13:28:01.027 [info] Registering default platform agent...
+2025-02-17 13:28:01.032 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-17 13:28:01.032 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-17 13:28:01.032 [info] Successfully registered GitHub PR title and description provider.
+2025-02-17 13:28:01.035 [info] Fetched model metadata in 1525ms 192acbc0-6139-465e-8d27-a5133e136f61
+2025-02-17 13:28:01.043 [info] activationBlocker from 'languageModelAccess' took for 5071ms

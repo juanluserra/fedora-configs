@@ -1,0 +1,9 @@
+2025-02-17 17:05:20.325 [info] Marked extension as removed github.copilot-1.271.0
+2025-02-17 17:05:20.432 [info] Deleted marked for removal extension from disk github.copilot /home/juanluis/.vscode/extensions/github.copilot-1.271.0
+2025-02-17 17:05:31.417 [info] Getting Manifest... mtxr.sqltools
+2025-02-17 17:05:32.855 [info] Installing extension: mtxr.sqltools {"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json","path":"/home/juanluis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-17 17:05:41.802 [info] Extension signature verification result for mtxr.sqltools: Success. Executed: true. Duration: 3455ms.
+2025-02-17 17:05:42.223 [info] Extracted extension to file:///home/juanluis/.vscode/extensions/mtxr.sqltools-0.28.4: mtxr.sqltools
+2025-02-17 17:05:42.317 [info] Renamed to /home/juanluis/.vscode/extensions/mtxr.sqltools-0.28.4
+2025-02-17 17:05:42.367 [info] Marked extension as removed mtxr.sqltools-0.28.3
+2025-02-17 17:05:42.608 [info] Extension installed successfully: mtxr.sqltools vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json

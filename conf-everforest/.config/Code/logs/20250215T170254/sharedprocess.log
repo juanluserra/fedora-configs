@@ -1,0 +1,5 @@
+2025-02-15 17:02:59.061 [info] Marked extension as removed henrytsz.nvim-2.1.9
+2025-02-15 17:02:59.195 [info] Deleted marked for removal extension from disk henrytsz.nvim /home/juanluis/.vscode/extensions/henrytsz.nvim-2.1.9
+2025-02-15 17:45:26.111 [info] Uninstalling extension from the profile: vscodevim.vim@1.29.0 vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json
+2025-02-15 17:45:26.205 [info] Marked extension as removed vscodevim.vim-1.29.0
+2025-02-15 17:45:26.547 [info] Successfully uninstalled extension from the profile vscodevim.vim@1.29.0 vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json

@@ -1,0 +1,72 @@
+[14:06:51.585][Logger] New log placeholder %WS1% registered for /home/juanluis/git-repositories/TFM-BigData .
+[14:06:51.585][Extension] Initializing LaTeX Workshop.
+[14:06:51.798][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[14:06:51.799][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[14:06:51.838][Server] Creating LaTeX Workshop http and websocket server.
+[14:06:51.984][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[14:06:52.047][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":43519} .
+[14:06:52.139][Extension] Extension root: /home/juanluis/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[14:06:52.140][Extension] $PATH: /home/juanluis/.atuin/bin:/home/juanluis/.local/bin:/home/juanluis/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:/usr/lib/jvm/jdk-17.0.12/bin
+[14:06:52.140][Extension] $SHELL: /usr/bin/zsh
+[14:06:52.140][Extension] $LANG: es_ES.UTF-8
+[14:06:52.141][Extension] $LC_ALL: undefined
+[14:06:52.141][Extension] process.platform: linux
+[14:06:52.141][Extension] process.arch: x64
+[14:06:52.142][Extension] vscode.env.appName: Visual Studio Code
+[14:06:52.142][Extension] vscode.env.remoteName: undefined
+[14:06:52.142][Extension] vscode.env.uiKind: 1
+[14:06:52.162][Config] latex-workshop.latex.outDir: "%DIR%/build" .
+[14:06:52.264][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[14:06:52.269][Root] Current workspace folders: ["file://%WS1%"]
+[14:06:52.269][Root] Try finding root from magic comment.
+[14:06:52.270][Extension] LaTeX Workshop initialized.
+[14:06:52.270][Root] Try finding root from active editor.
+[14:06:52.272][Root] Found root file from active editor: %WS1%/apuntes/ApuntesLennard.tex
+[14:06:52.272][Root] Root file changed: from %WS1%/apuntes/ApuntesLennard.tex to %WS1%/apuntes/ApuntesLennard.tex, langID latex . Refresh dependencies
+[14:06:52.272][Event] ROOT_FILE_CHANGED: "%WS1%/apuntes/ApuntesLennard.tex"
+[14:06:52.273][Cacher][Watcher] Reset.
+[14:06:52.273][Cacher][Watcher] Reset.
+[14:06:52.280][Cacher] Adding %WS1%/apuntes/ApuntesLennard.tex .
+[14:06:52.283][Cacher][Watcher] Watched file://%WS1%/apuntes/ApuntesLennard.tex with a new .* watcher on %WS1%/apuntes .
+[14:06:52.283][Event] FILE_WATCHED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[14:06:52.286][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[14:06:52.287][Event] ROOT_FILE_SEARCHED
+[14:06:52.292][Server] validOrigin is http://127.0.0.1:43519
+[14:06:53.405][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[14:06:53.406][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[14:06:55.990][Cacher] Parsed LaTeX AST in 2583.93 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[14:06:55.992][File] Calling kpsewhich to resolve article.cls .
+[14:06:56.293][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls'.
+[14:07:05.362][File] Calling kpsewhich to resolve -format=.bib test.bib .
+[14:07:05.680][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib'.
+[14:07:05.685][Cacher] Updated elements in 9693.98 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[14:07:05.686][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[14:07:05.700][Structure] Structure force updated with 0 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[14:07:05.701][Event] STRUCTURE_UPDATED
+[14:07:05.704][Structure] Structure updated with 6 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[14:07:05.706][Event] STRUCTURE_UPDATED
+[14:07:05.774][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[14:07:07.004][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[14:07:07.034][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[14:07:07.035][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[14:07:12.854][Commander] VIEW command invoked with mode: file://%WS1%/apuntes/ApuntesLennard.tex.
+[14:07:12.854][Root] Current workspace folders: ["file://%WS1%"]
+[14:07:12.855][Root] Try finding root from magic comment.
+[14:07:12.856][Root] Try finding root from active editor.
+[14:07:12.857][Root] Found root file from active editor: %WS1%/apuntes/ApuntesLennard.tex
+[14:07:12.858][Root] Keep using the same root file: %WS1%/apuntes/ApuntesLennard.tex
+[14:07:12.858][Event] ROOT_FILE_SEARCHED
+[14:07:12.858][Event] STRUCTURE_UPDATED
+[14:07:13.011][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:43519/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZqdWFubHVpcyUyRmdpdC1yZXBvc2l0b3JpZXMlMkZURk0tQmlnRGF0YSUyRmFwdW50ZXMlMkZidWlsZCUyRkFwdW50ZXNMZW5uYXJkLnBkZg .
+[14:07:13.014][Cacher][Watcher] Watched file://%WS1%/apuntes/build/ApuntesLennard.pdf with a new .pdf watcher on %WS1%/apuntes/build .
+[14:07:13.015][Event] FILE_WATCHED: "file://%WS1%/apuntes/build/ApuntesLennard.pdf"
+[14:07:13.139][Viewer] Open PDF tab for file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[14:07:13.382][Viewer] Handle data type: open
+[14:07:13.513][Server] Preview PDF file: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[14:07:13.662][Viewer] Handle data type: loaded
+[14:07:13.663][Event] VIEWER_PAGE_LOADED
+[14:08:17.012][Event] STRUCTURE_UPDATED
+[14:09:00.754][Event] STRUCTURE_UPDATED
+[14:09:04.233][Event] STRUCTURE_UPDATED
+[14:09:40.725][Cacher][Watcher] Reset.
+[14:09:40.726][Cacher][Watcher] Reset.

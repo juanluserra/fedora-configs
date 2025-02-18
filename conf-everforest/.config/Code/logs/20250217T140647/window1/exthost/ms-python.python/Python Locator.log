@@ -1,0 +1,34 @@
+2025-02-17 14:07:51.503 [info] Starting Python Locator /home/juanluis/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python-env-tools/bin/pet server
+2025-02-17 14:07:51.608 [info] Discovered env: /bin/python
+2025-02-17 14:07:51.609 [info] Discovered env: /usr/bin/python
+2025-02-17 14:07:51.609 [info] Discovered env: /usr/bin/python3
+2025-02-17 14:07:51.611 [info] Discovered env: /bin/python3
+2025-02-17 14:07:51.611 [info] Discovered env: /usr/bin/python3.10
+2025-02-17 14:07:51.612 [info] Discovered env: /bin/python3.10
+2025-02-17 14:07:51.614 [info] Discovered env: /usr/bin/python3.13
+2025-02-17 14:07:51.615 [info] Discovered env: /bin/python3.13
+2025-02-17 14:07:51.617 [info] Locator Conda took 155.160902ms
+2025-02-17 14:07:51.618 [info] Locator Homebrew took 3.577729ms
+2025-02-17 14:07:51.618 [info] Locator LinuxGlobal took 194.970427ms
+2025-02-17 14:07:51.618 [info] Locator PipEnv took 71.284µs
+2025-02-17 14:07:51.618 [info] Locator Poetry took 687.551µs
+2025-02-17 14:07:51.618 [info] Locator PyEnv took 2.267648ms
+2025-02-17 14:07:51.618 [info] Locator Venv took 49.38µs
+2025-02-17 14:07:51.618 [info] Locator VirtualEnv took 36.405µs
+2025-02-17 14:07:51.619 [info] Locator VirtualEnvWrapper took 186.474µs
+2025-02-17 14:07:51.619 [info] Locator GlobalVirtualEnvs took 694.039µs
+2025-02-17 14:07:51.620 [info] Locator Locators took 197.174252ms
+2025-02-17 14:07:51.620 [info] Locator Path took 180.779559ms
+2025-02-17 14:07:51.620 [info] Locator Workspaces took 10.267143ms
+2025-02-17 14:07:51.620 [info] Refresh completed in 197ms
+2025-02-17 14:07:51.623 [info] Resolved /bin/python
+2025-02-17 14:07:51.641 [info] Resolved /usr/bin/python
+2025-02-17 14:07:51.653 [info] Resolved /bin/python3
+2025-02-17 14:07:51.659 [info] Resolved /usr/bin/python3
+2025-02-17 14:07:51.667 [info] Resolved /usr/bin/python3.13
+2025-02-17 14:07:51.674 [info] Resolved /bin/python3.13
+2025-02-17 14:07:51.681 [info] Resolved /bin/python3.10
+2025-02-17 14:07:51.688 [info] Resolved /usr/bin/python3.10
+2025-02-17 14:07:51.956 [info] Resolved Python Environment /usr/bin/python
+2025-02-17 14:08:22.454 [info] Resolved Python Environment /usr/bin/python
+2025-02-17 14:09:00.772 [info] Resolved Python Environment /usr/bin/python

@@ -1,0 +1,194 @@
+% Clase de documento
+\documentclass[12pt, letterpaper]{article}
+
+% Paquetes
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{biblatex}
+\usepackage{csquotes}
+\usepackage{datetime}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+
+
+%------------ 
+% Decoración
+%------------
+\setlength{\headheight}{15.71667pt}
+\addtolength{\topmargin}{-3.71667pt}
+\pagestyle{fancy}
+
+% Header
+\fancyhead[L]{\textsc{\doctitle}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancyhead[R]{\textit{\nouppercase{\rightmark}}}
+
+% Footer
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfoot[C]{Página \thepage}
+
+% Título
+\newcommand{\doctitle}{Apuntes Hipocampo}
+\title{\doctitle}
+\author{Juan Luis Serradilla Tormos}
+\date{\monthname[\month] de \the\year}
+
+% Eliminar sangría
+\setlength{\parindent}{0pt}
+
+% Aumentar la separación entre párrafos
+\setlength{\parskip}{1em plus 0.5em minus 0.2em}
+
+
+%-----------
+% Documento
+%-----------
+\begin{document}
+
+% Mostrar header y footer
+\pagestyle{fancy}
+
+% Mostrar el título
+\maketitle
+
+% Índice
+\newpage
+\tableofcontents
+
+% Contenido
+\newpage
+\section{Introducción}
+El hipocampo es una estructura  situada al lado del tálamo, debajo de la amígdala. El hipocampo viene en pareja, por lo que hay un hipocampo en cada lado del cerebro, dispuestos de forma simétrica.
+
+El hipocampo es una pieza fundamental para transformar la memoria a corto plazo a memoria a largo plazo. Además, está directamente conectado a la corteza visual y tiene un papel importante en la orientación espacial y la navegación.
+
+El hipocampo es una de las únicas dos zonas donde ocurre la neurogénesis, es decir, la formación de nuevas neuronas. No se sabe mucho como esto afecta a la memoria, peor se cree que puede tener un papel importante en la formación de nuevas memorias, sustituyendo las memorias antiguas.
+
+\subsection{Caso de H.M.}
+H.M. fue un paciente que sufrió de epilepsia y fue sometido a una operación quirúrgica para extirpar el hipocampo. Tras la operación, H.M. perdió la capacidad de formar nuevas memorias a largo plazo, aunque su memoria a corto plazo seguía intacta.
+
+Por otro lado, como los ganglios basales no se vieron afectados, H.M. podía aprender tareas procedurales, por ejemplo, aprender a tocar un instrumento musical. Sin embargo, no podía recordar haber aprendido a tocar el instrumento, aunque cada vez que repetía la tarea lo hacía mejor.
+
+
+\newpage
+\section{Anatomía del Hipocampo}
+El hipocampo es una estructura que pertenece al archicórtex, un tejido cerebral de cuatr o cinco capas. Hay dos hipocampos, uno en cada parte del cerebro, siendo cada uno de ellos una estructura curvada dentro del lóbulo temporal. La estructura del hipocampo es la misma en la mayoría de los mamíferos, por lo que estudiando el hipocampo de ratas y ratones se puede aprender mucho sobre el hipocampo humano.
+
+Podemos dividir el hipocampo de varias formas:
+\begin{itemize}
+    \item Podemos dividirlo en hipocampo izquierdo y derecho.
+    \item Podemos dividir el hipocampo horizontalmente, teniendo parte superior (o dorsal) y parte inferior (o ventral).
+    \item Podemos dividir el hipocampo verticalmente, teniendo parte interior (o dorsal) y parte posterior (o caudal).
+    \item También se pueden usar los términos medial y lateral para referirse a la posición de las estructuras (cerca del centro o cerca de la periferia del cerebro).
+\end{itemize}
+
+Las coordenadas euclidianas comunes no sirven para describir bien el hipocampo, por lo que se usan coordenadas propias.
+\begin{itemize}
+    \item \textbf{Eje longitudinal}: Va desde la cabeza del hipocampo hasta la cola del hipocampo.
+    \item \textbf{Eje transversal}: Va desde la parte superior del hipocampo hasta la parte inferior, rodeando al hipocampo lateralmente.
+    \item \textbf{Eje radial}: Va desde el centro del hipocampo hasta la periferia, siendo perpendicular a los ejes longitudinal y transversal.
+\end{itemize}
+
+\subsection{Estructura neuronal}
+El hipocampo está formado por dos tipos de axones:
+\begin{itemize}
+    \item \textbf{Axones cortos:} Son axones que conectan zonas locales del hipocampo.
+    \item \textbf{Axones largos:} Son axones que conectan diferentes partes del hipocampo.
+\end{itemize}
+
+Los axones largos suelen estar estratificados, viajando en paralelo unos de otros a través de las diferentes capas. Estos axones pueden acabar convergiendo en una misma neurona, capaz de integrar los diferentes impulsos. 
+
+Si nos fijamos en la dirección a la que apuntas los axones y las dendritas de las neuronas del hipocampo, podemos ver que estas siguen un flujo unidireccional.
+
+\subsection{Estructuras del hipocampo}
+Cuando nos referimos al hipocampo, solemos referirnos a cuatro subregiones dentro de este: el giro dentado (DG), el hipocampo CA1, el hipocampo CA2 y el hipocampo CA3. Con la formación del hipocampo, incluimos también subiculum, presubiculum, parasubiculum y corteza entorrinal. 
+
+La corteza entorrinal se considera el inicio del circuito hipocampal; las neuronas principales de la corteza entorrinal se proyectan al giro dentado y al hipocampo CA3. Las neuronas de DG envían sus axones a las neuronas de CA3, que a su vez envían sus axones a las neuronas de CA1 a través de neuronas piramidales. Finalmente, las neuronas de CA1 envían sus axones a la capa profunda de la corteza entorrinal.
+
+
+\section{Funciones del Hipocampo}
+El hipocampo tiene un papel fundamental en varias funciones: la memoria, la percepción del espacio y la percepción del tiempo. 
+
+\subsection{Memoria}
+Podemos distinguir entre dos tipos de memoria:
+\begin{itemize}
+    \item \textbf{Memoria declarativa:} Es la memoria en la que se guardan y describen hecho y eventos. Es una memoria consciente. Se puede dividir en:
+    \begin{itemize}
+        \item \textbf{Memoria episódica:} Es la memoria de eventos y experiencias personales.
+        \item \textbf{Memoria semántica:} Es la memoria de hechos y conceptos.
+    \end{itemize}
+    \item \textbf{Memoria procedural:} Es la memoria de habilidades y procedimientos. No requiere de un control consciente.
+\end{itemize}
+
+Sabemos que el hipocampo está involucrado sobre todo en la memoria episódica. Debido a que la memoria episódica sitúa los eventos en un contexto espacial y temporal, el hipocampo está estréchamente relacionado con la percepción del espacio y del tiempo.
+
+\subsection{Percepción del espacio}
+En 1970, O'Keefe y Dostrovsky descubrieron que las neuronas del hipocampo se activaban cuando una rata se encontraba en una posición concreta del espacio. Se observó que los ocho electrodos sobre las 76 neuronas del hipocampo de una rata se activaban cuando la rata se encontraba en una posición y dirección concretas del espacio. A estas neuronas las llamamos ahora células de lugar (place cells). 
+
+Con el paso del tiempo y gracias a más experimentos, se han ido encontrando más neuronas de lugar y diferentes tipos de estas. 
+\begin{itemize}
+    \item Se descubrieron las neuronas de dirección A (A-direction cells), que codifican hacia dónde mira el animal.
+    \item Se descubrieron las neuronas de malla (grid cells), que representan el espacio en coordenadas hexagonales.
+    \item Se descubrieron las neuronas de borde (boundary cells), que representan la posición del animal en relación a los bordes de la habitación.
+\end{itemize}
+
+\subsection{Percepción del tiempo}
+La percepción del tiempo es la percepción de secuencias temporales. Por lo que las percepciones de estímulos de un animal en una secuencia concreta, situando estímulos antes, después o a la vez unos de otros, genera la sensación de tiempo. El daño en el hipocampo impide ordenar los estímulos en una secuencia temporal, por lo que se cree que el hipocampo está involucrado en la percepción del tiempo.
+
+En 2011, McDonald et al.\ caracterizaron células en CA1 y las llamaron células temporales (time cells). De la misma forma que las células de lugar definen secuencias espaciales, las células temporales definen secuencias temporales.
+
+\section{Descubrimientos clave del hipocampo}
+En esta sección se van a relatar los descubrimientos más importantes sobre el hipocampo.
+
+\subsection{Sinapsis}
+Hay dos tipos de sinapsis:
+\begin{itemize}
+    \item Sinapsis asimétrica
+    \item Sinapsis simétrica 
+\end{itemize}
+
+La sinapsis simétrica (tipo 2) es un tipo de sinapsis inhibitoria que utiliza los neurotransmisores GAMA$_A$. Por otro lado, la sinapsis tipo 1 es una sinapsis excitatoria que utiliza los neurotransmisores AMPA. 
+
+
+\subsection{Plasticidad de la sinapsis}
+El término plasticidad sináptica se refiere a la capacidad que tiene la sinapsis para cambiar su eficacia, produciendo conexiones diferentes entre neuronas.
+
+El cambio en la sinapsis por plasticidad ocurre al realizar muchas veces un mismo circuito. Si la neurona A excita constantemente a la neurona B, al cabo de muchas veces la eficacia de A para excitar B será mucho mayor. Hay varios métodos propuestos para explicar esta repetición y generar plasticidad:
+\begin{itemize}
+    \item Post-tetanic potentiation (PTP)
+    \item Long-term potentiation (LTP)
+    \item Long-term depression (LTD)
+\end{itemize}
+
+\subsubsection{Potenciación a largo plazo (LTP)}
+La \textbf{potenciación a largo plazo} (LTP) es un fenómeno de plasticidad sináptica en el que las sinapsis se vuelven más fuertes después de una estimulación repetitiva. Este proceso está asociado con el aprendizaje y la memoria.
+
+Cuando una neurona A excita repetidamente a una neurona B, la eficacia de la sinapsis entre ellas aumenta, lo que facilita la transmisión de señales entre ambas neuronas en el futuro. La LTP fue descrita por Brice Lomo en 1970, quien observó que la estimulación de alta frecuencia de las fibras aferentes podría inducir un aumento duradero en la respuesta sináptica, que podría durar horas o más.
+
+Este aumento en la eficacia de la sinapsis permite la \textit{memorización} de información, ya que las conexiones entre las neuronas se fortalecen con el uso repetido. Sin embargo, si la plasticidad sináptica solo se basara en la potenciación, las sinapsis alcanzarían un punto de saturación, impidiendo el aprendizaje adicional. Por lo tanto, el cerebro también necesita mecanismos para regular esta potenciación.
+
+\subsubsection{Depresión a largo plazo (LTD)}
+La \textbf{depresión a largo plazo} (LTD) es el proceso opuesto a la LTP y se refiere a la disminución de la eficacia de la sinapsis a largo plazo. Este fenómeno también es crucial para el equilibrio y la flexibilidad en el cerebro.
+
+La LTD puede inducirse mediante estimulación de baja frecuencia. Danwiddi y Lynch reportaron en 1978 la primera evidencia de LTD en el cerebro, y más tarde, Judek y Beer demostraron que la estimulación prolongada a baja frecuencia puede producir una LTD confiable. Este proceso permite que las sinapsis se debiliten, ajustando la eficacia de las conexiones neuronales.
+
+El modelo de \textit{modificación sináptica bidireccional} propuesto por Judek y Beer sugiere que, mediante la estimulación adecuada (alta o baja frecuencia), una sinapsis puede ser tanto potenciada como debilitada, lo que permite ajustar su eficacia dentro de un rango determinado (aproximadamente 50\% de su valor base).
+
+\subsubsection{Interacción entre LTP y LTD}
+La interacción entre LTP y LTD es esencial para el funcionamiento adecuado del cerebro. Mientras que la LTP fortalece las sinapsis para facilitar el aprendizaje, la LTD permite la flexibilidad al debilitar las conexiones innecesarias o redundantes. Juntos, estos procesos aseguran que el cerebro no se sobrecargue de información y pueda adaptarse a nuevas experiencias de manera eficiente.
+
+La plasticidad sináptica bidireccional (LTP y LTD) también es crucial para el balance entre la excitación y la inhibición en las redes neuronales, lo que determina la estabilidad general de la actividad cerebral.
+
+
+
+
+\subsection{Neurogénesis adulta}
+
+\subsection{Oscilaciones}
+
+
+
+
+\end{document}

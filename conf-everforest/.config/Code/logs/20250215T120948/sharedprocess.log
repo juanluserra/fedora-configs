@@ -1,0 +1,19 @@
+2025-02-15 12:09:53.690 [info] Marked extension as removed github.copilot-1.270.0
+2025-02-15 12:09:53.690 [info] Marked extension as removed gitlab.gitlab-workflow-5.40.1
+2025-02-15 12:09:53.739 [info] Deleted marked for removal extension from disk github.copilot /home/juanluis/.vscode/extensions/github.copilot-1.270.0
+2025-02-15 12:09:53.741 [info] Deleted marked for removal extension from disk gitlab.gitlab-workflow /home/juanluis/.vscode/extensions/gitlab.gitlab-workflow-5.40.1
+2025-02-15 12:21:12.012 [info] Getting Manifest... henrytsz.nvim
+2025-02-15 12:21:12.384 [info] Installing extension: henrytsz.nvim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json","path":"/home/juanluis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-15 12:21:22.443 [info] Extension signature verification result for henrytsz.nvim: Success. Executed: true. Duration: 934ms.
+2025-02-15 12:21:22.519 [info] Extracted extension to file:///home/juanluis/.vscode/extensions/henrytsz.nvim-2.1.9: henrytsz.nvim
+2025-02-15 12:21:22.527 [info] Renamed to /home/juanluis/.vscode/extensions/henrytsz.nvim-2.1.9
+2025-02-15 12:21:22.606 [info] Extension installed successfully: henrytsz.nvim vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json
+2025-02-15 12:21:28.495 [info] Uninstalling extension from the profile: henrytsz.nvim@2.1.9 vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json
+2025-02-15 12:21:28.590 [info] Marked extension as removed henrytsz.nvim-2.1.9
+2025-02-15 12:21:28.975 [info] Successfully uninstalled extension from the profile henrytsz.nvim@2.1.9 vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json
+2025-02-15 12:21:34.602 [info] Getting Manifest... vscodevim.vim
+2025-02-15 12:21:34.854 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json","path":"/home/juanluis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-15 12:21:37.206 [info] Extension signature verification result for vscodevim.vim: Success. Executed: true. Duration: 892ms.
+2025-02-15 12:21:37.270 [info] Extracted extension to file:///home/juanluis/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2025-02-15 12:21:37.277 [info] Renamed to /home/juanluis/.vscode/extensions/vscodevim.vim-1.29.0
+2025-02-15 12:21:37.354 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json

@@ -1,0 +1,51 @@
+2025-02-17 14:06:48.658 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:06:48.658 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:06:48.658 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:06:48.658 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:06:49.730 [info] Started local extension host with pid 26171.
+2025-02-17 14:06:50.474 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-17 14:06:50.475 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-17 14:06:50.476 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-17 14:06:53.132 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-17 14:06:55.223 [info] [perf] Render performance baseline is 66ms
+2025-02-17 14:06:57.203 [info] Extension host (LocalProcess pid: 26171) is unresponsive.
+2025-02-17 14:06:58.779 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-17 14:06:58.882 [info] Extension host (LocalProcess pid: 26171) is responsive.
+2025-02-17 14:06:58.882 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-02-17 14:06:59.277 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-17 14:06:59.279 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-17 14:06:59.316 [warning] UNRESPONSIVE extension host: 'streetsidesoftware.code-spell-checker' took 38.28828828828829% of 40.12ms, saved PROFILE here: 'file:///tmp/exthost-acb527.cpuprofile'
+2025-02-17 14:07:00.714 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-17 14:07:06.112 [error] [Extension Host] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/juanluis/.vscode/extensions/github.copilot-1.271.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/juanluis/.vscode/extensions/github.copilot-1.271.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at Rce.fetch (/home/juanluis/.vscode/extensions/github.copilot-1.271.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-02-17 14:09:40.714 [warning] [backup tracker] suspended, ignoring unregister event file:///home/juanluis/git-repositories/master_bigdata/TGINE/practica4/BM25.py 
+2025-02-17 14:09:40.717 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/juanluis/.config/Code/User/settings.json 
+2025-02-17 14:09:42.008 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:09:42.027 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:09:42.027 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:09:42.028 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-17 14:09:42.605 [info] Started local extension host with pid 28519.
+2025-02-17 14:09:43.511 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-17 14:09:43.512 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-17 14:09:43.512 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-17 14:09:46.748 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-17 14:09:47.229 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-17 14:09:47.594 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-17 14:09:48.015 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-17 14:09:49.199 [info] [perf] Render performance baseline is 51ms
+2025-02-17 14:09:52.931 [warning] Authentication provider gitlab was not declared in the Extension Manifest.

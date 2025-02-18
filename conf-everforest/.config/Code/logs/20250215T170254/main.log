@@ -1,0 +1,17 @@
+2025-02-15 17:02:54.589 [info] update#setState idle
+2025-02-15 17:02:59.309 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/e54c774e0add60467559eb0d1e229c6452cf8447 - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-02-15 17:02:59.311 [error] update#isLatestVersion(): failed to check for updates
+2025-02-15 17:02:59.312 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-15 17:03:24.481 [info] update#setState checking for updates
+2025-02-15 17:03:24.494 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/e54c774e0add60467559eb0d1e229c6452cf8447 - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-02-15 17:03:24.495 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-15 17:03:24.496 [info] update#setState idle
+2025-02-15 17:45:29.274 [info] Extension host with pid 3371 exited with code: 0, signal: unknown.
+2025-02-15 18:03:24.487 [info] update#setState checking for updates
+2025-02-15 18:03:24.752 [info] update#setState idle
+2025-02-15 19:00:20.738 [info] Extension host with pid 23587 exited with code: 0, signal: unknown.
+2025-02-15 19:01:15.138 [info] Extension host with pid 54776 exited with code: 0, signal: unknown.

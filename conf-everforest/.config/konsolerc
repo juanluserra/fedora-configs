@@ -1,0 +1,18 @@
+MenuBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=Perfil 1.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Disabled
+
+[Notification Messages]
+CloseAllEmptyTabs=true
+CloseAllTabs=true
+ShowPasteHugeTextWarning=false
+
+[UiSettings]
+ColorScheme=

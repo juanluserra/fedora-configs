@@ -1,0 +1,7 @@
+[Font]
+ButtonFont=Noto Sans,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+HistoryFont=Noto Sans,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[General]
+CalculatorMode=science
+ShowHistory=true

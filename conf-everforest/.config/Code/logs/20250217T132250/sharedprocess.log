@@ -1,0 +1,6 @@
+2025-02-17 13:23:06.787 [info] Getting Manifest... sainnhe.everforest
+2025-02-17 13:23:06.967 [info] Installing extension: sainnhe.everforest {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json","path":"/home/juanluis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-17 13:23:10.175 [info] Extension signature verification result for sainnhe.everforest: Success. Executed: true. Duration: 1701ms.
+2025-02-17 13:23:10.272 [info] Extracted extension to file:///home/juanluis/.vscode/extensions/sainnhe.everforest-0.3.0: sainnhe.everforest
+2025-02-17 13:23:10.281 [info] Renamed to /home/juanluis/.vscode/extensions/sainnhe.everforest-0.3.0
+2025-02-17 13:23:10.410 [info] Extension installed successfully: sainnhe.everforest vscode-userdata:/home/juanluis/.vscode/extensions/extensions.json

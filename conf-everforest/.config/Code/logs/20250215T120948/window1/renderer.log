@@ -1,0 +1,743 @@
+2025-02-15 12:09:49.431 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 12:09:49.431 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 12:09:49.432 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 12:09:49.432 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 12:09:50.032 [info] Started local extension host with pid 35204.
+2025-02-15 12:09:50.874 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-15 12:09:50.874 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-15 12:09:50.875 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-15 12:09:53.382 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-15 12:09:53.819 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-15 12:09:53.825 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-15 12:09:56.428 [info] [perf] Render performance baseline is 75ms
+2025-02-15 12:10:00.399 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-15 12:10:04.653 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:10:09.005 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:04.678 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:06.200 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:07.550 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:09.496 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:11.169 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:14.135 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:26.490 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:28.781 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:30.476 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:32.126 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:33.933 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:37.875 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:40.213 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:11:41.447 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:02.502 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:06.292 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at mU.t (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1005)
+    at Object.lineAt (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:72)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:5543)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLenses (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:3231)
+    at vg.provideCodeLenses (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:127712)
+2025-02-15 12:12:06.335 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:06.938 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at mU.t (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1005)
+    at Object.lineAt (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:72)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:5543)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLenses (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:3231)
+    at vg.provideCodeLenses (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:127712)
+2025-02-15 12:12:08.107 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at mU.t (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1005)
+    at Object.lineAt (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:72)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:5543)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLens (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:6492)
+    at GitCodeLensProvider.provideCodeLenses (/home/juanluis/.vscode/extensions/eamodio.gitlens-16.3.0/dist/codelens.js:1:3231)
+    at vg.provideCodeLenses (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:127712)
+2025-02-15 12:12:11.442 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:12.534 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:14.140 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:15.561 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:17.616 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:19.042 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:20.224 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:27.373 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:31.707 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:34.388 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:12:36.705 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:14:53.224 [error] Error while handling chat request: Canceled: Canceled: Canceled
+    at r0 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1105)
+    at upt.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3242:41795)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3242:39148)
+    at Object.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:694:50448)
+    at a4e.invokeAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:6759)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1931:31080
+2025-02-15 12:14:53.292 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:41.605 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:42.810 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:45.075 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:46.761 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:49.721 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:51.515 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:52.570 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:53.886 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:55.913 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:17:59.694 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:01.441 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:02.594 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:04.540 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:10.928 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:20.310 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:21.896 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:23.258 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:25.006 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:27.820 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:30.967 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:32.021 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:18:33.244 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:36.558 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:44.486 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:48.108 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:49.617 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:50.852 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:52.105 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:55.916 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:19:59.748 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:02.348 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:05.467 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:08.582 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:10.241 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:31.242 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:34.751 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:36.481 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:37.949 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:39.092 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:41.099 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:42.985 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:44.580 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:50.811 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:53.630 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:57.164 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:20:59.117 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:01.893 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:24.242 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-15 12:21:37.429 [info] [vscodevim.vim]: Command `toggleVim` already registered by NVim (HenryTsz.nvim)
+2025-02-15 12:21:37.429 [info] [vscodevim.vim]: Command `vim.showQuickpickCmdLine` already registered by NVim (HenryTsz.nvim)
+2025-02-15 12:21:37.430 [info] [vscodevim.vim]: Command `vim.editVimrc` already registered by NVim (HenryTsz.nvim)
+2025-02-15 12:21:37.430 [warning] [vscodevim.vim]: Cannot register 'vim.normalModeKeyBindings'. This property is already registered.
+2025-02-15 12:21:37.431 [warning] [vscodevim.vim]: Cannot register 'vim.normalModeKeyBindingsNonRecursive'. This property is already registered.
+2025-02-15 12:21:37.431 [warning] [vscodevim.vim]: Cannot register 'vim.operatorPendingModeKeyBindings'. This property is already registered.
+2025-02-15 12:21:37.431 [warning] [vscodevim.vim]: Cannot register 'vim.operatorPendingModeKeyBindingsNonRecursive'. This property is already registered.
+2025-02-15 12:21:37.431 [warning] [vscodevim.vim]: Cannot register 'vim.useCtrlKeys'. This property is already registered.
+2025-02-15 12:21:37.432 [warning] [vscodevim.vim]: Cannot register 'vim.leader'. This property is already registered.
+2025-02-15 12:21:37.433 [warning] [vscodevim.vim]: Cannot register 'vim.searchHighlightColor'. This property is already registered.
+2025-02-15 12:21:37.433 [warning] [vscodevim.vim]: Cannot register 'vim.searchHighlightTextColor'. This property is already registered.
+2025-02-15 12:21:37.434 [warning] [vscodevim.vim]: Cannot register 'vim.searchMatchColor'. This property is already registered.
+2025-02-15 12:21:37.434 [warning] [vscodevim.vim]: Cannot register 'vim.searchMatchTextColor'. This property is already registered.
+2025-02-15 12:21:37.434 [warning] [vscodevim.vim]: Cannot register 'vim.substitutionColor'. This property is already registered.
+2025-02-15 12:21:37.434 [warning] [vscodevim.vim]: Cannot register 'vim.substitutionTextColor'. This property is already registered.
+2025-02-15 12:21:37.435 [warning] [vscodevim.vim]: Cannot register 'vim.highlightedyank.enable'. This property is already registered.
+2025-02-15 12:21:37.435 [warning] [vscodevim.vim]: Cannot register 'vim.highlightedyank.color'. This property is already registered.
+2025-02-15 12:21:37.435 [warning] [vscodevim.vim]: Cannot register 'vim.highlightedyank.textColor'. This property is already registered.
+2025-02-15 12:21:37.436 [warning] [vscodevim.vim]: Cannot register 'vim.highlightedyank.duration'. This property is already registered.
+2025-02-15 12:21:37.436 [warning] [vscodevim.vim]: Cannot register 'vim.useSystemClipboard'. This property is already registered.
+2025-02-15 12:21:37.436 [warning] [vscodevim.vim]: Cannot register 'vim.overrideCopy'. This property is already registered.
+2025-02-15 12:21:37.437 [warning] [vscodevim.vim]: Cannot register 'vim.insertModeKeyBindings'. This property is already registered.
+2025-02-15 12:21:37.437 [warning] [vscodevim.vim]: Cannot register 'vim.insertModeKeyBindingsNonRecursive'. This property is already registered.
+2025-02-15 12:21:37.437 [warning] [vscodevim.vim]: Cannot register 'vim.visualModeKeyBindings'. This property is already registered.
+2025-02-15 12:21:37.438 [warning] [vscodevim.vim]: Cannot register 'vim.visualModeKeyBindingsNonRecursive'. This property is already registered.
+2025-02-15 12:21:37.438 [warning] [vscodevim.vim]: Cannot register 'vim.commandLineModeKeyBindings'. This property is already registered.
+2025-02-15 12:21:37.438 [warning] [vscodevim.vim]: Cannot register 'vim.commandLineModeKeyBindingsNonRecursive'. This property is already registered.
+2025-02-15 12:21:37.439 [warning] [vscodevim.vim]: Cannot register 'vim.textwidth'. This property is already registered.
+2025-02-15 12:21:37.439 [warning] [vscodevim.vim]: Cannot register 'vim.timeout'. This property is already registered.
+2025-02-15 12:21:37.440 [warning] [vscodevim.vim]: Cannot register 'vim.maxmapdepth'. This property is already registered.
+2025-02-15 12:21:37.440 [warning] [vscodevim.vim]: Cannot register 'vim.scroll'. This property is already registered.
+2025-02-15 12:21:37.441 [warning] [vscodevim.vim]: Cannot register 'vim.showcmd'. This property is already registered.
+2025-02-15 12:21:37.441 [warning] [vscodevim.vim]: Cannot register 'vim.showmodename'. This property is already registered.
+2025-02-15 12:21:37.441 [warning] [vscodevim.vim]: Cannot register 'vim.iskeyword'. This property is already registered.
+2025-02-15 12:21:37.442 [warning] [vscodevim.vim]: Cannot register 'vim.ignorecase'. This property is already registered.
+2025-02-15 12:21:37.442 [warning] [vscodevim.vim]: Cannot register 'vim.smartcase'. This property is already registered.
+2025-02-15 12:21:37.442 [warning] [vscodevim.vim]: Cannot register 'vim.matchpairs'. This property is already registered.
+2025-02-15 12:21:37.443 [warning] [vscodevim.vim]: Cannot register 'vim.camelCaseMotion.enable'. This property is already registered.
+2025-02-15 12:21:37.443 [warning] [vscodevim.vim]: Cannot register 'vim.easymotion'. This property is already registered.
+2025-02-15 12:21:37.443 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionMarkerBackgroundColor'. This property is already registered.
+2025-02-15 12:21:37.443 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionMarkerForegroundColorOneChar'. This property is already registered.
+2025-02-15 12:21:37.444 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionMarkerForegroundColorTwoCharFirst'. This property is already registered.
+2025-02-15 12:21:37.444 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionMarkerForegroundColorTwoCharSecond'. This property is already registered.
+2025-02-15 12:21:37.444 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionIncSearchForegroundColor'. This property is already registered.
+2025-02-15 12:21:37.444 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionDimColor'. This property is already registered.
+2025-02-15 12:21:37.445 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionDimBackground'. This property is already registered.
+2025-02-15 12:21:37.445 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionMarkerFontWeight'. This property is already registered.
+2025-02-15 12:21:37.445 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionKeys'. This property is already registered.
+2025-02-15 12:21:37.445 [warning] [vscodevim.vim]: Cannot register 'vim.easymotionJumpToAnywhereRegex'. This property is already registered.
+2025-02-15 12:21:37.446 [warning] [vscodevim.vim]: Cannot register 'vim.replaceWithRegister'. This property is already registered.
+2025-02-15 12:21:37.446 [warning] [vscodevim.vim]: Cannot register 'vim.smartRelativeLine'. This property is already registered.
+2025-02-15 12:21:37.446 [warning] [vscodevim.vim]: Cannot register 'vim.targets.enable'. This property is already registered.
+2025-02-15 12:21:37.446 [warning] [vscodevim.vim]: Cannot register 'vim.targets.bracketObjects.enable'. This property is already registered.
+2025-02-15 12:21:37.447 [warning] [vscodevim.vim]: Cannot register 'vim.targets.smartQuotes.enable'. This property is already registered.
+2025-02-15 12:21:37.447 [warning] [vscodevim.vim]: Cannot register 'vim.targets.smartQuotes.breakThroughLines'. This property is already registered.
+2025-02-15 12:21:37.447 [warning] [vscodevim.vim]: Cannot register 'vim.targets.smartQuotes.aIncludesSurroundingSpaces'. This property is already registered.
+2025-02-15 12:21:37.447 [warning] [vscodevim.vim]: Cannot register 'vim.sneak'. This property is already registered.
+2025-02-15 12:21:37.448 [warning] [vscodevim.vim]: Cannot register 'vim.sneakUseIgnorecaseAndSmartcase'. This property is already registered.
+2025-02-15 12:21:37.448 [warning] [vscodevim.vim]: Cannot register 'vim.sneakReplacesF'. This property is already registered.
+2025-02-15 12:21:37.448 [warning] [vscodevim.vim]: Cannot register 'vim.surround'. This property is already registered.
+2025-02-15 12:21:37.449 [warning] [vscodevim.vim]: Cannot register 'vim.argumentObjectSeparators'. This property is already registered.
+2025-02-15 12:21:37.449 [warning] [vscodevim.vim]: Cannot register 'vim.argumentObjectOpeningDelimiters'. This property is already registered.
+2025-02-15 12:21:37.449 [warning] [vscodevim.vim]: Cannot register 'vim.argumentObjectClosingDelimiters'. This property is already registered.
+2025-02-15 12:21:37.450 [warning] [vscodevim.vim]: Cannot register 'vim.hlsearch'. This property is already registered.
+2025-02-15 12:21:37.450 [warning] [vscodevim.vim]: Cannot register 'vim.inccommand'. This property is already registered.
+2025-02-15 12:21:37.450 [warning] [vscodevim.vim]: Cannot register 'vim.incsearch'. This property is already registered.
+2025-02-15 12:21:37.450 [warning] [vscodevim.vim]: Cannot register 'vim.history'. This property is already registered.
+2025-02-15 12:21:37.451 [warning] [vscodevim.vim]: Cannot register 'vim.autoindent'. This property is already registered.
+2025-02-15 12:21:37.451 [warning] [vscodevim.vim]: Cannot register 'vim.joinspaces'. This property is already registered.
+2025-02-15 12:21:37.451 [warning] [vscodevim.vim]: Cannot register 'vim.startInInsertMode'. This property is already registered.
+2025-02-15 12:21:37.451 [warning] [vscodevim.vim]: Cannot register 'vim.handleKeys'. This property is already registered.
+2025-02-15 12:21:37.452 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColorControl'. This property is already registered.
+2025-02-15 12:21:37.452 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.normal'. This property is already registered.
+2025-02-15 12:21:37.452 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.insert'. This property is already registered.
+2025-02-15 12:21:37.452 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.visual'. This property is already registered.
+2025-02-15 12:21:37.452 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.visualline'. This property is already registered.
+2025-02-15 12:21:37.453 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.visualblock'. This property is already registered.
+2025-02-15 12:21:37.453 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.replace'. This property is already registered.
+2025-02-15 12:21:37.453 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.commandlineinprogress'. This property is already registered.
+2025-02-15 12:21:37.454 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.searchinprogressmode'. This property is already registered.
+2025-02-15 12:21:37.454 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.easymotionmode'. This property is already registered.
+2025-02-15 12:21:37.454 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.easymotioninputmode'. This property is already registered.
+2025-02-15 12:21:37.454 [warning] [vscodevim.vim]: Cannot register 'vim.statusBarColors.surroundinputmode'. This property is already registered.
+2025-02-15 12:21:37.454 [warning] [vscodevim.vim]: Cannot register 'vim.visualstar'. This property is already registered.
+2025-02-15 12:21:37.455 [warning] [vscodevim.vim]: Cannot register 'vim.changeWordIncludesWhitespace'. This property is already registered.
+2025-02-15 12:21:37.456 [warning] [vscodevim.vim]: Cannot register 'vim.foldfix'. This property is already registered.
+2025-02-15 12:21:37.456 [warning] [vscodevim.vim]: Cannot register 'vim.mouseSelectionGoesIntoVisualMode'. This property is already registered.
+2025-02-15 12:21:37.457 [warning] [vscodevim.vim]: Cannot register 'vim.disableExtension'. This property is already registered.
+2025-02-15 12:21:37.457 [warning] [vscodevim.vim]: Cannot register 'vim.enableNeovim'. This property is already registered.
+2025-02-15 12:21:37.458 [warning] [vscodevim.vim]: Cannot register 'vim.neovimPath'. This property is already registered.
+2025-02-15 12:21:37.458 [warning] [vscodevim.vim]: Cannot register 'vim.neovimUseConfigFile'. This property is already registered.
+2025-02-15 12:21:37.458 [warning] [vscodevim.vim]: Cannot register 'vim.neovimConfigPath'. This property is already registered.
+2025-02-15 12:21:37.458 [warning] [vscodevim.vim]: Cannot register 'vim.vimrc.enable'. This property is already registered.
+2025-02-15 12:21:37.459 [warning] [vscodevim.vim]: Cannot register 'vim.vimrc.path'. This property is already registered.
+2025-02-15 12:21:37.459 [warning] [vscodevim.vim]: Cannot register 'vim.substituteGlobalFlag'. This property is already registered.
+2025-02-15 12:21:37.459 [warning] [vscodevim.vim]: Cannot register 'vim.gdefault'. This property is already registered.
+2025-02-15 12:21:37.459 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.normal'. This property is already registered.
+2025-02-15 12:21:37.460 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.insert'. This property is already registered.
+2025-02-15 12:21:37.460 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.replace'. This property is already registered.
+2025-02-15 12:21:37.460 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.visual'. This property is already registered.
+2025-02-15 12:21:37.460 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.visualline'. This property is already registered.
+2025-02-15 12:21:37.461 [warning] [vscodevim.vim]: Cannot register 'vim.cursorStylePerMode.visualblock'. This property is already registered.
+2025-02-15 12:21:37.461 [warning] [vscodevim.vim]: Cannot register 'vim.autoSwitchInputMethod.enable'. This property is already registered.
+2025-02-15 12:21:37.461 [warning] [vscodevim.vim]: Cannot register 'vim.autoSwitchInputMethod.defaultIM'. This property is already registered.
+2025-02-15 12:21:37.461 [warning] [vscodevim.vim]: Cannot register 'vim.autoSwitchInputMethod.switchIMCmd'. This property is already registered.
+2025-02-15 12:21:37.462 [warning] [vscodevim.vim]: Cannot register 'vim.autoSwitchInputMethod.obtainIMCmd'. This property is already registered.
+2025-02-15 12:21:37.462 [warning] [vscodevim.vim]: Cannot register 'vim.whichwrap'. This property is already registered.
+2025-02-15 12:21:37.462 [warning] [vscodevim.vim]: Cannot register 'vim.report'. This property is already registered.
+2025-02-15 12:21:37.462 [warning] [vscodevim.vim]: Cannot register 'vim.digraphs'. This property is already registered.
+2025-02-15 12:21:37.464 [warning] [vscodevim.vim]: Cannot register 'vim.wrapscan'. This property is already registered.
+2025-02-15 12:21:37.464 [warning] [vscodevim.vim]: Cannot register 'vim.startofline'. This property is already registered.
+2025-02-15 12:21:37.464 [warning] [vscodevim.vim]: Cannot register 'vim.showMarksInGutter'. This property is already registered.
+2025-02-15 12:21:37.465 [warning] [vscodevim.vim]: Cannot register 'vim.shell'. This property is already registered.
+2025-02-15 12:21:37.465 [warning] [vscodevim.vim]: Cannot register 'vim.langmap'. This property is already registered.
+2025-02-15 12:21:38.922 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-15 12:21:41.082 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:43.699 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:48.121 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:51.242 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:21:57.005 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:22:00.605 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:22:04.219 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:22:50.327 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:22:52.535 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:22:55.767 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:01.977 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:11.650 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:18.729 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:21.369 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:22.710 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:24.551 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:36.642 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:37.826 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:23:39.208 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:24:32.179 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at bf.getLineMaxColumn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:252:112)
+    at ka.getBottomForLineNumber (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:261:1594)
+    at Q0.findScrollWidgetState (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:33539)
+    at Q0.fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32821)
+    at async Q0.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:452:32307)
+2025-02-15 12:24:33.439 [warning] [backup tracker] suspended, ignoring unregister event git:/home/juanluis/git-repositories/TFM-BigData/apuntes/ApuntesLennard.tex.git?%7B%22path%22%3A%22%2Fhome%2Fjuanluis%2Fgit-repositories%2FTFM-BigData%2Fapuntes%2FApuntesLennard.tex%22%2C%22ref%22%3A%22HEAD%22%7D 

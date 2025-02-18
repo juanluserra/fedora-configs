@@ -1,0 +1,18 @@
+2025-02-17T16:08:39:120 [info]: fetch: Detected no proxy settings
+2025-02-17T16:08:39:134 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-17T16:08:39:271 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-17T16:08:39:272 [info]: Applying 2 endpoints to connection.
+2025-02-17T16:08:39:328 [info]: [HttpServer]: server listening on http://127.0.0.1:45851/
+2025-02-17T16:08:39:332 [info]: GitLab Language Server has started
+2025-02-17T16:08:39:342 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:361 [info]: [VirtualFileSystemService] Registering watchers
+2025-02-17T16:08:39:372 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:374 [info]: [RepositoryService] Detected repository at file:///home/juanluis/git-repositories/master_bigdata/.git/config
+2025-02-17T16:08:39:375 [info]: [RepositoryService] Detected 1 repositories for workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:375 [info]: [RepositoryService] Adding repository file:///home/juanluis/git-repositories/master_bigdata to workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:376 [info]: [RepositoryService] Added 1 repositories to workspace file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:404 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/master_bigdata
+2025-02-17T16:08:39:525 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-17T16:08:39:525 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-17T16:16:42:929 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/master_bigdata/IOT/build/apuntes.synctex(busy)'

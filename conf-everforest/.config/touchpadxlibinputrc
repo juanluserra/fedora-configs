@@ -1,0 +1,4 @@
+[FTE1200:00 0B05:0501 Touchpad]
+disableWhileTyping=false
+naturalScroll=true
+tapToClick=true

@@ -1,0 +1,50 @@
+2025-02-15T17:45:38:810 [info]: fetch: Detected no proxy settings
+2025-02-15T17:45:38:831 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-02-15T17:45:39:016 [info]: GitLab Language Server is starting (v7.14.1)
+2025-02-15T17:45:39:019 [info]: Applying 2 endpoints to connection.
+2025-02-15T17:45:39:084 [info]: [HttpServer]: server listening on http://127.0.0.1:34623/
+2025-02-15T17:45:39:088 [info]: GitLab Language Server has started
+2025-02-15T17:45:39:099 [info]: [VirtualFileSystemService] Emitting files for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:116 [info]: [RepositoryService] Clearing repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:117 [info]: [RepositoryService] Detected repository at file:///home/juanluis/git-repositories/TFM-BigData/.git/config
+2025-02-15T17:45:39:119 [info]: [RepositoryService] Detected 1 repositories for workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:119 [info]: [RepositoryService] Adding repository file:///home/juanluis/git-repositories/TFM-BigData to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:120 [info]: [RepositoryService] Added 1 repositories to workspace file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:133 [warning]: DuoProjectAccessCache: no projects found for workspace folder file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-15T17:45:39:189 [info]: [File Policy] .ai-context-policy.yml file was not found, using default policy
+2025-02-15T17:45:39:189 [info]: [File Policy] Using the config: {"ai_context_policy":"allow","exclude":[]}
+2025-02-15T17:45:40:991 [info]: [VirtualFileSystemService] Registering watchers
+2025-02-15T17:47:40:157 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T17:49:40:996 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T17:50:08:066 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T17:50:57:949 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T17:53:40:778 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:01:07:994 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:02:19:349 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:02:39:299 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:19:47:428 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:39:23:754 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:41:23:885 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:48:50:376 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:48:52:059 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:50:20:995 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:54:09:710 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:54:22:471 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
+2025-02-15T18:57:42:233 [error]: [RepositoryService] Error handling file update file:///home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex%28busy%29
+    Error: ENOENT: no such file or directory, lstat '/home/juanluis/git-repositories/TFM-BigData/apuntes/build/ApuntesLennard.synctex(busy)'
