@@ -1,0 +1,119 @@
+// ~/.config/fastfetch/config.jsonc
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "modules": [
+        // Sección de Hardware
+        {
+            "type": "custom",
+            "format": "┌─────────\n Hardware Information \n─────────┐"
+        },
+        {
+            "type": "model",
+            "key": "  󰌢 ",
+            "format": "{1}"
+        },
+        {
+            "type": "cpu",
+            "key": "  󰍛 ",
+            "format": "{1}"
+        },
+        {
+            "type": "gpu",
+            "key": "  󰘚 ",
+            "format": "{1}"
+        },
+        {
+            "type": "memory",
+            "key": "  󰑭 ",
+            "format": "{1}"
+        },
+        {
+            "type": "resolution",
+            "key": "  󰍹 ",
+            "format": "{1}"
+        },
+        
+        // Separador de sección
+        {
+            "type": "custom",
+            "format": "├─────────\n Software Information \n─────────┤"
+        },
+        
+        // Sección de Software
+        {
+            "type": "os",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "kernel",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "wm",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "shell",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "terminal",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "terminalfont",
+            "key": "   ",
+            "format": "{1}"
+        },
+        {
+            "type": "packages",
+            "key": "  󰊠 ",
+            "format": "{1}"
+        },
+        
+        // Cierre del bloque
+        {
+            "type": "custom",
+            "format": "└───────────────────────────────────────┘"
+        },
+        
+        // Círculos de colores
+        {
+            "type": "custom",
+            "format": "\n \n \n \n \n \x1B[38;2;255;255;255m \n \n \x1B[38;2;255;0;0m \n \n \x1B[38;2;0;255;0m \n \n \x1B[38;2;255;255;0m  \n \n \x1B[38;2;0;0;255m  \n \n \x1B[38;2;255;0;255m  \n \n \x1B[38;2;0;255;255m  \n \n \x1B[0m"
+        }
+    ],
+
+    // Configuración de colores (convertidos a hexadecimal)
+    "color": {
+        "keys": "#FF00FF",       // magenta
+        "title": "#00FF00",     // green
+        "separator": "#FFFFFF", // white
+        "highlight": "#0000FF"  // blue
+    },
+
+    // Configuración del logo
+    "logo": {
+        "type": "auto",
+        "width": 35,
+        "padding": {
+            "top": 2,
+            "left": 5
+        },
+        "colors": ["#FF00FF", "#00FF00", "#FFFFFF", "#0000FF", "#FF0000", "#FFFF00", "#00FFFF"]
+    },
+
+    // Opciones generales
+    "general": {
+        "showErrors": false,
+        "tempCelsius": true,
+        "barCharElapsed": "-",
+        "barCharTotal": "=",
+        "barBorder": true
+    }
+}

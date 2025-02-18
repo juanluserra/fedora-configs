@@ -1,0 +1,7 @@
+[General]
+char=200
+rtl=false
+selectedFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[MainWindow]
+ToolBarsMovable=Disabled

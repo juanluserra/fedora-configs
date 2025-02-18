@@ -1,0 +1,43 @@
+2025-02-13 18:54:26.783 [info] [main] Log level: Info
+2025-02-13 18:54:26.784 [info] [main] Validating found git in: "git"
+2025-02-13 18:54:26.784 [info] [main] Using git "2.48.1" from "git"
+2025-02-13 18:54:26.784 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-13 18:54:26.784 [info] > git rev-parse --show-toplevel [61ms]
+2025-02-13 18:54:26.784 [info] > git rev-parse --git-dir --git-common-dir [2191ms]
+2025-02-13 18:54:26.784 [info] [Model][openRepository] Opened repository: /home/juanluis/git-repositories/TFM-BigData
+2025-02-13 18:54:26.784 [info] > git rev-parse --show-toplevel [351ms]
+2025-02-13 18:54:26.784 [info] > git config --get commit.template [363ms]
+2025-02-13 18:54:26.786 [info] > git rev-parse --show-toplevel [29ms]
+2025-02-13 18:54:26.813 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+2025-02-13 18:54:26.858 [info] > git rev-parse --show-toplevel [46ms]
+2025-02-13 18:54:26.921 [info] > git check-ignore -v -z --stdin [50ms]
+2025-02-13 18:54:26.922 [info] > git rev-parse --show-toplevel [21ms]
+2025-02-13 18:54:27.483 [info] > git status -z -uall [470ms]
+2025-02-13 18:54:27.487 [info] > git rev-parse --show-toplevel [436ms]
+2025-02-13 18:54:27.487 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [455ms]
+2025-02-13 18:54:27.584 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [77ms]
+2025-02-13 18:54:29.199 [info] > git config --get --local branch.main.vscode-merge-base [1600ms]
+2025-02-13 18:54:29.213 [info] > git config --get commit.template [1649ms]
+2025-02-13 18:54:29.213 [info] > git rev-parse --show-toplevel [1664ms]
+2025-02-13 18:54:29.215 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-13 18:54:29.334 [info] > git show --textconv :apuntes/ApuntesLennard.tex [105ms]
+2025-02-13 18:54:29.335 [info] > git ls-files --stage -- /home/juanluis/git-repositories/TFM-BigData/apuntes/ApuntesLennard.tex [93ms]
+2025-02-13 18:54:29.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [138ms]
+2025-02-13 18:54:29.760 [info] > git merge-base refs/heads/main refs/remotes/origin/main [395ms]
+2025-02-13 18:54:29.775 [info] > git cat-file -s 6fc981f4691ddf8d18151c87fb72b9076e2b2d4e [426ms]
+2025-02-13 18:54:29.776 [info] > git rev-parse --show-toplevel [449ms]
+2025-02-13 18:54:29.886 [info] > git diff --name-status -z --diff-filter=ADMR a932a8b6b1236aaa63f74a23d601b1bac1f38e0e...refs/remotes/origin/main [112ms]
+2025-02-13 18:54:29.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [458ms]
+2025-02-13 18:54:29.987 [info] > git status -z -uall [34ms]
+2025-02-13 18:54:29.988 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2025-02-13 18:54:30.028 [info] > git config --get commit.template [16ms]
+2025-02-13 18:54:30.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-02-13 18:54:30.135 [info] > git status -z -uall [24ms]
+2025-02-13 18:54:30.143 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2025-02-13 18:54:30.294 [info] > git config --get commit.template [126ms]
+2025-02-13 18:54:30.356 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-02-13 18:54:30.446 [info] > git config --get --local branch.main.github-pr-owner-number [68ms]
+2025-02-13 18:54:30.447 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-13 18:54:30.523 [info] > git status -z -uall [40ms]
+2025-02-13 18:54:30.524 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2025-02-13 18:54:31.048 [info] > git rev-parse --show-toplevel [3ms]

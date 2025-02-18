@@ -1,0 +1,19 @@
+2025-02-12 18:40:11.480 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-12 18:40:11.481 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-12 18:40:11.481 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-12 18:40:11.482 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-12 18:40:12.004 [info] Started local extension host with pid 22717.
+2025-02-12 18:40:12.652 [warning] [REditorSupport.r]: Cannot register 'r.rpath.windows'. This property is already registered.
+2025-02-12 18:40:12.652 [warning] [REditorSupport.r]: Cannot register 'r.rpath.mac'. This property is already registered.
+2025-02-12 18:40:12.652 [warning] [REditorSupport.r]: Cannot register 'r.rpath.linux'. This property is already registered.
+2025-02-12 18:40:13.702 [info] Settings Sync: Token updated for the account juanluserra
+2025-02-12 18:40:14.131 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-12 18:40:14.383 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-02-12 18:40:17.939 [info] [perf] Render performance baseline is 81ms
+2025-02-12 18:40:18.641 [info] Extension host (LocalProcess pid: 22717) is unresponsive.
+2025-02-12 18:40:20.304 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-12 18:40:21.427 [info] Extension host (LocalProcess pid: 22717) is responsive.
+2025-02-12 18:40:21.428 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-02-12 18:40:23.544 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-02-12 18:42:41.068 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/juanluis/.mozilla/firefox/6pn6jctp.default-release/storage/default/https+++www.youtube.com^partitionKey=%28https%2Ckde.org%29/idb/827080127LCo7g%sCD7a%t8adb3a5s.files' failed: No existe el fichero o el directorio (EUNKNOWN) (path: /home/juanluis)
+2025-02-12 18:42:41.072 [error] [File Watcher (universal)] inotify_add_watch on '/home/juanluis/.mozilla/firefox/6pn6jctp.default-release/storage/default/https+++www.youtube.com^partitionKey=%28https%2Ckde.org%29/idb/827080127LCo7g%sCD7a%t8adb3a5s.files' failed: No existe el fichero o el directorio

@@ -1,0 +1,47 @@
+2025-02-13 18:29:17.720 [info] Extension host with pid 32655 started
+2025-02-13 18:29:17.720 [info] Skipping acquiring lock for /home/juanluis/.config/Code/User/workspaceStorage/7425a86f913654f669afc160236f52be.
+2025-02-13 18:29:17.949 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-13 18:29:17.987 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-02-13 18:29:17.997 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-13 18:29:18.030 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+2025-02-13 18:29:18.358 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2025-02-13 18:29:18.819 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2025-02-13 18:29:18.880 [info] ExtensionService#_doActivateExtension mathematic.vscode-latex, startup: false, activationEvent: 'onLanguage:latex'
+2025-02-13 18:29:19.691 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-13 18:29:19.696 [info] ExtensionService#_doActivateExtension etmoffat.pip-packages, startup: true, activationEvent: '*'
+2025-02-13 18:29:19.704 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2025-02-13 18:29:19.875 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2025-02-13 18:29:20.193 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-02-13 18:29:20.216 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-13 18:29:20.363 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-13 18:29:20.603 [info] Eager extensions activated
+2025-02-13 18:29:20.974 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:20.977 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:21.004 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:21.023 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:21.277 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:21.298 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:21.373 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:22.250 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:23.053 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:23.204 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:23.597 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:23.639 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:23.907 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:24.073 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:24.095 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:24.264 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:24.297 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:24.306 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:26.000 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 18:29:26.035 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 18:29:26.208 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 18:29:26.857 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 18:29:37.506 [error] ExtensionError: Error in extension tonybaloney.vscode-pets: FAILED to handle event
+    at Ah.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:35498)
+    at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at WO.$acceptConfigurationChanged (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:3150)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:2700
+2025-02-13 18:39:05.366 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

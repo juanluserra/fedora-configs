@@ -1,0 +1,25 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/git-repositories/master_bigdata/MINERIA DE DATOS/Teoría/Proprocesamiento.pdf
+File2[$e]=$HOME/Escritorio/Horario_Cuatri2.pdf
+File3[$e]=$HOME/Documentos/Documentos Escaneados/test-scan.pdf
+File4[$e]=$HOME/git-repositories/TFM-BigData/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf
+File5[$e]=$HOME/Documentos/1º BIG DATA/Horario_Cuatri_1.pdf
+File6[$e]=$HOME/Documentos/PapeleoCiudadano/CitaDNI_2025-02-20.pdf
+File7[$e]=$HOME/Documentos/1º BIG DATA/Horario_Cuatri2.actual.pdf
+Name1[$e]=Proprocesamiento.pdf
+Name2[$e]=Horario_Cuatri2.pdf
+Name3[$e]=test-scan.pdf
+Name4[$e]=BA_Lennart_Töllke.pdf
+Name5[$e]=Horario_Cuatri_1.pdf
+Name6[$e]=CitaDNI_2025-02-20.pdf
+Name7[$e]=Horario_Cuatri2.actual.pdf

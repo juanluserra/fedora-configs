@@ -1,0 +1,646 @@
+[21:05:02.709][Logger] New log placeholder %WS1% registered for /home/juanluis/git-repositories/TFM-BigData .
+[21:05:02.709][Extension] Initializing LaTeX Workshop.
+[21:05:02.954][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[21:05:02.955][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[21:05:03.023][Server] Creating LaTeX Workshop http and websocket server.
+[21:05:03.185][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[21:05:03.251][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":45463} .
+[21:05:03.356][Extension] Extension root: /home/juanluis/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[21:05:03.356][Extension] $PATH: /home/juanluis/.local/bin:/home/juanluis/bin:/home/juanluis/.atuin/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:/usr/lib/jvm/jdk-17.0.12/bin
+[21:05:03.357][Extension] $SHELL: /usr/bin/zsh
+[21:05:03.357][Extension] $LANG: es_ES.UTF-8
+[21:05:03.358][Extension] $LC_ALL: undefined
+[21:05:03.358][Extension] process.platform: linux
+[21:05:03.358][Extension] process.arch: x64
+[21:05:03.358][Extension] vscode.env.appName: Visual Studio Code
+[21:05:03.359][Extension] vscode.env.remoteName: undefined
+[21:05:03.359][Extension] vscode.env.uiKind: 1
+[21:05:03.380][Config] latex-workshop.latex.outDir: "%DIR%/build" .
+[21:05:03.519][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[21:05:03.522][Root] Current workspace folders: ["file://%WS1%"]
+[21:05:03.522][Extension] LaTeX Workshop initialized.
+[21:05:03.523][Root] Try finding root from current workspaceRootDir: file://%WS1% .
+[21:05:03.530][Server] validOrigin is http://127.0.0.1:45463
+[21:05:04.278][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:45463/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZqdWFubHVpcyUyRmdpdC1yZXBvc2l0b3JpZXMlMkZURk0tQmlnRGF0YSUyRlRGTS1MZW5uYXJ0VG9sbGtlJTJGU3VibWlzc2lvbkZpbGVzQ1NHJTJGQkFfTGVubmFydF9UJUMzJUI2bGxrZS5wZGY .
+[21:05:04.280][Cacher][Watcher] Watched file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf with a new .pdf watcher on %WS1%/TFM-LennartTollke/SubmissionFilesCSG .
+[21:05:04.281][Event] FILE_WATCHED: "file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf"
+[21:05:15.362][Cacher] Error loading cache: %WS1%/apuntes/ApuntesLennard.tex . Forcing.
+[21:05:15.374][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:15.631][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:15.632][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:15.865][Cacher] Parsed LaTeX AST in 232.50 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:15.866][File] Calling kpsewhich to resolve article.cls .
+[21:05:16.282][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls'.
+[21:05:16.616][Viewer] Handle data type: open
+[21:05:16.973][File] Calling kpsewhich to resolve -format=.bib test.bib .
+[21:05:17.384][File] kpsewhich returned with '/home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib'.
+[21:05:17.386][Cacher] Updated elements in 1520.71 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:17.388][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:05:17.388][Structure] Structure cleared on undefined root.
+[21:05:17.389][Event] STRUCTURE_UPDATED
+[21:05:17.972][Server] Preview PDF file: file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf
+[21:05:18.672][Viewer] Handle data type: loaded
+[21:05:18.673][Event] VIEWER_PAGE_LOADED
+[21:05:18.703][Root] Found files that might be root, choose the first one: %WS1%/apuntes/ApuntesLennard.tex,%WS1%/apuntes/ApuntesHipocampo.tex,%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke_LaTeX_Source/thesis.tex .
+[21:05:18.704][Root] Root file changed: from %WS1%/apuntes/ApuntesLennard.tex to %WS1%/apuntes/ApuntesLennard.tex, langID latex . Refresh dependencies
+[21:05:18.704][Event] ROOT_FILE_CHANGED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:05:18.704][Cacher][Watcher] Reset.
+[21:05:18.705][Cacher][Watcher] Reset.
+[21:05:18.706][Cacher] Adding %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.706][Cacher][Watcher] Watched file://%WS1%/apuntes/ApuntesLennard.tex with a new .* watcher on %WS1%/apuntes .
+[21:05:18.707][Event] FILE_WATCHED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:05:18.707][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.708][Event] ROOT_FILE_SEARCHED
+[21:05:18.728][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.729][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.863][Cacher] Parsed LaTeX AST in 133.99 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.864][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:05:18.875][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:05:18.876][Cacher] Updated elements in 12.24 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.877][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:05:18.879][Structure] Structure force updated with 0 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:05:18.879][Event] STRUCTURE_UPDATED
+[21:05:18.880][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:05:18.909][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:05:18.911][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:05:18.911][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:24:02.895][Root] Current workspace folders: ["file://%WS1%"]
+[21:24:02.895][Root] Try finding root from magic comment.
+[21:24:02.913][Root] Try finding root from active editor.
+[21:24:02.914][Root] Found root file from active editor: %WS1%/apuntes/ApuntesLennard.tex
+[21:24:02.914][Root] Keep using the same root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:24:02.914][Event] ROOT_FILE_SEARCHED
+[21:24:02.915][Event] STRUCTURE_UPDATED
+[21:24:02.915][Event] STRUCTURE_UPDATED
+[21:25:28.096][Event] STRUCTURE_UPDATED
+[21:27:28.977][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:27:29.046][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:27:29.049][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.050][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.051][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:27:29.052][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:27:29.052][Build] The languageId of the document: latex
+[21:27:29.052][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:27:29.053][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:27:29.053][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:27:29.056][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.056][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.058][Build][Recipe] Preparing to run recipe: latexmk.
+[21:27:29.058][Build][Recipe] Prepared 1 tools.
+[21:27:29.405][Build][Recipe] `pdflatex` is provided by MiKTeX.
+[21:27:29.406][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:27:29.416][Cacher] Parsed LaTeX AST in 359.14 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.416][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:27:29.451][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:27:29.452][Build] env: {}
+[21:27:29.452][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:27:29.453][Build] cwd: %WS1%/apuntes
+[21:27:29.473][Build] LaTeX build process spawned with PID 20094.
+[21:27:29.516][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:27:29.519][Cacher] Updated elements in 103.25 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.520][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:27:29.522][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:29.522][Event] STRUCTURE_UPDATED
+[21:27:31.871][Parser][TexLog] Logged 0 messages.
+[21:27:31.871][Build] Finished a step in recipe with PID 20094.
+[21:27:31.872][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:27:31.872][Event] BUILD_DONE
+[21:27:31.873][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:27:31.873][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:27:31.876][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:27:31.900][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:27:31.902][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:27:31.902][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:21.245][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:21.314][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:29:21.318][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.319][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.319][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:29:21.319][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:21.320][Build] The languageId of the document: latex
+[21:29:21.320][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:21.320][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:29:21.321][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:21.323][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.323][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.324][Build][Recipe] Preparing to run recipe: latexmk.
+[21:29:21.324][Build][Recipe] Prepared 1 tools.
+[21:29:21.325][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:29:21.326][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:29:21.326][Build] env: {}
+[21:29:21.327][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:21.328][Build] cwd: %WS1%/apuntes
+[21:29:21.348][Build] LaTeX build process spawned with PID 20796.
+[21:29:21.416][Cacher] Parsed LaTeX AST in 92.80 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.416][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:29:21.425][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:29:21.427][Cacher] Updated elements in 10.82 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.428][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:21.429][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:21.429][Event] STRUCTURE_UPDATED
+[21:29:23.394][Parser][TexLog] Logged 0 messages.
+[21:29:23.395][Build] Finished a step in recipe with PID 20796.
+[21:29:23.395][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:23.396][Event] BUILD_DONE
+[21:29:23.396][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:29:23.396][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:29:23.398][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:23.422][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:29:23.423][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:29:23.423][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:29.220][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:29.289][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:29:29.290][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.290][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.290][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:29:29.290][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:29.291][Build] The languageId of the document: latex
+[21:29:29.291][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:29.291][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:29:29.291][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:29.293][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.293][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.294][Build][Recipe] Preparing to run recipe: latexmk.
+[21:29:29.295][Build][Recipe] Prepared 1 tools.
+[21:29:29.296][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:29:29.297][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:29:29.298][Build] env: {}
+[21:29:29.298][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:29.298][Build] cwd: %WS1%/apuntes
+[21:29:29.318][Build] LaTeX build process spawned with PID 20867.
+[21:29:29.378][Cacher] Parsed LaTeX AST in 85.00 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.379][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:29:29.389][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:29:29.390][Cacher] Updated elements in 11.64 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.391][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:29.392][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:29.392][Event] STRUCTURE_UPDATED
+[21:29:31.453][Parser][TexLog] Logged 0 messages.
+[21:29:31.453][Build] Finished a step in recipe with PID 20867.
+[21:29:31.454][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:31.454][Event] BUILD_DONE
+[21:29:31.454][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:29:31.454][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:29:31.456][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:31.484][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:29:31.485][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:29:31.485][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:52.611][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:52.681][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:29:52.682][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.682][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.683][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:29:52.683][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:29:52.683][Build] The languageId of the document: latex
+[21:29:52.684][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:52.684][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:29:52.684][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:52.686][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.686][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.687][Build][Recipe] Preparing to run recipe: latexmk.
+[21:29:52.687][Build][Recipe] Prepared 1 tools.
+[21:29:52.688][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:29:52.689][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:29:52.690][Build] env: {}
+[21:29:52.690][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:29:52.690][Build] cwd: %WS1%/apuntes
+[21:29:52.709][Build] LaTeX build process spawned with PID 21027.
+[21:29:52.780][Cacher] Parsed LaTeX AST in 93.82 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.781][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:29:52.791][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:29:52.791][Cacher] Updated elements in 10.77 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.792][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:29:52.793][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:52.794][Event] STRUCTURE_UPDATED
+[21:29:56.332][Parser][TexLog] Logged 0 messages.
+[21:29:56.333][Build] Finished a step in recipe with PID 21027.
+[21:29:56.333][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:29:56.334][Event] BUILD_DONE
+[21:29:56.334][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:29:56.334][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:29:56.336][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:29:56.361][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:29:56.362][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:29:56.363][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:30:18.991][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:30:19.060][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:30:19.061][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.061][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.062][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:30:19.062][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:30:19.062][Build] The languageId of the document: latex
+[21:30:19.062][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:30:19.063][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:30:19.063][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:30:19.065][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.066][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.067][Build][Recipe] Preparing to run recipe: latexmk.
+[21:30:19.068][Build][Recipe] Prepared 1 tools.
+[21:30:19.069][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:30:19.072][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:30:19.072][Build] env: {}
+[21:30:19.072][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:30:19.074][Build] cwd: %WS1%/apuntes
+[21:30:19.098][Build] LaTeX build process spawned with PID 21213.
+[21:30:19.188][Cacher] Parsed LaTeX AST in 122.40 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.189][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:30:19.199][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:30:19.200][Cacher] Updated elements in 11.49 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.201][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:30:19.201][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:19.202][Event] STRUCTURE_UPDATED
+[21:30:22.774][Parser][TexLog] Logged 0 messages.
+[21:30:22.775][Build] Finished a step in recipe with PID 21213.
+[21:30:22.775][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:30:22.775][Event] BUILD_DONE
+[21:30:22.775][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:30:22.776][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:30:22.777][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:30:22.798][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:30:22.799][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:30:22.799][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:31:04.775][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:31:04.842][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:31:04.843][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.843][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.844][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:31:04.844][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:31:04.844][Build] The languageId of the document: latex
+[21:31:04.845][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:31:04.845][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:31:04.845][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:31:04.849][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.850][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.873][Build][Recipe] Preparing to run recipe: latexmk.
+[21:31:04.874][Build][Recipe] Prepared 1 tools.
+[21:31:04.875][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:31:04.881][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:31:04.882][Build] env: {}
+[21:31:04.882][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:31:04.883][Build] cwd: %WS1%/apuntes
+[21:31:04.903][Build] LaTeX build process spawned with PID 21544.
+[21:31:04.937][Cacher] Parsed LaTeX AST in 87.48 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.938][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:31:04.949][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:31:04.950][Cacher] Updated elements in 12.24 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.951][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:31:04.951][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:04.952][Event] STRUCTURE_UPDATED
+[21:31:06.956][Parser][TexLog] Logged 0 messages.
+[21:31:06.957][Build] Finished a step in recipe with PID 21544.
+[21:31:06.958][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:31:06.958][Event] BUILD_DONE
+[21:31:06.959][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:31:06.959][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:31:06.961][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:31:06.983][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:31:06.984][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:31:06.984][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:31:41.454][Viewer] Handle data type: reverse_synctex
+[21:31:41.455][Locator] Backward from file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf at x=480.6818181818181, y=192.79909090909095 on page 29.
+[21:31:41.457][SyncTeX] file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.synctex, file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.synctex.gz not found.
+[21:31:41.658][Viewer] Handle data type: copy
+[21:32:27.739][Event] STRUCTURE_UPDATED
+[21:33:26.256][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:26.323][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:33:26.325][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.326][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.326][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:33:26.326][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:26.326][Build] The languageId of the document: latex
+[21:33:26.327][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:26.327][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:33:26.327][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:26.329][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.329][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.330][Build][Recipe] Preparing to run recipe: latexmk.
+[21:33:26.331][Build][Recipe] Prepared 1 tools.
+[21:33:26.332][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:33:26.333][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:33:26.333][Build] env: {}
+[21:33:26.334][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:26.334][Build] cwd: %WS1%/apuntes
+[21:33:26.352][Build] LaTeX build process spawned with PID 22583.
+[21:33:26.457][Cacher] Parsed LaTeX AST in 127.75 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.457][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:33:26.466][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:33:26.467][Cacher] Updated elements in 10.00 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.468][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:26.469][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:26.470][Event] STRUCTURE_UPDATED
+[21:33:28.465][Parser][TexLog] Logged 0 messages.
+[21:33:28.466][Build] Finished a step in recipe with PID 22583.
+[21:33:28.466][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:28.466][Event] BUILD_DONE
+[21:33:28.466][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:33:28.467][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:33:28.468][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:28.499][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:33:28.500][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:33:28.500][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:42.089][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:42.156][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:33:42.157][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.158][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.158][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:33:42.159][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:42.159][Build] The languageId of the document: latex
+[21:33:42.159][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:42.160][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:33:42.160][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:42.164][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.164][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.185][Build][Recipe] Preparing to run recipe: latexmk.
+[21:33:42.186][Build][Recipe] Prepared 1 tools.
+[21:33:42.187][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:33:42.190][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:33:42.190][Build] env: {}
+[21:33:42.190][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:42.191][Build] cwd: %WS1%/apuntes
+[21:33:42.210][Build] LaTeX build process spawned with PID 22692.
+[21:33:42.242][Cacher] Parsed LaTeX AST in 77.31 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.242][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:33:42.257][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:33:42.258][Cacher] Updated elements in 15.89 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.258][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:42.259][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:42.259][Event] STRUCTURE_UPDATED
+[21:33:44.652][Parser][TexLog] Logged 0 messages.
+[21:33:44.653][Build] Finished a step in recipe with PID 22692.
+[21:33:44.654][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:44.654][Event] BUILD_DONE
+[21:33:44.654][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:33:44.654][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:33:44.656][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:44.684][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:33:44.687][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:33:44.687][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:47.960][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:48.021][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:33:48.022][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.023][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.023][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:33:48.023][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:33:48.024][Build] The languageId of the document: latex
+[21:33:48.024][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:48.024][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:33:48.024][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:48.026][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.026][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.027][Build][Recipe] Preparing to run recipe: latexmk.
+[21:33:48.027][Build][Recipe] Prepared 1 tools.
+[21:33:48.029][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:33:48.030][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:33:48.031][Build] env: {}
+[21:33:48.031][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:33:48.032][Build] cwd: %WS1%/apuntes
+[21:33:48.054][Build] LaTeX build process spawned with PID 22733.
+[21:33:48.137][Cacher] Parsed LaTeX AST in 110.75 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.138][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:33:48.151][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:33:48.152][Cacher] Updated elements in 14.57 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.153][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:33:48.153][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:48.154][Event] STRUCTURE_UPDATED
+[21:33:52.046][Parser][TexLog] Logged 0 messages.
+[21:33:52.047][Build] Finished a step in recipe with PID 22733.
+[21:33:52.048][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:33:52.048][Event] BUILD_DONE
+[21:33:52.048][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:33:52.048][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:33:52.050][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:52.070][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:33:52.071][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:33:52.071][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:33:54.930][Event] STRUCTURE_UPDATED
+[21:35:08.574][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:35:08.635][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:35:08.636][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.636][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.637][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:35:08.637][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:35:08.637][Build] The languageId of the document: latex
+[21:35:08.637][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:35:08.638][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:35:08.638][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:35:08.639][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.640][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.641][Build][Recipe] Preparing to run recipe: latexmk.
+[21:35:08.641][Build][Recipe] Prepared 1 tools.
+[21:35:08.642][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:35:08.644][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:35:08.644][Build] env: {}
+[21:35:08.644][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:35:08.645][Build] cwd: %WS1%/apuntes
+[21:35:08.666][Build] LaTeX build process spawned with PID 23267.
+[21:35:08.730][Cacher] Parsed LaTeX AST in 89.94 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.731][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:35:08.740][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:35:08.740][Cacher] Updated elements in 9.70 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.741][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:35:08.741][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:08.741][Event] STRUCTURE_UPDATED
+[21:35:12.443][Parser][TexLog] Logged 0 messages.
+[21:35:12.443][Build] Finished a step in recipe with PID 23267.
+[21:35:12.444][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:35:12.444][Event] BUILD_DONE
+[21:35:12.444][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:35:12.445][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:35:12.446][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:35:12.473][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:35:12.474][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:35:12.474][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:36:52.537][Viewer] Handle data type: copy
+[21:37:24.676][Event] STRUCTURE_UPDATED
+[21:37:46.830][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:37:46.896][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:37:46.899][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:46.900][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:46.900][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:37:46.901][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:37:46.901][Build] The languageId of the document: latex
+[21:37:46.901][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:37:46.902][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:37:46.902][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:37:46.904][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:46.904][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:46.905][Build][Recipe] Preparing to run recipe: latexmk.
+[21:37:46.905][Build][Recipe] Prepared 1 tools.
+[21:37:46.906][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:37:46.908][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:37:46.909][Build] env: {}
+[21:37:46.909][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:37:46.910][Build] cwd: %WS1%/apuntes
+[21:37:46.927][Build] LaTeX build process spawned with PID 24291.
+[21:37:46.997][Cacher] Parsed LaTeX AST in 92.97 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:46.998][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:37:47.007][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:37:47.010][Cacher] Updated elements in 12.22 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:47.011][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:37:47.012][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:47.012][Event] STRUCTURE_UPDATED
+[21:37:49.300][Parser][TexLog] Logged 0 messages.
+[21:37:49.301][Build] Finished a step in recipe with PID 24291.
+[21:37:49.301][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:37:49.302][Event] BUILD_DONE
+[21:37:49.302][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:37:49.302][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:37:49.304][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:37:49.339][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:37:49.340][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:37:49.341][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:38:58.452][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:38:58.518][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:38:58.520][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.521][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.521][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:38:58.522][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:38:58.522][Build] The languageId of the document: latex
+[21:38:58.522][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:38:58.522][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:38:58.523][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:38:58.524][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.524][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.526][Build][Recipe] Preparing to run recipe: latexmk.
+[21:38:58.527][Build][Recipe] Prepared 1 tools.
+[21:38:58.528][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:38:58.530][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:38:58.531][Build] env: {}
+[21:38:58.531][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:38:58.531][Build] cwd: %WS1%/apuntes
+[21:38:58.553][Build] LaTeX build process spawned with PID 24760.
+[21:38:58.645][Cacher] Parsed LaTeX AST in 120.66 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.646][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:38:58.662][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:38:58.663][Cacher] Updated elements in 16.87 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.663][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:38:58.664][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:38:58.664][Event] STRUCTURE_UPDATED
+[21:39:00.612][Parser][TexLog] Logged 0 messages.
+[21:39:00.613][Build] Finished a step in recipe with PID 24760.
+[21:39:00.613][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:00.613][Event] BUILD_DONE
+[21:39:00.614][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:39:00.614][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:39:00.616][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:39:00.641][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:39:00.642][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:39:00.642][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:39:08.859][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:39:08.920][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:39:08.921][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:08.922][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:08.922][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:39:08.923][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:39:08.923][Build] The languageId of the document: latex
+[21:39:08.923][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:39:08.924][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:39:08.924][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:39:08.926][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:08.926][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:08.927][Build][Recipe] Preparing to run recipe: latexmk.
+[21:39:08.927][Build][Recipe] Prepared 1 tools.
+[21:39:08.928][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:39:08.930][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:39:08.930][Build] env: {}
+[21:39:08.930][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:39:08.931][Build] cwd: %WS1%/apuntes
+[21:39:08.949][Build] LaTeX build process spawned with PID 24845.
+[21:39:09.035][Cacher] Parsed LaTeX AST in 108.67 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:09.035][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:39:09.046][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:39:09.046][Cacher] Updated elements in 10.87 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:09.047][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:39:09.048][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:09.048][Event] STRUCTURE_UPDATED
+[21:39:13.012][Parser][TexLog] Logged 0 messages.
+[21:39:13.012][Build] Finished a step in recipe with PID 24845.
+[21:39:13.012][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:39:13.013][Event] BUILD_DONE
+[21:39:13.013][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:39:13.013][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:39:13.015][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:39:13.035][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:39:13.037][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:39:13.038][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:39:53.281][Viewer] Handle data type: reverse_synctex
+[21:39:53.282][Locator] Backward from file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.pdf at x=200.45454545454544, y=608.7081818181819 on page 29.
+[21:39:53.284][SyncTeX] file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.synctex, file://%WS1%/TFM-LennartTollke/SubmissionFilesCSG/BA_Lennart_Töllke.synctex.gz not found.
+[21:39:53.382][Viewer] Handle data type: copy
+[21:40:38.141][Event] STRUCTURE_UPDATED
+[21:42:37.845][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:42:37.910][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:42:37.912][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:37.913][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:37.913][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:42:37.914][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:42:37.914][Build] The languageId of the document: latex
+[21:42:37.914][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:42:37.914][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:42:37.915][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:42:37.916][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:37.917][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:37.918][Build][Recipe] Preparing to run recipe: latexmk.
+[21:42:37.918][Build][Recipe] Prepared 1 tools.
+[21:42:37.919][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:42:37.923][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:42:37.925][Build] env: {}
+[21:42:37.925][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:42:37.926][Build] cwd: %WS1%/apuntes
+[21:42:37.949][Build] LaTeX build process spawned with PID 26195.
+[21:42:38.038][Cacher] Parsed LaTeX AST in 120.50 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:38.038][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:42:38.051][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:42:38.054][Cacher] Updated elements in 15.56 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:38.054][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:42:38.055][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:38.055][Event] STRUCTURE_UPDATED
+[21:42:40.176][Parser][TexLog] Logged 0 messages.
+[21:42:40.176][Build] Finished a step in recipe with PID 26195.
+[21:42:40.177][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:42:40.177][Event] BUILD_DONE
+[21:42:40.177][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:42:40.177][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:42:40.182][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:42:40.205][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:42:40.207][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:42:40.207][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:43:19.774][Event] STRUCTURE_UPDATED
+[21:43:50.189][Event] STRUCTURE_UPDATED
+[21:43:51.305][Extension] onDidSaveTextDocument triggered: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:43:51.371][Cacher][Watcher] "change" emitted on file://%WS1%/apuntes/ApuntesLennard.tex.
+[21:43:51.373][Cacher] Caching %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.373][Build] Auto build started detecting the change of a file: %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.374][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/apuntes/ApuntesLennard.tex"}
+[21:43:51.374][Build] The document of the active editor: file://%WS1%/apuntes/ApuntesLennard.tex
+[21:43:51.374][Build] The languageId of the document: latex
+[21:43:51.374][Build] Building root file: %WS1%/apuntes/ApuntesLennard.tex
+[21:43:51.374][Build][Recipe] Build root file %WS1%/apuntes/ApuntesLennard.tex
+[21:43:51.375][Event] FILE_CHANGED: "file://%WS1%/apuntes/ApuntesLennard.tex"
+[21:43:51.376][Cacher] Updated inputs of %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.377][Cacher] Parse LaTeX AST: %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.377][Build][Recipe] Preparing to run recipe: latexmk.
+[21:43:51.378][Build][Recipe] Prepared 1 tools.
+[21:43:51.379][Build][Recipe] outDir: %WS1%/apuntes/build .
+[21:43:51.381][Build] Recipe step 1 The command is latexmk:["--max-print-line=10000","-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/apuntes/build","%WS1%/apuntes/ApuntesLennard"].
+[21:43:51.381][Build] env: {}
+[21:43:51.381][Build] root: %WS1%/apuntes/ApuntesLennard.tex
+[21:43:51.382][Build] cwd: %WS1%/apuntes
+[21:43:51.403][Build] LaTeX build process spawned with PID 26692.
+[21:43:51.502][Cacher] Parsed LaTeX AST in 125.13 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.502][File] kpsewhich cache hit on article.cls: /home/juanluis/.miktex/texmfs/install/tex/latex/base/article.cls .
+[21:43:51.515][File] kpsewhich cache hit on -format=.bib test.bib: /home/juanluis/.miktex/texmfs/install/bibtex/bib/wsemclassic/test.bib .
+[21:43:51.516][Cacher] Updated elements in 14.01 ms: %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.517][Event] FILE_PARSED: "%WS1%/apuntes/ApuntesLennard.tex"
+[21:43:51.517][Structure] Structure force updated with 1 root sections for %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:51.517][Event] STRUCTURE_UPDATED
+[21:43:55.255][Parser][TexLog] Logged 0 messages.
+[21:43:55.256][Build] Finished a step in recipe with PID 26692.
+[21:43:55.256][Build] Successfully built %WS1%/apuntes/ApuntesLennard.tex .
+[21:43:55.256][Event] BUILD_DONE
+[21:43:55.257][Viewer] Call refreshExistingViewer: file://%WS1%/apuntes/build/ApuntesLennard.pdf .
+[21:43:55.257][Viewer] Not found PDF viewers to refresh: file://%WS1%/apuntes/build/ApuntesLennard.pdf
+[21:43:55.259][Cacher] Parsing .fls %WS1%/apuntes/build/ApuntesLennard.fls .
+[21:43:55.284][Cacher] Found .aux %WS1%/apuntes/build/ApuntesLennard.aux from .fls %WS1%/apuntes/build/ApuntesLennard.fls , parsing.
+[21:43:55.286][Cacher] Parsed .aux %WS1%/apuntes/build/ApuntesLennard.aux .
+[21:43:55.286][Cacher] Parsed .fls %WS1%/apuntes/build/ApuntesLennard.fls .

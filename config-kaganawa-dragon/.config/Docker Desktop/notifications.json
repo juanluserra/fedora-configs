@@ -1,0 +1,38 @@
+{
+	"notifications": [
+		{
+			"guid": "b5b9e37b-cbe6-4632-8209-da98276b9107",
+			"timestamp": 1739143035054,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"ephemeral": false,
+				"icon": "download",
+				"message": "Docker Desktop 4.38.0 is available.",
+				"actionText": "Download",
+				"action": {
+					"action": "update-available"
+				},
+				"type": "update"
+			}
+		},
+		{
+			"guid": "6935b6f3-537e-48c8-a8be-0387d5841065",
+			"timestamp": 1739143044070,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "More Docker. Easy Access. New Streamlined Plans.",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "Learn more",
+				"action": {
+					"action": "open-external-url",
+					"params": {
+						"url": "https://www.docker.com/blog/november-2024-updated-plans-announcement/"
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,904 @@
+{
+  "Name": "CurseClient",
+  "Process": "Curse.Agent.Host",
+  "PID": 7631,
+  "Arguments": [
+    "/tmp/.mount_CurseF7yqtSd/resources/app.asar.unpacked/plugins/curse/linux/Curse.Agent.Host",
+    "--port=61439",
+    "--to-port=61459",
+    "--pid=7323",
+    "--appDataPath=/home/juanluis/.config/CurseForge",
+    "--clientId=Overwolf"
+  ],
+  "ProcessStart": "2025-02-11T20:03:20.7643579Z",
+  "Version": "1.271.0.23001",
+  "BuildDate": "2000-01-01T11:46:42Z",
+  "Start": "2025-02-11T21:03:21.7260613+01:00",
+  "Log": [
+{
+  "timestamp": "2025-02-11T21:03:21.7089297+01:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Failed to modified BuiltInConverters: Cannot set initonly static field 'BuiltInConverters' after type 'Newtonsoft.Json.Serialization.DefaultContractResolver' is initialized."
+},
+{
+  "timestamp": "2025-02-11T21:03:21.7198536+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Startup Name: CurseForge, Version: 1.271.0.23001"
+},
+{
+  "timestamp": "2025-02-11T21:03:21.7211449+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Running Mods Agent with args: --port=61439,--to-port=61459,--pid=7323,--appDataPath=/home/juanluis/.config/CurseForge,--clientId=Overwolf"
+},
+{
+  "timestamp": "2025-02-11T21:03:21.7274757+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "start monitor process: 7323"
+},
+{
+  "timestamp": "2025-02-11T21:03:23.5725244+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Unable to load game instances from disk. No file was found at: /home/juanluis/.config/CurseForge/agent/GameInstances/ModpackGameInstances.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:23.8204598+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Mods Agent server started on port 61439"
+},
+{
+  "timestamp": "2025-02-11T21:03:23.9008593+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Web Socket session connected"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.1664944+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Update simultaneous downloads '1' => '3'"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.1691648+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "UpdateOverrideLauncher"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.1712186+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing Curse Mods Agent"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.1751906+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "update client Info 'ey'..."
+},
+{
+  "timestamp": "2025-02-11T21:03:24.2394847+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Network connected and internet available"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.2741812+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "AddonServiceClient - CfCore Url: https://api.curseforge.com"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.7262372+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Attempt #1 of 2 on GameDatabase -> GetRemoteItems"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.7275593+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Getting Games from server"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.8105761+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Loaded 26 games from the server"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.8108686+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Saving games to local cache at /home/juanluis/.config/CurseForge/agent/gamesCache.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.8681014+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "[GameRepository] Completed download of cache",
+  "data": {
+    "name": "Games",
+    "elapsedTime": "129,00"
+  }
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9048888+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing local databases..."
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9057683+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing game instances."
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9446614+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Radium.Addons.AddonGameInstance'"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9455717+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Games.Minecraft.MinecraftGameInstance'"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9461473+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Radium.Addons.AddonGameInstance"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9967832+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] LoadInstancesFromDisk loaded 0 instances"
+},
+{
+  "timestamp": "2025-02-11T21:03:24.9970948+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Games.Minecraft.MinecraftGameInstance"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6011118+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] LoadInstancesFromDisk loaded 3 instances"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6174705+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Game Minecraft (Id: 432) was detected at /home/juanluis/Documents/curseforge/minecraft/Instances/Prehistoric World - Dinosaurs & Adventure _ QUESTS UPDATE/"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6414537+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initialized game Prehistoric World - Dinosaurs & Adventure | QUESTS UPDATE instance"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6415997+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Game Minecraft (Id: 432) was detected at /home/juanluis/Documents/curseforge/minecraft/Instances/Crucial 2 - The Refresh Update/"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6432304+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initialized game Crucial 2 - The Refresh Update instance"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6485034+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Game instances initialization completed. Operation took 739 ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6495606+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing Modpack instances."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.652285+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Running startup game detection"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6608256+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Performing quick game detection for 26 games..."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6767726+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Completed startup game detection. We have a total of 2 detected game instances. Operation took 24 ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6801814+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6816697+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6822334+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Beginning initialization of InstanceManager"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6836818+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Setting file watcher on instance directory /home/juanluis/Documents/curseforge/minecraft/Instances"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.6898263+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Pre-Fetching latest files for instance: Prehistoric World - Dinosaurs & Adventure | QUESTS UPDATE"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7714461+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "InstanceManager initialized."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7730463+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Refreshing Minecraft instances list"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7731862+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing tasks"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7754569+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Resolving Minecraft instances list from /home/juanluis/Documents/curseforge/minecraft/Instances"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7780694+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Skipping existing minecraft game instance at /home/juanluis/Documents/curseforge/minecraft/Instances/Prehistoric World - Dinosaurs & Adventure _ QUESTS UPDATE"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7781943+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Skipping existing minecraft game instance at /home/juanluis/Documents/curseforge/minecraft/Instances/Crucial 2 - The Refresh Update"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7837674+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Discord RPC client initialized successfully."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7839675+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Initializing Periodic Tasks"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.7865048+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on InstalledAddonDatabase -> GetAddons"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.8149024+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "update client Info 'ey'..."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.8158802+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Performing addon sync..."
+},
+{
+  "timestamp": "2025-02-11T21:03:25.8243857+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:25.8244768+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:26.0845022+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[ModLoaderDatabase] Completed download of cache",
+  "data": {
+    "name": "Minecraft Modloaders",
+    "elapsedTime": "370,00"
+  }
+},
+{
+  "timestamp": "2025-02-11T21:03:26.2137345+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[MinecraftVersionDatabase] Completed download of cache",
+  "data": {
+    "name": "Minecraft Versions",
+    "elapsedTime": "66,00"
+  }
+},
+{
+  "timestamp": "2025-02-11T21:03:26.2146487+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on InstalledAddonDatabase -> GetAddons"
+},
+{
+  "timestamp": "2025-02-11T21:03:26.2336262+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[AddonSyncManager] Got sync profile Successfully. Got 0 sync game instances"
+},
+{
+  "timestamp": "2025-02-11T21:03:26.3062034+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:26.3062703+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:26.7403758+01:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on InstalledAddonDatabase -> GetModFilesFromServer"
+},
+{
+  "timestamp": "2025-02-11T21:03:26.8313843+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:26.8314719+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:27.4036112+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Pre-Fetching latest files for instance: Crucial 2 - The Refresh Update"
+},
+{
+  "timestamp": "2025-02-11T21:03:27.4052548+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:27.4053098+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:28.0142374+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on InstalledAddonDatabase -> GetModFilesFromServer"
+},
+{
+  "timestamp": "2025-02-11T21:03:30.3497602+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Removing ReadOnly attribute from folder /home/juanluis/Documents/curseforge/minecraft/Instances/Prehistoric World - Dinosaurs & Adventure _ QUESTS UPDATE/"
+},
+{
+  "timestamp": "2025-02-11T21:03:30.4545898+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Deleting all files in Minecraft instance at: /home/juanluis/Documents/curseforge/minecraft/Instances/Prehistoric World - Dinosaurs & Adventure _ QUESTS UPDATE/"
+},
+{
+  "timestamp": "2025-02-11T21:03:30.6521817+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on DeleteFolderInstallTask.Run -> _folder.Delete"
+},
+{
+  "timestamp": "2025-02-11T21:03:30.6821881+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Deleting game instance at /home/juanluis/Documents/curseforge/minecraft/Instances/Prehistoric World - Dinosaurs & Adventure _ QUESTS UPDATE/"
+},
+{
+  "timestamp": "2025-02-11T21:03:30.6890416+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Removing Game Instance ID - 60c08027-7a0d-4240-8fd0-1b51ab7d0fe3"
+},
+{
+  "timestamp": "2025-02-11T21:03:31.6943589+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Saving to disk (a)."
+},
+{
+  "timestamp": "2025-02-11T21:03:31.6963081+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saving MinecraftGameInstance DB with 1 items"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0430105+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "InstallTask fcf4ef69-62cd-4ee9-a090-f61e6e0954ae LaunchMinecraftTask started..."
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0439328+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Validate required Minecraft version prior to launch"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0515036+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Verifying Minecraft version: 1.16.5"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0530306+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0530427+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher found."
+},
+{
+  "timestamp": "2025-02-11T21:03:32.053092+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Minecraft version 1.16.5 already exists... Skipping installation."
+},
+{
+  "timestamp": "2025-02-11T21:03:32.0531277+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Installing Forge mod loader forge-36.2.39."
+},
+{
+  "timestamp": "2025-02-11T21:03:32.3272134+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[Minecraft - Forge Installer] Client patch is already applied, skipping."
+},
+{
+  "timestamp": "2025-02-11T21:03:32.3345048+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on MinecraftVersionInstallTask.Run -> _instance.SaveToDisk"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.5569253+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saved MinecraftGameInstance DB, which took 860ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.5586614+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving GameInstance DB with 0 items"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.604675+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved GameInstance DB, which took 45ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:32.6310389+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saving MinecraftGameInstance DB with 1 items"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6184333+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saved MinecraftGameInstance DB, which took 987ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6203663+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Launching Minecraft instance: Crucial 2 - The Refresh Update"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6432438+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Setting minecraft version.json asset index"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6438585+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[Minecraft] loading version.json from /home/juanluis/Documents/curseforge/minecraft/Install/versions/forge-36.2.39/forge-36.2.39.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6449175+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[Minecraft] Saving version.json to /home/juanluis/Documents/curseforge/minecraft/Install/versions/forge-36.2.39/forge-36.2.39.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6458403+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Setting Minecraft version.json jar location"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.646123+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[Minecraft] loading version.json from /home/juanluis/Documents/curseforge/minecraft/Install/versions/forge-36.2.39/forge-36.2.39.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6475848+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[Minecraft] Saving version.json to /home/juanluis/Documents/curseforge/minecraft/Install/versions/forge-36.2.39/forge-36.2.39.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6552902+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Reading launcher_profiles.json from /home/juanluis/Documents/curseforge/minecraft/Install/launcher_profiles.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6671109+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Launcher args determined as: -Xmx4096m -Xms256m -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US -DlibraryDirectory=\"/home/juanluis/Documents/curseforge/minecraft/Install/libraries\""
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6677457+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Inserting pre-launch profile (version format 3)",
+  "data": {
+    "name": "Crucial 2 - The Refresh Update",
+    "gameDir": "/home/juanluis/Documents/curseforge/minecraft/Instances/Crucial 2 - The Refresh Update/",
+    "lastVersionId": "forge-36.2.39",
+    "javaArgs": "-Xmx4096m -Xms256m -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US -DlibraryDirectory=\"/home/juanluis/Documents/curseforge/minecraft/Install/libraries\"",
+    "resolution": {
+      "height": 768,
+      "width": 1024
+    },
+    "type": "custom",
+    "created": "2025-02-11T20:03:33.6665102Z",
+    "lastUsed": "2025-02-11T20:03:33.6665515Z"
+  }
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6695421+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Saving launcher_profiles.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.6753428+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Writing profile to: /home/juanluis/Documents/curseforge/minecraft/Install/launcher_profiles.json"
+},
+{
+  "timestamp": "2025-02-11T21:03:33.781968+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Process start '/home/juanluis/Documents/curseforge/minecraft/Install/minecraft-launcher' args determined: --workDir \"/home/juanluis/Documents/curseforge/minecraft/Install\""
+},
+{
+  "timestamp": "2025-02-11T21:03:33.7933684+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saving MinecraftGameInstance DB with 1 items"
+},
+{
+  "timestamp": "2025-02-11T21:03:34.5943246+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saved MinecraftGameInstance DB, which took 800ms"
+},
+{
+  "timestamp": "2025-02-11T21:03:34.5946147+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "Starting Process..."
+},
+{
+  "timestamp": "2025-02-11T21:03:34.6039287+01:00",
+  "level": "Info",
+  "thread": 14,
+  "memory": 0.0,
+  "message": "InstallTask fcf4ef69-62cd-4ee9-a090-f61e6e0954ae LaunchMinecraftTask completed"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2084777+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Curse Mods Agent is shutting down"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2087061+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Shutting down periodic tasks"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2089199+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Disabling periodic timers"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2099219+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2099349+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.209941+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2101328+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Shutdown game instances."
+},
+{
+  "timestamp": "2025-02-11T21:14:31.2106632+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saving MinecraftGameInstance DB with 1 items"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.1612994+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saved MinecraftGameInstance DB, which took 950ms"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.1619624+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving GameInstance DB with 0 items"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.1648754+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved GameInstance DB, which took 2ms"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.1721133+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Clearing Discord presence."
+},
+{
+  "timestamp": "2025-02-11T21:14:32.1734049+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Discord RPC client disposed successfully."
+},
+{
+  "timestamp": "2025-02-11T21:14:32.2068804+01:00",
+  "level": "Info",
+  "thread": 17,
+  "memory": 0.0,
+  "message": "Web Socket session disconnected"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.2075573+01:00",
+  "level": "Warn",
+  "thread": 17,
+  "memory": 0.0,
+  "message": "Client disconnected from server"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.307115+01:00",
+  "level": "Warn",
+  "thread": 5,
+  "memory": 0.0,
+  "message": "Parent process is no longer active. Mods Agent will shutdown."
+},
+{
+  "timestamp": "2025-02-11T21:14:32.307272+01:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Parent process exit. Shutting down..."
+},
+{
+  "timestamp": "2025-02-11T21:14:32.3129638+01:00",
+  "level": "Info",
+  "thread": 2,
+  "memory": 0.0,
+  "message": "Shutting down the logger"
+},
+{
+  "timestamp": "2025-02-11T21:14:32.4013788+01:00",
+  "level": "Info",
+  "thread": 2,
+  "memory": 0.0,
+  "message": "Logging worker finished"
+}
+]}

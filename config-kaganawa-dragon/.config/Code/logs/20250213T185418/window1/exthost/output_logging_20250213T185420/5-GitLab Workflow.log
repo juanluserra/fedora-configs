@@ -1,0 +1,28 @@
+2025-02-13T18:54:26:244 [info]: PacProxyAgent not found
+2025-02-13T18:54:29:885 [warning]: There is no GitLab account available with access to suggestions
+2025-02-13T18:54:29:939 [info]: handleRegisterCapability: {
+      "id": "37941b6b-81df-4732-8a5f-21f12053e49f",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-02-13T18:54:30:059 [info]: Extracted urls: []
+2025-02-13T18:54:30:060 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-13T18:54:30:062 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-13T18:54:30:063 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-13T18:54:30:063 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-13T18:54:30:063 [info]: Found 0 projects for urls: []
+2025-02-13T18:54:30:063 [warning]: There is no GitLab account available with access to suggestions
+2025-02-13T18:54:30:296 [warning]: GitExtensionWrapper is missing repository for file:///home/juanluis/git-repositories/TFM-BigData
+2025-02-13T18:54:30:528 [info]: Extracted urls: [
+      "https://github.com/juanluserra/TFM-BigData.git"
+    ]
+2025-02-13T18:54:30:530 [info]: Found 0 projects for urls: [
+      "https://github.com/juanluserra/TFM-BigData.git"
+    ]
+2025-02-13T18:54:30:530 [warning]: There is no GitLab account available with access to suggestions

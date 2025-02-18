@@ -1,0 +1,40 @@
+2025-02-13 18:50:17.794 [info] [main] Log level: Info
+2025-02-13 18:50:17.794 [info] [main] Validating found git in: "git"
+2025-02-13 18:50:17.794 [info] [main] Using git "2.48.1" from "git"
+2025-02-13 18:50:17.794 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-13 18:50:17.794 [info] > git rev-parse --show-toplevel [2425ms]
+2025-02-13 18:50:17.794 [info] > git rev-parse --git-dir --git-common-dir [148ms]
+2025-02-13 18:50:17.794 [info] [Model][openRepository] Opened repository: /home/juanluis/git-repositories/TFM-BigData
+2025-02-13 18:50:17.794 [info] > git rev-parse --show-toplevel [15ms]
+2025-02-13 18:50:17.794 [info] > git config --get commit.template [34ms]
+2025-02-13 18:50:17.858 [info] > git rev-parse --show-toplevel [49ms]
+2025-02-13 18:50:17.921 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [78ms]
+2025-02-13 18:50:17.950 [info] > git rev-parse --show-toplevel [31ms]
+2025-02-13 18:50:19.754 [info] > git rev-parse --show-toplevel [1774ms]
+2025-02-13 18:50:20.287 [info] > git check-ignore -v -z --stdin [514ms]
+2025-02-13 18:50:20.288 [info] > git status -z -uall [453ms]
+2025-02-13 18:50:20.291 [info] > git rev-parse --show-toplevel [382ms]
+2025-02-13 18:50:20.292 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [440ms]
+2025-02-13 18:50:20.404 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [89ms]
+2025-02-13 18:50:20.445 [info] > git config --get --local branch.main.vscode-merge-base [27ms]
+2025-02-13 18:50:20.462 [info] > git config --get commit.template [81ms]
+2025-02-13 18:50:20.462 [info] > git rev-parse --show-toplevel [95ms]
+2025-02-13 18:50:20.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [45ms]
+2025-02-13 18:50:20.825 [info] > git merge-base refs/heads/main refs/remotes/origin/main [305ms]
+2025-02-13 18:50:20.841 [info] > git rev-parse --show-toplevel [341ms]
+2025-02-13 18:50:20.843 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-13 18:50:20.933 [info] > git show --textconv :apuntes/ApuntesLennard.tex [72ms]
+2025-02-13 18:50:20.936 [info] > git ls-files --stage -- /home/juanluis/git-repositories/TFM-BigData/apuntes/ApuntesLennard.tex [61ms]
+2025-02-13 18:50:20.951 [info] > git diff --name-status -z --diff-filter=ADMR a932a8b6b1236aaa63f74a23d601b1bac1f38e0e...refs/remotes/origin/main [111ms]
+2025-02-13 18:50:20.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [404ms]
+2025-02-13 18:50:20.979 [info] > git cat-file -s 6fc981f4691ddf8d18151c87fb72b9076e2b2d4e [29ms]
+2025-02-13 18:50:20.979 [info] > git rev-parse --show-toplevel [54ms]
+2025-02-13 18:50:21.149 [info] > git status -z -uall [38ms]
+2025-02-13 18:50:21.149 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2025-02-13 18:50:21.195 [info] > git config --get commit.template [18ms]
+2025-02-13 18:50:21.257 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-02-13 18:50:21.297 [info] > git status -z -uall [20ms]
+2025-02-13 18:50:21.300 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-02-13 18:50:21.554 [info] > git config --get --local branch.main.github-pr-owner-number [106ms]
+2025-02-13 18:50:21.554 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-13 18:50:21.854 [info] > git rev-parse --show-toplevel [26ms]

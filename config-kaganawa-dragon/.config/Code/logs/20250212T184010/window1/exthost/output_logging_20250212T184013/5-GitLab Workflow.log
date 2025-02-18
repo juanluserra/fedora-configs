@@ -1,0 +1,43 @@
+2025-02-12T18:40:23:047 [info]: PacProxyAgent not found
+2025-02-12T18:40:27:865 [warning]: There is no GitLab account available with access to suggestions
+2025-02-12T18:40:41:004 [info]: handleRegisterCapability: {
+      "id": "c91904d6-608f-4564-9a22-85cbd1d0542c",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-02-12T18:40:41:034 [info]: Extracted urls: []
+2025-02-12T18:40:41:042 [info]: Found 0 projects for urls: []
+2025-02-12T18:40:41:042 [warning]: There is no GitLab account available with access to suggestions
+2025-02-12T18:40:42:168 [info]: Extracted urls: [
+      "https://github.com/LierB/dotfiles.git",
+      "https://github.com/ohmyzsh/ohmyzsh.git",
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T18:40:42:169 [info]: Found 0 projects for urls: [
+      "https://github.com/LierB/dotfiles.git",
+      "https://github.com/ohmyzsh/ohmyzsh.git",
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T18:40:42:170 [warning]: There is no GitLab account available with access to suggestions
+2025-02-12T19:00:21:872 [info]: Extracted urls: [
+      "https://github.com/ohmyzsh/ohmyzsh.git",
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T19:00:21:874 [info]: Extracted urls: [
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T19:00:21:875 [info]: Extracted urls: []
+2025-02-12T19:00:23:108 [info]: More recent project update in progress, discarding findings for urls: [
+      "https://github.com/ohmyzsh/ohmyzsh.git",
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T19:00:23:108 [info]: More recent project update in progress, discarding findings for urls: [
+      "https://github.com/dylanaraps/neofetch.git"
+    ]
+2025-02-12T19:00:23:109 [info]: Found 0 projects for urls: []
